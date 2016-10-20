@@ -7,8 +7,6 @@ date: 2016-10-19
 permalink: TED-learning-lang
 description: "TED Talk about the benefits of language learning"
 ---
-## Four Reasons to Learn a New Language 
-
 **Key Concepts**  
 - If you already speak English, is there any point in learning another language? 
 - Why do something or acquire a skill that is "useless"?  
@@ -24,6 +22,7 @@ blow [your] mind (blew, blown, phrasal verb)
 
 **Main Activity**  
 Listen to [this TED Talk](https://www.ted.com/talks/john_mcwhorter_4_reasons_to_learn_a_new_language) to evaluate John McWorther's argument for learning languages. As a bonus, catch a grammatical "mistake" he makes. What do such mistakes tell you about English? 
+
 <!--- 
 Mistake one: "me either" is used without clear negation in the previous sentence. "Me neither" would have sounded better. 
 
