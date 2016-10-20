@@ -2,14 +2,9 @@
 layout: default
 title: Blog
 ---
-<ul class="posts">
-
   {% for post in site.categories.blog %}
-    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-    <li>{{post.description}}</li>
-    <li> {{post.excerpt }}</li>
+    <h4>{{ post.title }}</h4>
+    <p>{{post.excerpt}} <a href="{{ post.url }}">continue reading...</a></p>
     
-  
   {% endfor %}
     
-</ul>
