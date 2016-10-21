@@ -4,7 +4,7 @@ category: blog
 title: "The Self-Contained Illusion"
 tags: education, lesson planning
 date: 2016-10-20
-permalink: hello-world
+permalink: /blog/self-contained-illusion
 description: "This post is an introduction to the concept behind my blog"
 ---
 There's a growing trend to fit as much as possible into self-contained lessons. The logic of this stems from the brutal reality of teaching: students often miss lessons, don't do homework and otherwise lead busy lives. That's why many schools only offer self contained lessons: dealing with the chaos of students who missed a lesson last week that was necessary in order to participate in today's lesson quickly highlights the allure of self-contained lessons. This phenomenon isn't only taking place with English; drop in yoga classes share the same philosophy. As far as I can tell, the martial arts are about the last hold out in the world of training and adult education that insist on mastering forms and sequential learning under the critical guidance of a teacher. 

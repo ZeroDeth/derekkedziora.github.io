@@ -4,7 +4,7 @@ category: lesson
 title: "Four Reasons to Learn a New Language"
 tags: listening
 date: 2016-10-19
-permalink: TED-learning-lang
+permalink: /lessons/TED-learning-lang
 description: "TED Talk about the benefits of language learning"
 ---
 **Key Concepts**  
