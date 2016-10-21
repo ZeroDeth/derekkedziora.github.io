@@ -2,7 +2,7 @@
 layout: default
 title: CV
 ---
-[Download as a PDF](derek_cv.pdf)
+[Download my CV as a PDF](derek_cv.pdf)
 
 ### Derek Kedziora
 me@derek.com.ua  
