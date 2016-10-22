@@ -1,30 +1,12 @@
 ---
 layout: default
-permalink: /lessons
+permalink: /lessons/
 ---
-<body></body>
+<p>View lessons in chronological order below or organized by <a href="/tags">tag</a></p>
 {% for post in site.categories.lesson %}
     <p><b>{{ post.title }}</b><br>
     {{post.description}}<br>
-    Tags: {{post.tags}}<br>
     <a href="{{ post.url }}"" target="_blank">View Full Lesson</a></li></p>
   {% endfor %}
 <footer></footer>
 </body>
-
-<!---
- {% capture tags %}
-  {% for tag in site.tags %}
-    {{ tag[0] }}
-  {% endfor %}
-{% endcapture %}
-{% assign sortedtags = tags | split:' ' | sort %}
-{% for tag in sortedtags %}
-  <h3 id="{{ tag }}">{{ tag }}</h3>
-  <ul>
-  {% for post in site.tags[tag] %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-  </ul>
-{% endfor %}   
-    -->

@@ -2,7 +2,7 @@
 layout: default
 category: blog
 title: "The Self-Contained Illusion"
-tags: ["education", "lesson planning"]
+tags: ["education", "lesson-planning"]
 date: 2016-10-20
 permalink: /blog/self-contained-illusion
 description: "This post is an introduction to the concept behind my blog"
