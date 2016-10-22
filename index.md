@@ -4,7 +4,7 @@ title: Derek Kedziora
 ---
 ### Derek Kedziora
 - English Teacher
-- Linguistic consultant
+- Linguistic Consultant
 
 On this site, you can find lesson outlines that I've created as well as my blog that combines topics of both professional and personal interest. 
 
