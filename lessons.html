@@ -2,7 +2,9 @@
 layout: default
 permalink: /lessons/
 ---
-<p><a href="/tags">Browse by tag</a></p>
+<div align="center">
+<p>Browse by: <a href="/tags/">Tag</a> / Chronologically <a href="/blog/">[blog]</a> / <a href="/lessons/">[lessons]</a></p>
+</div>
 {% for post in site.categories.lesson %}
     <p><b>{{ post.title }}</b><br>
     {{post.description}}<br>
