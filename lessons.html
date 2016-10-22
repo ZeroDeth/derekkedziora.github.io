@@ -1,11 +1,13 @@
 ---
 layout: default
+permalink: /lessons
 ---
 <body></body>
 {% for post in site.categories.lesson %}
-    <h4><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li></h4>
-    <p>{{post.description}}<br> -->    
-Tags: {{post.tags}}    </p>
+    <p><b>{{ post.title }}</b><br>
+    {{post.description}}<br>
+    Tags: {{post.tags}}<br>
+    <a href="{{ post.url }}"" target="_blank">View Full Lesson</a></li></p>
   {% endfor %}
 <footer></footer>
 </body>
@@ -17,7 +19,6 @@ Tags: {{post.tags}}    </p>
   {% endfor %}
 {% endcapture %}
 {% assign sortedtags = tags | split:' ' | sort %}
-
 {% for tag in sortedtags %}
   <h3 id="{{ tag }}">{{ tag }}</h3>
   <ul>

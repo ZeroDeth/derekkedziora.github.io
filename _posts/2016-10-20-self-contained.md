@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 category: blog
 title: "The Self-Contained Illusion"
 tags: education, lesson planning
@@ -7,6 +7,7 @@ date: 2016-10-20
 permalink: /blog/self-contained-illusion
 description: "This post is an introduction to the concept behind my blog"
 ---
+#### The Self-Contained Illusion
 There's a growing trend to fit as much as possible into self-contained lessons. The logic of this stems from the brutal reality of teaching: students often miss lessons, don't do homework and otherwise lead busy lives. That's why many schools only offer self contained lessons: dealing with the chaos of students who missed a lesson last week that was necessary in order to participate in today's lesson quickly highlights the allure of self-contained lessons. This phenomenon isn't only taking place with English; drop in yoga classes share the same philosophy. As far as I can tell, the martial arts are about the last hold out in the world of training and adult education that insist on mastering forms and sequential learning under the critical guidance of a teacher. 
 
 This is all well and good as far as it goes. It's certainly a reflection of our reality, but it is far from the best way to learn. Now that I'm forced to make many of my classes self contained, there is a push for self-contained segments within each class: each twenty minutes of a sixty minute class becoming a mini-lesson that could stand in isolation. The reasoning is impeccable – if half of the students are five to ten minutes late and understanding the core section of the class builds on what was presented during the warmer, what's the point? We're at the border, or perhaps past, the point of how much further this reductionism can go without entirely losing any semblance of education. 

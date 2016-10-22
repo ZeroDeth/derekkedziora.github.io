@@ -1,5 +1,5 @@
 ---
-layout: lesson
+layout: default
 category: lesson
 title: "Four Reasons to Learn a New Language"
 tags: listening
@@ -7,6 +7,7 @@ date: 2016-10-19
 permalink: /lessons/TED-learning-lang
 description: "TED Talk about the benefits of language learning"
 ---
+#### Four Reasons to Learn a New Language 
 **Key Concepts**  
 - If you already speak English, is there any point in learning another language? 
 - Why do something or acquire a skill that is "useless"?  
