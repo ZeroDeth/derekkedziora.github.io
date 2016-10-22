@@ -3,9 +3,11 @@ layout: default
 title: Blog
 permalink: /blog
 ---
+<html>
 {% for post in site.categories.blog %}
     <p><b>{{ post.title }}</b><br>
     {{post.description}}<br>
     Tags: {{post.tags}}<br>
     <a href="{{ post.url }}" target="_blank">Read full post</a></p>
     {% endfor %}
+    </html>
