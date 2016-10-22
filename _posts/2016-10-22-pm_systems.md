@@ -4,7 +4,7 @@ category: lesson
 title: Project Management and Personal Productivity
 tags: ["task-based-learning", "agile", "project-management", "productivity"]
 date: 2016-10-22
-permalink: /lessons/pm-systems
+permalink: "/lessons/pm-systems"
 description: "A research based lesson about project management systems such as scrum"
 ---
 #### Project Management and Personal Productivity
@@ -25,6 +25,6 @@ The Wikipedia article about [Scrum](https://en.wikipedia.org/wiki/Scrum_(softwar
 
 If you are already familiar with this approach, there are many others out there such as [the OODA loop](https://en.wikipedia.org/wiki/OODA_loop) or [the Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System). You can also look at some popular personal task management systems such as [GTD](https://hamberg.no/gtd/). 
 
-**Reflection Questions**
-- What makes a productivity system work or not work?   
+**Reflection Questions**  
+- What makes a productivity system work or not work?  
 - How can the ideas that you read about be implemented either personally or professionally? 
