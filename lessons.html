@@ -1,10 +1,16 @@
 ---
 layout: default
 ---
-<!--- <body></body>
+<body></body>
 {% for post in site.categories.lesson %}
     <h4><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li></h4>
-    <p>{{post.description}}<br> -->
+    <p>{{post.description}}<br> -->    
+Tags: {{post.tags}}    </p>
+  {% endfor %}
+<footer></footer>
+</body>
+
+<!---
  {% capture tags %}
   {% for tag in site.tags %}
     {{ tag[0] }}
@@ -20,14 +26,4 @@ layout: default
   {% endfor %}
   </ul>
 {% endfor %}   
-    
-    
-    
-    
-    
-    
-<!---    Tags: {{post.tags}}    </p>
-  {% endfor %}
--->
-<footer></footer>
-</body>
+    -->
