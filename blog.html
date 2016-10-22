@@ -3,9 +3,9 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
-<p>View blog posts in chronological order below or organized by <a href="/tags">tag</a></p>
+<p><a href="/tags">Browse by tag</a></p>
 {% for post in site.categories.blog %}
     <p><b>{{ post.title }}</b><br>
     {{post.description}}<br>
-    <a href="{{ post.url }}" target="_blank">Read full post</a></p>
+    <a href="{{ post.url }}"" target="_blank">View Full Post</a></li></p>
     {% endfor %}

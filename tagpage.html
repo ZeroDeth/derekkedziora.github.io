@@ -10,9 +10,9 @@ permalink: /tags
 {% assign sortedtags = tags | split:' ' | sort %}
 
 {% for tag in sortedtags %}
-  <br><b id="{{ tag }}">{{ tag }}</b><br>
+  <p><b id="{{ tag }}">{{ tag }}</b><br>
   {% for post in site.tags[tag] %}
   <a href="{{ post.url }}" target="_blank">{{ post.title }}</a> [{{post.category}}]: {{post.description}}<br>
   {% endfor %}
  
-{% endfor %}
+{% endfor %}</p>
