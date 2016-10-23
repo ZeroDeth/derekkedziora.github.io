@@ -22,8 +22,10 @@ My long-term goal is to use computational linguistics as a tool for my students.
 To be continued...
 
 <!---
+
 **Linguistics**  
 Languages and linguistics 
- 
+
+--> 
 
 
