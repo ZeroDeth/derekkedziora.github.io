@@ -19,6 +19,9 @@ I've coded this site myself. I'd like to become proficient enough in HTML and CS
 
 My long-term goal is to use computational linguistics as a tool for my students. For now, I use tools such as <a href="http://www.netspeak.org" target="_blank">netspeak.org</a> to help students with collocations or using more natural sounding lexical items. *<a href="http://www.nltk.org/book/" target="_blank">Natural Language Processing with Python</a>* is what I eventually plan to work through to create some writing tools. For instance, if you create a text and the frequency of modal verbs dramatically differs from texts from a target corpus this could let you know where to focus your studies.
 
+To be continued...
+
+<!---
 **Linguistics**  
 Languages and linguistics 
  
