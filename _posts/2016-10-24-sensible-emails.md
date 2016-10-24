@@ -11,13 +11,13 @@ description: "How to avoid clutter and streamline the emails you write"
 #### Writing Sensible Emails  
 **Lesson Objectives**  
 1. Write better emails by:  
-	1. increasing clarity
-	2. improving organization  
-	3. reducing wordiness  
+	(a) increasing clarity  
+	(b) improving organization      
+	(c) reducing wordiness   
 2. Learn key vocabulary related to email
 
 **Keywords**  
-; (adj.)  
+succinct (adj.)  
 lede (countable noun)  
 pithy (adj.)  
 brevity (uncountable noun)  
