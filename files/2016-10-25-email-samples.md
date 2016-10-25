@@ -85,3 +85,18 @@ George
 <hr>
 This week our bounce rate is 1.0%, this is the lowest rate among all of our campaign. We are still receiving a large amount of auto replies because many prospects are out of their offices on business trips. This week we launched the follow-up  process for those prospects who opened our emails but never replied back. I haven't received any feedback on these messages, though will keep sending them out, aiming to get any positive output.
 <hr>
+I have another great news.  
+Here's another prospect willing to schedule the discovery call. She also sent her time options when she is available. Please take a look at it and let me know your availability, so I can shoot the calendar invite to Frank and you.
+<hr>
+Hi Team! Happy Tuesday!  
+Quick heads-up.  
+For 10/24, 20 new leads were contacted. Total number of emails that were sent - 133  
+36 emails were opened.  
+We received 3 negative responses.  
+20 new leads were generated.  
+Today we are going to contact with prospects who are not interested in our products. We will try to clarify the reason of their negative response.  
+Please let me know if there are any specific tasks that you want me to accomplish today. Thanks!  
+Have a nice day!  
+<hr>
+This week I’ve been sending messages in Linkedin (on Walter’s behalf) to those prospects who have opened my email several times in order to connect and discuss it.   
+Among positive responses I have 2 follow-ups that can potentially turn into appointments. One is from Hank Roadgoer, at Director, People Gathering and Human Resources at Systemplant Group, who asked to touch base with him the week after and he’ll see how things look. And one more is from Sasha Grossman, Founding Partner at Set Go Incubator. He connected me with his colleague Amy Seller to schedule the time. She has already received 3 emails from me. So now, waiting for her confirmation of the time slot to schedule one more appointment. Yesterday we implemented new templates for the NY campaign. We will test different subject lines to keep those ones which shows the highest open rate.
