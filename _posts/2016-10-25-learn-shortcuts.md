@@ -10,7 +10,7 @@ description: "A TED Talk about learning from shortcuts"
 ---
 #### Learning from Shortcuts
 **Lesson Objectives**  
-1. Learn and use basic lexis related to design and user experience     
+1. Learn and use basic lexis related to design and user experience   <br>
 2. Listen to a TED Talk in order to discuss the topic  
 
 **Keywords**  
