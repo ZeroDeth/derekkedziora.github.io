@@ -2,14 +2,14 @@
 layout: default
 permalink: "lessons/email-samples"
 ---
-Hello David,
+Hello David,<br>  
 I want to consult what would be the best answer on this email.
 
 Can I ask them to forward my email to manufacturing department?
 
-Or what kind of servises can I mention in my email to draw their attention.
+Or what kind of servises can I mention in my email to draw their attention. 
 
-Thanks in advance.
+Thanks in advance.<br>  
 Sally
 <hr>
 Hi Team! Happy Moday!  
@@ -98,5 +98,15 @@ Today we are going to contact with prospects who are not interested in our produ
 Please let me know if there are any specific tasks that you want me to accomplish today. Thanks!  
 Have a nice day!  
 <hr>
-This week I’ve been sending messages in Linkedin (on Walter’s behalf) to those prospects who have opened my email several times in order to connect and discuss it.   
+This week I’ve been sending messages in Linkedin (on Walter’s behalf) to those prospects who have opened my email several times in order to connect and discuss it.
+
 Among positive responses I have 2 follow-ups that can potentially turn into appointments. One is from Hank Roadgoer, at Director, People Gathering and Human Resources at Systemplant Group, who asked to touch base with him the week after and he’ll see how things look. And one more is from Sasha Grossman, Founding Partner at Set Go Incubator. He connected me with his colleague Amy Seller to schedule the time. She has already received 3 emails from me. So now, waiting for her confirmation of the time slot to schedule one more appointment. Yesterday we implemented new templates for the NY campaign. We will test different subject lines to keep those ones which shows the highest open rate.
+<hr>
+Hi @channel! Happy Monday!  
+Quick recap. ( 10/21/2016 - 10/24/2016 )  
+60 new leads were sent out last thursday and friday  
+The total number of sent emails: 250  
+Responses:  
+Positive: 6  
+Negative: 3  
+Total Calls: 75  
