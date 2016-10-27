@@ -10,7 +10,7 @@ description: "A research based lesson about project management systems such as s
 #### Project Management and Personal Productivity
 
 **Key Concepts**  
-- How is workflow and productivity managed at your company?   
+- How are workflow and productivity managed at your company?   
 - Is this system <u>domain specific</u> or not?  
 - Can professional project management systems be applied to your personal life?  
 

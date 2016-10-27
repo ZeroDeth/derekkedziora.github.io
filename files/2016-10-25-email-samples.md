@@ -115,6 +115,6 @@ Hi Jonathon,
 I have some appointments for you that need to be set up.  
 Unfortunatelly, we didn't manage to jump on a quick training call with you. I just have a couple questions concerning setting up face to face meetings and need a quick training.   
 Please let me know if you are available today and I will give you a call.    
-Regards,
+Regards,  
 James Dean
 
