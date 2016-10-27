@@ -109,4 +109,12 @@ The total number of sent emails: 250
 Responses:  
 Positive: 6  
 Negative: 3  
-Total Calls: 75  
+Total Calls: 75 
+<hr>
+Hi Jonathon,    
+I have some appointments for you that need to be set up.  
+Unfortunatelly, we didn't manage to jump on a quick training call with you. I just have a couple questions concerning setting up face to face meetings and need a quick training.   
+Please let me know if you are available today and I will give you a call.    
+Regards,
+James Dean
+
