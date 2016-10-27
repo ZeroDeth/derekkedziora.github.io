@@ -29,5 +29,5 @@ Read <a href="http://www.43folders.com/2005/09/19/writing-sensible-email-message
 **Reflection Questions**
 
 - Which points from this post do you agree with and could apply immediately?  
-- Are there any points that you disagree with? Why? </ul>
+- Are there any points that you disagree with? Why?
 
