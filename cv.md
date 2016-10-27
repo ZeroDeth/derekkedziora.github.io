@@ -3,7 +3,7 @@ layout: default
 title: CV
 permalink: /cv
 ---
-[Download my CV in PDF format](/files/derek_cv.pdf)
+<a href="/files/derek_cv.pdf" target="_blank">Download my CV in PDF format</a>
 
 ### Derek Kedziora
 me@derek.com.ua  
