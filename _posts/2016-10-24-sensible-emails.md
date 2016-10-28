@@ -9,13 +9,11 @@ permalink: "/lessons/sensible-emails"
 description: "How to avoid clutter and streamline the emails you write"
 ---
 #### Writing Sensible Emails
-<p><b>Lesson Objectives</b></p>
-<ol>
-<li>Write better emails by:</li>
-    <ul>
-	<li>improving organization</li>
-	<li>reducing wordiness</li></ul>
-<li>Learn key vocabulary related to email</li></ol>
+<b>Lesson Objectives</b>  
+1. Write better emails by:<br/>
+    (a) improving organization<br/>
+	(b) reducing wordiness<br/>
+2. Learn key vocabulary related to email
 
 **Keywords**  
 succinct (adj.)  

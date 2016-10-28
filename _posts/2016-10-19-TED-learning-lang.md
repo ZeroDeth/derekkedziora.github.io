@@ -7,12 +7,12 @@ date: 2016-10-19
 permalink: /lessons/TED-learning-lang
 description: "A TED Talk about the benefits of language learning"
 ---
-#### Four Reasons to Learn a New Language 
-**Key Concepts**  
+## Four Reasons to Learn a New Language
+<b>Key Concepts</b> 
 - If you already speak English, is there any point in learning another language? 
 - Why do something or acquire a skill that is "useless"?  
 
-**Keywords**  
+<b>Keywords</b><br/> 
 take over (took, taken, phrasal verb)  
 why bother [to do / doing], (set phrase)  
 fraught, fraught with s/th (adj.)  
