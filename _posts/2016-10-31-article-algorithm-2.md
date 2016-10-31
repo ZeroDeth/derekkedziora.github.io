@@ -28,6 +28,8 @@ Use this text to test your algorithm:
 
 Compare your algorithm to your intuition. Where did you get different answers?
 
+<--- 
+
 Here are some possible answers:  
 [0] ø  
 [1] a  
