@@ -29,7 +29,7 @@ singular [backpack], plural [backpacks]
 **The Test**  
 Use this text to test your algorithm. 
 <pre>
-"Hey [0] ____ man, What [1] ____ great day!"
+"Hey [0] ____ man, what [1] ____ great day!"
 "Yeah, just [2] ____ kind of day we needed after so many cloudy days."
 
 "Have you had [3] ____ coffee yet?"  
