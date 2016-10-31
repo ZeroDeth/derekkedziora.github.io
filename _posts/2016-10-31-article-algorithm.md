@@ -43,4 +43,4 @@ Use this text to test your algorithm.
 "[11] ___ receptionist talked to him. I think he's [12] ____ Jack Taylor we worked with last year."
 </pre>
 
-<a href="_posts/2016-10-31-article-algorithm-2.md" target="_blank">Here</a> are the answers and a detailed explanation.
+<a href="http://derek.com.ua/lessons/article-aglorithm-2" target="_blank">Here</a> are the answers and a detailed explanation.
