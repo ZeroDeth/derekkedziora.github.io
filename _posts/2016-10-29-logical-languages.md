@@ -4,7 +4,7 @@ category: blog
 title: "Languages, Efficiency and Logic"
 description: "Despite the appeal of logic, human languages function efficiently because they aren't logical."  
 permalink: "/blog/languages-logic"
-tags: ["Kahneman", "logic"]
+tags: ["kahneman", "logic"]
 date: 2016-10-29
 --- 
 ## Languages, Efficiency and Logic
