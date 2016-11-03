@@ -10,6 +10,7 @@ description: "How to avoid clutter and streamline the emails you write"
 ---
 ## Writing Sensible Emails
 <p></p>
+
 ### Lesson Objectives  
 1. Write better emails by:<br/>
     (a) improving organization<br/>
