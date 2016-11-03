@@ -9,7 +9,7 @@ body { background-color: #fafafa; margin: 10px auto; width: 70%; }
 a { text-decoration: none; color: #7d7d7d; }
 a:hover { text-decoration: underline; }
 
-p, ul, ol { font-size: 1.2em; line-height: 1.4em; color: #333; }
+p, ul, ol { font-family: 'San Francisco'; font-size: 1.2em; line-height: 1.4em; color: #333; }
 
 h1, h2, h3, h4 { font-family: 'San Francisco'; margin: 0px }
 h1 { font-size: 1.8em;  }
