@@ -9,7 +9,8 @@ date: 2016-11-01
 permalink: "/lessons/ruthless-boss"
 ---
 ## The Ruthless Boss
-### Key Concepts**  
+
+### Key Concepts  
 
 - What are some different management styles and ways to motivate workers? 
 - Are some management styles industry specific? 
