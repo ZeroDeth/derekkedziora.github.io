@@ -19,6 +19,7 @@ description: "MailChimp defies the traditional startup model and is successful o
 **Keywords**
 novel (adj: not the noun meaning book)  
 slick (adj.)  
+gobs of [s/th], (noun phrase)  
 spend beyond [your] means (set phrase)  
 under the radar (set phrase)  
 divulge (regular verb)  
