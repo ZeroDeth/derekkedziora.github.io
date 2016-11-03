@@ -10,6 +10,8 @@ permalink: "/lessons/ruthless-boss"
 ---
 ## The Ruthless Boss
 
+<p></p>
+
 ### Key Concepts  
 
 - What are some different management styles and ways to motivate workers? 
