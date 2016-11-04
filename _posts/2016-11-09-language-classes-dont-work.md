@@ -9,18 +9,16 @@ description: "A scathing critique of the traditional approach of studying a lang
 permalink: "/lessons/classes-dont-work"
 ---
 ## Why Language Classes Don't Work
-
-<p></p>
-
 ### Materials
-- <a href="http://fourhourworkweek.com/2008/09/22/why-language-classes-dont-work-how-to-cut-classes-and-double-your-learning-rate-plus-madrid-update/" target="_blank">Blog post</a> from Tim Ferriss
+<ul>
+<li>[primary] <a href="http://fourhourworkweek.com/2008/09/22/why-language-classes-dont-work-how-to-cut-classes-and-double-your-learning-rate-plus-madrid-update/" target="_blank">blog post</a> from Tim Ferriss</li></ul>
 
 ### Lesson Objectives
 
 1. New lexis about language learning 
 2. Read and discuss a blog post about language learning
 
-### Key Concepts
+### Pre-reading Questions
 
 - Are you satisfied with how languages are currently studied? 
 - Do language classes meet your needs? 
