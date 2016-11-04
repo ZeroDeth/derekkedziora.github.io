@@ -11,7 +11,7 @@ permalink: /lessons/TED-learning-lang
 ## Four Reasons to Learn a New Language
 
 ### Materials 
-[main] <a href="https://www.ted.com/talks/john_mcwhorter_4_reasons_to_learn_a_new_language" target="_blank">TED Talk</a> by John McWorther
+[<a href="https://www.ted.com/talks/john_mcwhorter_4_reasons_to_learn_a_new_language" target="_blank">main</a>] TED Talk by John McWorther
 
 ### Pre-listening Questions
 

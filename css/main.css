@@ -71,4 +71,9 @@ nav ul li, footer ul li {
 
 #content-link {
     font-size: .8em;
-}    
+}
+
+@media screen and (max-width:700px) {
+    body    {
+    width: 25%;
+}
