@@ -29,8 +29,7 @@ hasten (regular verb)
 can't cope (set expression)   
 sticking points (noun phrase)  
 inhibit (regular verb)  
-coddle (regular verb)
-coddl* (ing / ed adjective)  
+coddle (regular verb), coddl* (ing / ed adjective)  
 you don't have to be a rocket scientist to... (set phrase)  
 
 ### Main Activity
