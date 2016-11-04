@@ -8,7 +8,9 @@ permalink: "/lessons/mailchimp-startup"
 description: "MailChimp defies the traditional startup model and is successful outside of SF and without venture capital."
 ---
 ## MailChimp and the Un-Silicon Valley Way to Make it
+
 <p></p>
+
 ### Lesson Objectives
 
 1. Lexical: learn and use set phrases relating to startups and small businesses.  
