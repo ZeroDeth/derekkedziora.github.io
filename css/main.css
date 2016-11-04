@@ -12,6 +12,8 @@ a {
 
 a:hover {
     text-decoration: underline;
+    color: white;
+    background-color: black;
 }
 
 p, ul, ol {
@@ -53,11 +55,16 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-footer {
+/*footer {
     font-size: .8em;
-}
+}*/
 
-#topbar {
+#top-bar {
     margin: 15px 0px 15px 0px;
     text-align: center;
+    color: #7d7d7d;
 }
+
+#bottom-bar {
+    font-size: .8em;
+    
