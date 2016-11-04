@@ -9,7 +9,9 @@ description: "A scathing critique of the traditional approach of studying a lang
 permalink: "/lessons/classes-dont-work"
 ---
 ## Why Language Classes Don't Work
+
 ### Materials
+
 <ul>
 <li>[primary] <a href="http://fourhourworkweek.com/2008/09/22/why-language-classes-dont-work-how-to-cut-classes-and-double-your-learning-rate-plus-madrid-update/" target="_blank">blog post</a> from Tim Ferriss</li></ul>
 
