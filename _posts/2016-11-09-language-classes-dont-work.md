@@ -12,6 +12,9 @@ permalink: "/lessons/classes-dont-work"
 
 <p></p>
 
+### Materials
+- <a href="http://fourhourworkweek.com/2008/09/22/why-language-classes-dont-work-how-to-cut-classes-and-double-your-learning-rate-plus-madrid-update/" target="_blank">Blog post</a> from Tim Ferriss
+
 ### Lesson Objectives
 
 1. New lexis about language learning 
