@@ -73,7 +73,7 @@ nav ul li, footer ul li {
     font-size: .8em;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (device-aspect-ratio: 40/71) {
     body    {
     background-color: lightgreen;
     width: 50%;
