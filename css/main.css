@@ -33,7 +33,7 @@ h1 {
 
 h2 {
     font-size: 1.5em;
-    margin: 30px 0px 30px 0px; 
+    margin: 20px 0px 30px 0px; 
 }
 
 h3 {
@@ -55,4 +55,9 @@ nav ul li, footer ul li {
 
 footer {
     font-size: .8em;
+}
+
+#topbar {
+    margin: 15px 0px 15px 0px;
+    text-align: center;
 }
