@@ -13,7 +13,7 @@ permalink: /lessons/TED-learning-lang
 ### Materials 
 [main] <a href="https://www.ted.com/talks/john_mcwhorter_4_reasons_to_learn_a_new_language" target="_blank">TED Talk</a> by John McWorther
 
-### Key Concepts
+### Pre-listening Questions
 
 - If you already speak English, is there any point in learning another language? 
 - Why do something or acquire a skill that is "useless"?  
