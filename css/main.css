@@ -47,7 +47,6 @@ nav ul, footer ul {
     font-size: 1em; font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
     padding: 0px;
     list-style: none;
-    /*font-weight: bold;*/
 }
 
 nav ul li, footer ul li {
@@ -55,16 +54,22 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-/*footer {
-    font-size: .8em;
-}*/
-
 #top-bar {
     margin: 15px 0px 15px 0px;
     text-align: center;
     color: #7d7d7d;
+    font-size: 1.5em;
 }
 
 #bottom-bar {
     font-size: .8em;
+}
     
+#tag-bar {
+    text-align: center;
+    font-size: .8em;
+}
+
+#content-link {
+    font-size: .8em;
+}    

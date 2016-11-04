@@ -3,11 +3,11 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
-<div align="center">
-Browse chronologically <a href="/blog/">[blog]</a> / <a href="/lessons/">[lessons]</a> or by tag <a href="/tags/">[blog & lessons]</a> 
-</div>
+<p id="tag-bar">
+Browse chronologically [<a href="/blog/">blog</a>] / [<a href="/lessons/">lessons</a>] or by tag [<a href="/tags/">blog & lessons</a>] 
+</p>
 {% for post in site.categories.blog %}
     <p><b>{{ post.title }}</b><br>
     {{post.description}}<br>
-    <a href="{{ post.url }}" target="_blank">View Full Post</a></li></p>
+    <a id="content-link" href="{{ post.url }}" target="_blank">View Full Post</a></li></p>
     {% endfor %}
