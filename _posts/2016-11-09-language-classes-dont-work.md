@@ -1,6 +1,6 @@
 ---
-layout: default
 date: 2016-11-04
+layout: default
 category: lesson
 lesson-type: reading
 title: "Why Language Classes Don't Work"
