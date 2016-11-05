@@ -4,7 +4,7 @@ layout: default
 category: blog
 title: "Vestigial Structures in Language"
 tags: ["vestigial-structures", "historical-linguistics"]
-description: "Keep in mind that the 'useless' structures in any given language have been shaped by millennia of evolution"
+description: "Keep in mind that the 'useless' structures of a language have been shaped by millennia of evolution."
 permalink: "/blog/vestigial-structures"
 ---
 ## Vestigial Structures in Language 

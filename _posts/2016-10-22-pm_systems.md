@@ -2,9 +2,8 @@
 date: 2016-10-22
 layout: default
 category: lesson
-lesson-type: research
 title: Project Management and Personal Productivity
-tags: ["task-based-learning", "agile", "project-management", "productivity"]
+tags: ["task-based-learning", "agile", "project-management", "productivity","lesson-type-research"]
 description: "A research based lesson about project management systems such as scrum"
 permalink: "/lessons/pm-systems"
 ---

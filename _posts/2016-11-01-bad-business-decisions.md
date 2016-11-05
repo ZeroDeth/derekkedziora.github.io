@@ -2,9 +2,8 @@
 date: 2016-11-01
 layout: default
 category: lesson
-lesson-type: reading
 title: "A Silent Cause of Bad Business Decisions"
-tags: ["intuition", "decisions", "biases"]
+tags: ["intuition", "decisions", "biases","lesson-type-reading"]
 description: "A short read about how our intuition can sabotage critical decisions."
 permalink: "/lessons/bad-business-decisions"
 ---

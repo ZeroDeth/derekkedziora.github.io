@@ -1,0 +1,22 @@
+---
+layout: default
+permalink: "/lessons/grammar/"
+---
+    <nav>
+<ul id='lesson-type-bar'>
+<li><a href="/lessons/">[all]</a></li>    
+<li>[grammar]</li>
+<li><a href="/lessons/reading/">[reading]</a></li>
+<li><a href="/lessons/research/">[research]</a></li>
+<li><a href="/lessons/speaking/">[speaking]</a></li>
+<li><a href="/lessons/writing/">[writing]</a></li>
+</ul>
+    </nav>
+<h1 class='lesson-title'>GRAMMAR LESSONS</h1>
+{% for post in site.tags.lesson-type-grammar %}
+    <p><strong>{{ post.title }}</strong>
+    <br>
+    {{post.description}}
+    <br>
+    <a id="content-link" href="{{ post.url }}"" target="_blank">View Full Lesson</a></p>
+  {% endfor %}

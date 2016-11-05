@@ -2,9 +2,8 @@
 date: 2016-10-23
 layout: default
 category: lesson
-lesson-type: reading
 title: "Vocational Training vs. University"
-tags: ["reading", "education"]
+tags: ["reading", "education","lesson-type-reading"]
 description: "A short article about Switzerland's vocational training program as an alternative to university"
 permalink: "/lessons/vocational-vs-uni"
 ---

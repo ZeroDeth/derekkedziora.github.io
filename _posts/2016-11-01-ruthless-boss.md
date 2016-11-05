@@ -2,9 +2,8 @@
 date: 2016-11-01
 layout: default
 category: lesson
-lesson-type: writing
 title: "The Ruthless Boss"
-tags: ["management", "brevity"]
+tags: ["management", "brevity","lesson-type-writing"]
 description: "Improve a long blog post about mangagement by shortening it."
 permalink: "/lessons/ruthless-boss"
 ---

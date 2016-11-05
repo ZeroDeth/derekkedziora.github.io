@@ -1,7 +1,7 @@
 body {
     background-color: #fafafa;
     margin: auto;
-    width: 70%;
+    width: 60%;
 }
 
   
@@ -17,7 +17,7 @@ a:hover {
 
 p, ul, ol {
     font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
-    font-size: 1.2em;
+    font-size: 1.1em;
     line-height: 1.4em;
     color: #333;
     margin: 5px 0px 20px 0px;
@@ -30,6 +30,7 @@ h1, h2, h3, {
 
 h1 {
     font-size: 1.8em;
+    text-align: center;
 }
 
 h2 {
@@ -41,6 +42,7 @@ h3 {
     font-size: 1.2em;
     margin: 10px 0px 10px 0px; 
 }
+
 
 nav ul, footer ul {
     font-size: 1em; font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
@@ -54,15 +56,22 @@ nav ul li, footer ul li {
 }
 
 #top-bar {
-    margin: 15px 0px 15px 0px;
+    margin: 15px 0px 0px 0px;
     text-align: center;
     color: #7d7d7d;
-    font-size: 1.5em;
+    font-size: 1.3em;
+    border-bottom: solid;
+    border-color: #7d7d7d;
+    border-bottom-width: 1px;
 }
 
 #bottom-bar {
+    border-top: solid;
+    border-color: #7d7d7d;
+    border-top-width: 1px;
     font-size: .8em;
 }
+
     
 #tag-bar {
     text-align: center;
@@ -71,10 +80,25 @@ nav ul li, footer ul li {
 
 #content-link {
     font-size: .8em;
+    margin-top: -1.5em;
+}
+
+#lesson-type-bar {
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    color: #333;
+    font-size: 1.3em;
 }
 
 @media screen and (device-aspect-ratio: 40/71) {
     body    {
     width: 90%;
     font-size: 225%;
+}
+
+@media screen and (max-width: 767px) {
+    body {
+        width: 90%;
+        font-size: 225%;
+    }
 }

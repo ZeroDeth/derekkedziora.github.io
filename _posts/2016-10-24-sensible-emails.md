@@ -2,9 +2,8 @@
 date: 2016-10-24
 layout: default
 category: lesson
-lesson-type: writing
 title: Writing Sensible Emails
-tags: ["writing", "email"]
+tags: ["writing", "email","lesson-type-writing"]
 description: "How to avoid clutter and streamline the emails you write"
 permalink: "/lessons/sensible-emails"
 ---

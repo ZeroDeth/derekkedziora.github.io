@@ -1,0 +1,22 @@
+---
+layout: default
+permalink: "/lessons/writing/"
+---
+<nav>
+<ul id='lesson-type-bar'>
+<li><a href="/lessons/">[all]</a></li>    
+<li><a href="/lessons/grammar/">[grammar]</a></li>
+<li><a href="/lessons/reading/">[reading]</a></li>
+<li><a href="/lessons/research/">[research]</a></li>
+<li><a href="/lessons/speaking/">[speaking]</a></li>
+<li>[writing]</li>
+</ul>
+    </nav>
+<h1 class='lesson-title'>WRITING LESSONS</h1>
+{% for post in site.tags.lesson-type-writing %}
+    <p><strong>{{ post.title }}</strong>
+    <br>
+    {{post.description}}
+    <br>
+    <a id="content-link" href="{{ post.url }}"" target="_blank">View Full Lesson</a></p>
+  {% endfor %}

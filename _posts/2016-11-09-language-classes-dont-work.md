@@ -2,9 +2,8 @@
 date: 2016-11-04
 layout: default
 category: lesson
-lesson-type: reading
 title: "Why Language Classes Don't Work"
-tags: ["tim-ferriss", "language-learning"]
+tags: ["tim-ferriss", "language-learning","lesson-type-reading"]
 description: "A scathing critique of the traditional approach of studying a language for ten years without being able to speak it"
 permalink: "/lessons/classes-dont-work"
 ---
