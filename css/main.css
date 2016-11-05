@@ -25,12 +25,12 @@ p, ul, ol {
 
 h1, h2, h3, {
     font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
-    margin: 0px
 }
 
 h1 {
     font-size: 1.8em;
     text-align: center;
+    margin: 5px 0px 0px 0px;
 }
 
 h2 {
@@ -72,15 +72,9 @@ nav ul li, footer ul li {
     font-size: .8em;
 }
 
-    
-#tag-bar {
-    text-align: center;
-    font-size: .8em;
-}
-
 #content-link {
     font-size: .8em;
-    margin-top: -1em;
+    margin-top: -1.1em;
 }
 
 #lesson-type-bar {
