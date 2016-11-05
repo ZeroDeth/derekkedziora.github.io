@@ -8,7 +8,7 @@ I'm a language nerd. Besides English, I speak Russian and have dabbled in Ukrain
 
 My teaching style is all about using English in a functional and natural sounding way. If theory and abstract grammar don't serve the purpose of actually using the language, you won't find them in my classes. 
 
-I'm into optimal living. I take that to mean a mostly paleo-diet, lots of low-intensity exercise and trying to avoid chronic stress while inducing randomized acute stress.
+I'm into optimal living. I take that to mean a mostly paleo-diet, lots of low-intensity exercise and trying to avoid chronic stress while inducing randomized acute stress. Nonetheless, I'm hopelessly addicted to coffee and tea. 
 
 Practical philosophy is what makes me tick. I love reading, meditation and trying out new ideas. I'm never far from a book or some thought experiment. 
 
