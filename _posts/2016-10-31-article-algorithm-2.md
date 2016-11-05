@@ -1,11 +1,10 @@
 ---
+date: 2016-10-31
 layout: default
 category: file
 title: "The Article Algorithm: Part Deux"
 description: "Explore how articles are used in English by creating and testing your own article algorithm."
-tags: ["articles"]
 permalink: "/lessons/article-aglorithm-2"
-date: 2016-10-31
 ---
 ## The Article Algorithm, Part Deux
 

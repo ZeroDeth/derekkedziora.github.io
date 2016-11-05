@@ -1,22 +1,24 @@
 ---
+date: 2016-11-01
 layout: default
 category: lesson
 lesson-type: writing
 title: "The Ruthless Boss"
 tags: ["management", "brevity"]
-description: "Improve a long blog post about mangagement by shortening it." 
-date: 2016-11-01
+description: "Improve a long blog post about mangagement by shortening it."
 permalink: "/lessons/ruthless-boss"
 ---
 ## The Ruthless Boss
 
-<p></p>
+### Materials 
+[<a href="http://www.thesimpledollar.com/the-myth-of-the-ruthless-business-mogul-or-why-it-pays-to-be-nice-in-the-workplace" target="_blank">main</a>] Blog post from *The Simple Dollar*  
 
-### Key Concepts  
+### Pre-reading Questions
 
 - What are some different management styles and ways to motivate workers? 
 - Are some management styles industry specific? 
-- What's the right balance between reward and punishment?
+- Is brevity a strong point in writing? 
+
 
 ### Keywords 
 ruthless (adj.)    
@@ -36,14 +38,8 @@ fight or flight mode
 burning the candle at both ends  
 
 ### Main Activity  
-Read <a href="http://www.thesimpledollar.com/the-myth-of-the-ruthless-business-mogul-or-why-it-pays-to-be-nice-in-the-workplace" target="_blank">this post</a> from *The Simple Dollar* to complete the following:  
+Read the blog post to do the following activity:  
 
 1. Do you think this post is well written?   
 2. The article contains 1,115 words, many of them extraneous. There are numerous digressions, long stories and extended metaphors. What are the merits of using such writing devices?   
 3. Copy the text into a text editor. Your goal is to make the text as short as possible while still maintaining the most important points of the original article. You may delete anything you feel can be removed, but please don't add anything other than punctuation.   
-
-### Reflection Questions 
-
-- Which of the author's points do you agree with? 
-- Which points do you think wouldn't work in practice?  
-- Is brevity a strong point in writing? 

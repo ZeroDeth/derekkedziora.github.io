@@ -11,9 +11,7 @@ permalink: "/lessons/classes-dont-work"
 ## Why Language Classes Don't Work
 
 ### Materials
-
-<ul>
-<li>[primary] <a href="http://fourhourworkweek.com/2008/09/22/why-language-classes-dont-work-how-to-cut-classes-and-double-your-learning-rate-plus-madrid-update/" target="_blank">blog post</a> from Tim Ferriss</li></ul>
+[<a href="http://fourhourworkweek.com/2008/09/22/why-language-classes-dont-work-how-to-cut-classes-and-double-your-learning-rate-plus-madrid-update/" target="_blank">main</a>] Blog post by Tim Ferriss
 
 ### Lesson Objectives
 
@@ -36,7 +34,7 @@ coddle (regular verb), coddl* (ing / ed adjective)
 you don't have to be a rocket scientist to... (set phrase)  
 
 ### Main Activity
-Read Tim Ferriss' <a href="http://fourhourworkweek.com/2008/09/22/why-language-classes-dont-work-how-to-cut-classes-and-double-your-learning-rate-plus-madrid-update/" target="_blank">blog post</a> about the pitfalls of language classes to answer the following questions:
+Read Tim Ferriss' blog post about the pitfalls of language classes to answer the following questions:
 
 1. Which ideas of his are useful and which aren't? 
 2. What's the difference between prescriptive and descriptive grammar? 
