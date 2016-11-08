@@ -22,7 +22,7 @@ p, ul, ol {
     color: #333;
     margin: 0px 0px 20px 0px;
     padding: 0px;
-    list-style: none; 
+    list-style-position: inside
 }
 
 h1 {
