@@ -3,7 +3,7 @@ date: 2016-11-10
 layout: default
 category: lesson 
 title: "Modal Verbs of Probability and Inference"
-tags: ["lesson-type-grammar", "modal-verbs]
+tags: ["lesson-type-grammar", "modal-verbs"]
 description: "It's more natural to use modal verbs to show probability than adverbs"
 permalink: "/lessons/modal-probability"
 ---
