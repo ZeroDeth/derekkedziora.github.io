@@ -90,6 +90,11 @@ nav ul li, footer ul li {
     font-size: 1.3em; 
 }
 
+#lesson-type-bar a {
+    color: #7d7d7d;
+    text-decoration: none;
+}
+
 @media screen and (device-aspect-ratio: 40/71) {
     body    {
     width: 90%;
