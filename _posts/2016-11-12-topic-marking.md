@@ -4,7 +4,7 @@ layout: default
 category: blog
 title: "Topic Marking"
 tags: ["topic-marking", "naturalness"]
-description: "Sound more natural by (not) marking the topic of a sentence"
+description: "Sound more natural by (not) marking the topic of a sentence."
 permalink: "/blog/topic-marking"
 ---
 ## Topic Marking 
