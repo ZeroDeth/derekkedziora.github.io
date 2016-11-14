@@ -22,7 +22,7 @@ permalink: "/lessons/google-v-proton"
 2. Use lexis about monopolies and competition to discuss the topic
 
 ### Pre-reading Questions  
-1. Do<a href="https://en.wikipedia.org/wiki/Natural_monopoly" target="_blank">natural monopolies</a> require government action? 
+1. Do <a href="https://en.wikipedia.org/wiki/Natural_monopoly" target="_blank">natural monopolies</a> require government action? Is Google a natural monopoly?
 2. What are the possible problems with an internet search engine gaining a monopoly? 
 
 ### Keywords  
