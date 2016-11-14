@@ -11,10 +11,10 @@ permalink: "/lessons/google-v-proton"
 ## Google's Power to Influence 
 
 ### Materials
-[<a href="https://techcrunch.com/2016/10/27/why-did-protonmail-vanish-from-google-search-results-for-months/" target="_blank">main</a>] *TechCrunch* article about ProtonMail not displaying on Google searches  
-[<a href="https://protonmail.com/blog/search-risk-google/" target="_blank">extra</a>] ProtonMail's account of what happened   
+[<a href="https://techcrunch.com/2016/10/27/why-did-protonmail-vanish-from-google-search-results-for-months/" target="_blank">main</a>] *TechCrunch* article about ProtonMail not displaying on Google searches     
 [<a href="https://www.theguardian.com/world/2016/oct/27/angela-merkel-internet-search-engines-are-distorting-our-perception" target="_blank">extra</a>] Article from *The Guardian* where Angela Merkel addresses the issue of "search engines distorting reality"  
 [<a href="https://aeon.co/essays/how-the-internet-flips-elections-and-alters-our-thoughts" target="_blank">extra</a>] Long article from *Aeon* on search engines flipping elections  
+[<a href="https://protonmail.com/blog/search-risk-google/" target="_blank">extra</a>] ProtonMail's account of what happened  
 
 ### Lesson Objectives
 
@@ -22,8 +22,9 @@ permalink: "/lessons/google-v-proton"
 2. Use lexis about monopolies and competition to discuss the topic
 
 ### Pre-reading Questions  
-1. Do <a href="https://en.wikipedia.org/wiki/Natural_monopoly" target="_blank">natural monopolies</a> require government action? Is Google a natural monopoly?
-2. What are the possible problems with an internet search engine gaining a monopoly? 
+1. Is Google a <a href="https://en.wikipedia.org/wiki/Natural_monopoly" target="_blank">natural monopoly</a>?
+2. Do natural monopolies require government action? 
+3. What are the possible problems with an internet search engine gaining a monopoly? 
 
 ### Keywords  
 amiss (adj.)  
