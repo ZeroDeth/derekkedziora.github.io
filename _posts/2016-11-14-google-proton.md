@@ -2,7 +2,7 @@
 date: 2016-11-14
 layout: default 
 category: lesson
-title: "Google Search vs. ProtonMail"
+title: "Google vs. ProtonMail"
 tags: ["lesson-type-reading"]
 description: "ProtonMail disappeared from Google's Search. How powerful should a monopoly be allowed to get?"
 permalink: "/lessons/google-v-proton"
