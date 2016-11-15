@@ -33,7 +33,7 @@ Read the article in order to get a basic idea of what happened when the city adm
 2. What caused the transition to not go as expected? 
 3. What should an institution consider when selecting software? 
 4. What is a good strategy to weigh long-term and short-term costs when making a decision? 
-5. Many institutions have successfully switched to Linux [<a href="https://en.wikipedia.org/wiki/List_of_Linux_adopters" target="_blank>source</a>]. What could have caused different results? 
+5. Many institutions have successfully switched to Linux [<a href="https://en.wikipedia.org/wiki/List_of_Linux_adopters" target="_blank">source</a>]. What could have caused different results? 
 
 
 
