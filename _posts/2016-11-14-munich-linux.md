@@ -5,7 +5,7 @@ title: "Linux in Munich"
 category: lesson
 tags: ["lesson-type-reading","germany","linux"]
 description: "Munich has reversed its decision to use Linux"
-permalink: "/lesson/munich-linux"
+permalink: "/lessons/munich-linux"
 --- 
 ## Linux in Munich
 
