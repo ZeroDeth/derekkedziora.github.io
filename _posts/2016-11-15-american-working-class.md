@@ -7,7 +7,7 @@ tags: ["lesson-type-listening", "ted"]
 description: "A TED Talk about the forgotten post-industrial swathes of America"
 permalink: "/lessons/american-working-class/"
 ---
-## American's Rust Belt 
+## America's Rust Belt 
 
 ### Materials 
 
