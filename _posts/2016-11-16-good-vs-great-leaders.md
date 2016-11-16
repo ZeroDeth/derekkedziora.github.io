@@ -20,7 +20,7 @@ permalink: "/lessons/good-vs-great-leaders"
 ### Pre-reading Questions 
 
 1. What traits does a great leader or manager typically posses?  
-2. What does the world humility mean? It is difficult to translate, because смирение is too religious while скромность carries a sense of shyness and unassertiveness that is lacking in humility. 
+2. What does the word humility mean? It is difficult to translate, because смирение is too religious while скромность carries a sense of shyness and unassertiveness that is lacking in humility. 
 
 ### Keywords 
 at the helm (noun phrase)  
@@ -29,7 +29,7 @@ settle for s/th (verb phrase)
 empirical (adj.), empirically (adv.)  
 mediocre (adj.)  
 turnaround (noun)  
-turn [a/th] corner (verb phrase)  
+turn [a/the] corner (verb phrase)  
 self-aggrandizement (uncountable noun)  
 implode (regular verb)  
 reserved (adj.)  
