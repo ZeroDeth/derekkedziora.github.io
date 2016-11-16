@@ -3,7 +3,7 @@ date: 2016-11-16
 layout: default
 category: lesson
 title: "Good vs. Great Leaders"
-tags: ["lesson-tpye-reading"]
+tags: ["lesson-type-reading"]
 description: "An interview with James Collins about the difference between good and great leaders"
 permalink: "/lessons/good-vs-great-leaders"
 ---
