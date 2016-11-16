@@ -29,7 +29,7 @@ fall foul of [s/th], (verb phrase)
 plug [a/the] gap (verb phrase)  
 bode [well / ill], (verb phrase)    
 
-### Main Activities 
+### Main Activity 
 
 Read the article to answer the following questions: 
 
