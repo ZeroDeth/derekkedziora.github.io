@@ -3,7 +3,7 @@ date: 2016-11-17
 layout: default 
 category: lesson
 title: "How to be Miserable"
-tags: ["lesson-type-reading"]
+tags: ["lesson-type-reading", "lesson-type-speaking"]
 description: "A short and sarcastic guide to happiness by explaining how to not be happy"
 permalink: "/lessons/guide-to-being-miserable"
 ---
@@ -17,6 +17,7 @@ permalink: "/lessons/guide-to-being-miserable"
 
 1. Read the blog post for gist 
 2. Discuss what habits can make you more or less happy 
+3. Alternatively, this can be a speaking lesson if you only look at the main points rather than reading the whole post
 
 ### Pre-reading Questions 
 
