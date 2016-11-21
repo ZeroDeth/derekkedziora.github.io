@@ -36,7 +36,7 @@ validation (uncountable noun)
 
 Read the text for the main idea. There's no need understand every word and expression as long as you get the main idea and can answer the following questions: 
 
-1. Why does these habits contribute to being miserable? 
+1. Why do these habits contribute to being miserable? 
 2. Which one is the most critical? 
 3. Why does Manson conclude that some people prefer to be miserable? Do you agree? 
 4. Is it possible to change these habits? 
