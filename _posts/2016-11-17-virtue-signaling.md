@@ -12,7 +12,7 @@ permalink: "/lessons/virtue-signaling"
 ### Materials 
 
 [<a href="http://acculturated.com/virtue-signaling/" target="_blank">main</a>] Short read about virtue signaling  
-[<a href="http://observer.com/2014/10/rage-profiteers-how-blogs-harness-our-anger-for-their-own-gain/" target="_blank">extra</a> Rage Profiteering is way to monetize virtue signaling 
+[<a href="http://observer.com/2014/10/rage-profiteers-how-blogs-harness-our-anger-for-their-own-gain/" target="_blank">extra</a>] Rage Profiteering is way to monetize virtue signaling 
 
 ### Lesson Objectives 
 
