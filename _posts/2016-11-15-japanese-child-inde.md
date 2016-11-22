@@ -1,14 +1,12 @@
 ---
 date: 2016-11-15
-layout: default
+layout: lesson
 category: lesson
 title: "Japanese Children and Independence"
 tags: ["lesson-type-reading", "japan", "child-rearing"]
 description: "Japan takes concrete steps to teach even young children independence"
 permalink: "/lessons/japan-child-independence"
 --- 
-## How Japan Prepares its Children for Independence
-
 ### Materials 
 [<a href="http://savvytokyo.com/japan-prepares-children-independence/" target="_blank">main</a>] Article describing how Japanese pre-schools teach children independence  
 [<a href="http://www.npr.org/2012/02/12/146769135/move-over-tiger-mother-french-parents-may-be-better-too" target="_blank">extra</a>] NPR book review about French Parenting, which has many similar ideas  

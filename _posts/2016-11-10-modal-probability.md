@@ -1,6 +1,6 @@
 ---
 date: 2016-11-10
-layout: default
+layout: lesson
 category: lesson 
 title: "Modal Verbs of Probability and Inference"
 tags: ["lesson-type-grammar", "modal-verbs"]
@@ -8,7 +8,7 @@ description: "It's more natural to use modal verbs to show probability than adve
 permalink: "/lessons/modal-probability"
 ---
 
-## Modal Verbs of Probability and Inference 
+### Explanation 
 
 English has a complex system of marking whether something was observed [*It rained* means that I saw it rain] or whether someone came to conclusion [*It must have rained* means that I'm nearly certain that it rained, because it is cloudy and the sidewalk is wet]. The degree of certainty can be modified by switching out must for may or could. 
 
@@ -39,7 +39,7 @@ _You **might have** been caught. You **could have** been arrested._
 7.  One of your co-workers knows you better than the rest and realizes that you love jokes and exaggerating a bit.  
 _You **can't** be serious. You **mustn't** be telling the truth since you have a reputation for telling tall tales!_  
 
-Notes:
+### Notes
 
 1. **should + [do], shouldn't + [do]**  
 *Should* or *shouldn't* is used for a highly probable future event. The sentence *He should be on time for the meeting.* means that there is a high probability that he will be on time for the meeting rather than he ought to be on time for the meeting.

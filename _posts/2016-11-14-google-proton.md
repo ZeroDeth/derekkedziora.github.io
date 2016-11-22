@@ -1,15 +1,12 @@
 ---
 date: 2016-11-14
-layout: default 
+layout: lesson
 category: lesson
 title: "Google vs. ProtonMail"
 tags: ["lesson-type-reading"]
 description: "ProtonMail disappeared from Google's Search. How powerful should a monopoly be allowed to get?"
 permalink: "/lessons/google-v-proton"
 ---
-
-## Google's Power to Influence 
-
 ### Materials
 [<a href="https://techcrunch.com/2016/10/27/why-did-protonmail-vanish-from-google-search-results-for-months/" target="_blank">main</a>] *TechCrunch* article about ProtonMail not displaying on Google searches     
 [<a href="https://www.theguardian.com/world/2016/oct/27/angela-merkel-internet-search-engines-are-distorting-our-perception" target="_blank">extra</a>] Article from *The Guardian* where Angela Merkel addresses the issue of "search engines distorting reality"  

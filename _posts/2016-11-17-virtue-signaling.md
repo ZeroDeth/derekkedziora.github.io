@@ -1,13 +1,12 @@
 ---
 date: 2016-11-17
-layout: default
+layout: lesson
 category: lesson
 title: "Virtue Signaling" 
 tags: ["lesson-type-reading"]
 description: "A short read describing how many positions you take are simply meaningless ways to look good to others"
 permalink: "/lessons/virtue-signaling"
 --- 
-## Virtue Signalling 
 
 ### Materials 
 

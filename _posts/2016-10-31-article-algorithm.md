@@ -1,15 +1,12 @@
 ---
 date: 2016-10-31
-layout: default
+layout: lesson
 category: lesson
 title: "The Article Algorithm: to the or to a"
 description: "Explore how articles are used in English by creating and testing your own article algorithm."
 tags: ["articles", "grammar","lesson-type-grammar"]
 permalink: "/lessons/article-aglorithm"
 ---
-
-## The Article Algorithm: to the or to a
-
 ### Pre-activity Questions   
 
 - What function do articles serve in English? 

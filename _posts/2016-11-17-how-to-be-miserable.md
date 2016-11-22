@@ -1,14 +1,12 @@
 ---
 date: 2016-11-17
-layout: default 
+layout: lesson
 category: lesson
 title: "How to be Miserable"
 tags: ["lesson-type-reading", "lesson-type-speaking"]
 description: "A short and sarcastic guide to happiness by explaining how to not be happy"
 permalink: "/lessons/guide-to-being-miserable"
 ---
-## How to be Miserable
-
 ### Materials 
 
 [<a href="https://markmanson.net/the-guide-to-being-miserable" target="_blank">main</a>] Blog post about how to be miserable by Mark Manson  

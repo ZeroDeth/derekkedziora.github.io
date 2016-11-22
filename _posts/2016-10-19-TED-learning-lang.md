@@ -1,14 +1,12 @@
 ---
 date: 2016-10-19
-layout: default
+layout: lesson
 category: lesson
 title: "Four Reasons to Learn a New Language"
 tags: ["listening", "language-learning", "lesson-type-listening"]
 description: "A TED Talk about the benefits of language learning"
 permalink: /lessons/TED-learning-lang
 ---
-## Four Reasons to Learn a New Language
-
 ### Materials 
 [<a href="https://www.ted.com/talks/john_mcwhorter_4_reasons_to_learn_a_new_language" target="_blank">main</a>] TED Talk by John McWorther
 

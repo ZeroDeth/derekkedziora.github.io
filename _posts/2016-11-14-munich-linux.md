@@ -1,14 +1,12 @@
 ---
 date: 2016-11-14
-layout: default 
+layout: lesson
 title: "Linux in Munich"
 category: lesson
 tags: ["lesson-type-reading","germany","linux"]
 description: "Munich has reversed its decision to use Linux"
 permalink: "/lessons/munich-linux"
 --- 
-## Linux in Munich
-
 ### Materials
 
 [<a href="https://www.neowin.net/news/munich-germany-realizes-that-deploying-linux-was-a-disaster-going-back-to-windows" target="_blank">main</a>] Short article about Munich's switch back to Windows from Linux

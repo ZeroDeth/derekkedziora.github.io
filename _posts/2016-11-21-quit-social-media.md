@@ -1,13 +1,12 @@
 ---
 date: 2016-11-21
-layout: default
+layout: lesson
 category: lesson
 title: "Quit Social Media"
 tags: ["lesson-type-reading", "lesson-type-listening", "cal-newport"]
 description: "Cal Newport explains why your career may depend on overcoming bad habits that social media exacerbates" 
 permalink: "/lessons/quit-social-media"
 --- 
-## Quit Social Media 
 
 ### Materials 
 

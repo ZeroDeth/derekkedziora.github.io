@@ -1,14 +1,12 @@
 ---
 date: 2016-10-24
-layout: default
+layout: lesson
 category: lesson
 title: Writing Sensible Emails
 tags: ["writing", "email","lesson-type-writing"]
 description: "How to avoid clutter and streamline the emails you write"
 permalink: "/lessons/sensible-emails"
 ---
-## Writing Sensible Emails
-
 ### Materials
 [<a href="http://www.43folders.com/2005/09/19/writing-sensible-email-messages" target="_blank">main</a>] Blog post by Merlin Mann<br>
 [<a href="http://derek.com.ua/lessons/email-samples" target="_blank">extra</a>] Emails to practice editing  

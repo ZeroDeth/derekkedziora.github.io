@@ -1,15 +1,14 @@
 ---
 date: 2016-10-25
-layout: default
+layout: lesson
 category: lesson
 title: "What Can We Learn from Shortcuts"
 tags: ["listening", "ted","lesson-type-listening"]
 description: "A TED Talk about learning from shortcuts" 
 permalink: "/lessons/learn-shortcuts"
 ---
-## Learning from Shortcuts
 
-## Materials 
+### Materials 
 
 [<a href= "https://www.ted.com/talks/tom_hulme_what_can_we_learn_from_shortcuts#t-51507" target="_blank">main</a>] TED Talk by Tom Hulme  
 [<a href ="https://www.ted.com/talks/seth_godin_this_is_broken_1" target="_blank">extra</a>] TED Talk by Seth Godin about things being broken

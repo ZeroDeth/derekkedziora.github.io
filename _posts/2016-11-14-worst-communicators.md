@@ -1,14 +1,12 @@
 ---
 date: 2016-11-14
-layout: default
+layout: lesson
 category: lesson
 title: "The Worst Communicators"
 tags: ["lesson-type-reading"]
 description: "Things native English speakers do that are hard for non-native-speakers to understand"
 permalink: "/lessons/worst-communicators"
 --- 
-## Native Speakers are the Worst Communicators
-
 ### Materials 
 
 [<a href="http://www.bbc.com/capital/story/20161028-native-english-speakers-are-the-worlds-worst-communicators" target="_blank">main</a>] BBC article about communication between native and non-native English speakers  

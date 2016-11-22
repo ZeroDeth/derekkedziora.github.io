@@ -1,13 +1,12 @@
 ---
 date: 2016-11-21
-layout: default
+layout: lesson
 category: lesson 
 title: "You Don't Need a Master Plan to Start"
 tags: ["lesson-type-reading", "start-ups"]
 description: "A short read about startups being too ambitious and over-planning"
 permalink: "/lessons/dont-need-master-plan" 
 --- 
-## You Don't Need a Master Plan to Start 
 
 ### Materials
 

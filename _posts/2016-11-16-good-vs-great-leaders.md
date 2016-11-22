@@ -1,13 +1,12 @@
 --- 
 date: 2016-11-16
-layout: default
+layout: lesson
 category: lesson
 title: "Good vs. Great Leaders"
 tags: ["lesson-type-reading"]
 description: "An interview with James Collins about the difference between good and great leaders"
 permalink: "/lessons/good-vs-great-leaders"
 ---
-## Good vs. Great Leaders
 
 ### Materials 
 [<a href="http://knowledge.wharton.upenn.edu/article/good-vs-great-leaders-the-difference-is-humility-doubt-and-drive/" target="_blank">main</a>] Interview with James Collins from knowledge@wharton  

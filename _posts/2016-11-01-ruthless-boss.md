@@ -1,14 +1,12 @@
 ---
 date: 2016-11-01
-layout: default
+layout: lesson
 category: lesson
 title: "The Ruthless Boss"
 tags: ["management", "brevity","lesson-type-writing"]
 description: "Improve a long blog post about mangagement by shortening it."
 permalink: "/lessons/ruthless-boss"
 ---
-## The Ruthless Boss
-
 ### Materials 
 [<a href="http://www.thesimpledollar.com/the-myth-of-the-ruthless-business-mogul-or-why-it-pays-to-be-nice-in-the-workplace" target="_blank">main</a>] Blog post from *The Simple Dollar*  
 

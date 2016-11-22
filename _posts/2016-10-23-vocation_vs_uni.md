@@ -1,14 +1,12 @@
 ---
 date: 2016-10-23
-layout: default
+layout: lesson
 category: lesson
 title: "Vocational Training vs. University"
 tags: ["reading", "education","lesson-type-reading"]
 description: "A short article about Switzerland's vocational training program as an alternative to university"
 permalink: "/lessons/vocational-vs-uni"
 ---
-## Vocational Education vs. University Education 
-
 ### Materials
 [<a href="http://world.time.com/2012/10/04/who-needs-college-the-swiss-opt-for-vocational-school/" target="_blank">main</a>] *Time Magazine* article  
 [<a href="http://www.ted.com/talks/mike_rowe_celebrates_dirty_jobs" target="_blank">extra</a>] TED Talk by Mike Rowe about the lack of skilled labor in the US 

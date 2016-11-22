@@ -1,14 +1,12 @@
 ---
 date: 2016-11-15
-layout: default 
+layout: lesson 
 category: lesson 
 title: "America's Rust Belt" 
 tags: ["lesson-type-listening", "ted"]
 description: "A TED Talk about the forgotten post-industrial swathes of America"
 permalink: "/lessons/american-working-class/"
 ---
-## America's Rust Belt 
-
 ### Materials 
 
 [<a href="https://www.ted.com/talks/j_d_vance_america_s_forgotten_working_class" target="_blank">main</a>] TED Talk by J.D. Vance  
