@@ -51,6 +51,11 @@ nav ul li, footer ul li {
     margin: 0px 20px 0px 0px;
 }
 
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
 #top-bar {
     margin: 15px 0px 0px 0px;
     text-align: center;
