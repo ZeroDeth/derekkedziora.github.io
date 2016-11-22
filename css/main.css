@@ -57,6 +57,14 @@ table, th, td {
     margin: -10px 0px 20px 0px;
 }
 
+blockquote {
+    font-size: 1.1em;
+    line-height: 1.6em;
+    color: #333;
+    border-left-style: solid;
+    border-color: grey;
+}
+
 #top-bar {
     margin: 15px 0px 0px 0px;
     text-align: center;
