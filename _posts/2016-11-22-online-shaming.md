@@ -9,8 +9,6 @@ permalink: "/lessons/one-tweet-shaming"
 ---
 ## Online Shaming Culture 
 
-{{post.description}}
-
 ### Materials 
 
 [<a href="https://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control" target="_blank">main</a>] TED Talk about online shaming  
