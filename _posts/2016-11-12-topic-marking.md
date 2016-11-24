@@ -1,14 +1,12 @@
 ---
 date: 2016-11-12
-layout: default
+layout: blog
 category: blog
 title: "Topic Marking"
 tags: ["topic-marking", "naturalness"]
 description: "Sound more natural by (not) marking the topic of a sentence."
 permalink: "/blog/topic-marking"
 ---
-## Topic Marking 
-
 You can make rapid progress in sounding more natural by understanding a few linguistic features of your target language since these areas pose the greatest barriers to sounding natural. 
 
 An example of this is topic marking: explicitly stating the topic of a sentence when it is neither the subject of the object. For example: 
