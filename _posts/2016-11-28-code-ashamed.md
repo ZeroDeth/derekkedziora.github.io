@@ -8,7 +8,7 @@ description: "A discussion about the ethical dilemmas that programmers face"
 permalink: "/lessons/code-shame"
 ---
 ### Materials 
-[<a href="http://www.businessinsider.com/programmers-confess-unethical-illegal-tasks-asked-of-them-2016-11" target="_blank">main</a>] Business Insider article about ethical coding
+[<a href="http://www.businessinsider.com/programmers-confess-unethical-illegal-tasks-asked-of-them-2016-11" target="_blank">main</a>] Business Insider article about ethical coding  
 [<a href="http://darkpatterns.org" target="_blank">extra</a>] Dark Patterns is an example of some self-regulation among developers 
 
 ### Lesson Objectives
