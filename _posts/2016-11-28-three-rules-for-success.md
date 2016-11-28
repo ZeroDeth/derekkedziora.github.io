@@ -15,6 +15,11 @@ permalink: "/lessons/three-rules"
 1. Listen to the TEDx talk for gist 
 2. Discuss the tradeoffs and rules outlined by Raynor 
 
+### Pre-Listening Questions 
+
+1. In what fields is it possible to win a race to the bottom?
+2. What companies have used a low-cost, low-quality strategy for long-term success? 
+
 ### Keywords
 
 rationalization (noun)  

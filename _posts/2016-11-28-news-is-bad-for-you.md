@@ -18,6 +18,11 @@ permalink: "/lessons/news-bad-for-you"
 1. Read Dobelli's ten arguments against news consumption for gist  
 2. Discuss news consumption 
 
+### Pre-Reading Questions
+
+1. How does reading the news help your life? 
+2. How much news is a reasonable amount to consume? 
+
 ### Keywords 
 
 [over]abundance (uncountable noun)  
