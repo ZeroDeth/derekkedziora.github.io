@@ -11,7 +11,7 @@ permalink: "/lessons/news-bad-for-you"
 
 [<a href="https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli" target="_blank">main</a>] Editorial by Rolf Dobelli in *The Guardian*  
 [<a href="http://observer.com/2016/11/want-to-really-make-america-great-again-stop-reading-the-news/" target="_blank">extra</a>] Ryan Holiday making the same argument in the context of the 2016 election  
-[<a href="https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.pypd4ut50" target="_target">extra</a> Great resource on cognitive errors    
+[<a href="https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.pypd4ut50" target="_target">extra</a>] Resource on cognitive errors    
 
 ### Lesson Objective 
 
