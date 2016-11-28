@@ -8,7 +8,7 @@ description: "Deloitte director Michael Raynor gives his three critical rules fo
 permalink: "/lessons/three-rules"
 ---
 ### Materials 
-[<a href="https://www.youtube.com/watch?v=lIzCjT7Znmc" target="_blank">main</a> TEDx Talk by Michael Raynor   
+[<a href="https://www.youtube.com/watch?v=lIzCjT7Znmc" target="_blank">main</a>] TEDx Talk by Michael Raynor   
 
 ### Lesson Objectives 
 
