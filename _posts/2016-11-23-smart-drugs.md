@@ -15,7 +15,7 @@ permalink: "/lessons/mental-performance-drugs"
 ### Lesson Objectives 
 
 1. Read the article for gist 
-2. Discuss issues surrounding taking recreation and performance-enhancing drugs 
+2. Discuss issues surrounding the taking of recreational and performance-enhancing drugs 
 
 ### Keywords 
 
@@ -36,6 +36,6 @@ First read the article for gist to discuss the following:
 The author used many great adjectives such as:
 
 looming (ed / ing adj.)  
-dread (adj, regular verb)  
+dread (ing / ed adj, regular verb)  
 
 Go through the text again and highlight unfamiliar adjectives. 
