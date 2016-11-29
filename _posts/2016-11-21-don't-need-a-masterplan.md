@@ -11,7 +11,8 @@ permalink: "/lessons/dont-need-master-plan"
 ### Materials
 
 [<a href="https://medium.com/startup-grind/you-dont-need-a-master-plan-you-just-need-to-start-9a3ec0455866#.v68trwcrd" target="_blank">main</a>] Short blog post about startups  
-[<a href="https://www.youtube.com/watch?v=J8UwcyYT3z0" target="_blank">extra</a>] Talk by Vincent Woo about running a side business
+[<a href="https://www.youtube.com/watch?v=J8UwcyYT3z0" target="_blank">extra</a>] Talk by Vincent Woo about running a side business  
+[<a href="https://medium.com/swlh/how-we-turned-140k-on-kickstarter-into-40k-in-debt-and-how-we-broke-even-1f86d80fe50f#.71a4sbp8i" target="_blank">extra</a>] The story of a startup that over-projected and barely broke even  
 
 ### Lesson Objectives 
 
