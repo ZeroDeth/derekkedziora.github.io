@@ -26,7 +26,7 @@ permalink: "/lessons/dont-need-master-plan"
 ### Keywords 
 
 unicorn (noun)  
-mast plan (noun phrase)  
+master plan (noun phrase)  
 outlandish (adj.)  
 [humble] ambition (noun phrase)  
 rally (-ied, ied)  
