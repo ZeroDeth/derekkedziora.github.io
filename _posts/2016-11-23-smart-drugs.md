@@ -11,6 +11,7 @@ permalink: "/lessons/mental-performance-drugs"
 ### Materials 
 
 [<a href="https://www.theguardian.com/commentisfree/2016/oct/31/i-took-a-prescription-pill-to-get-a-lot-of-work-done-quickly-heres-what-happened" target="_blank">main</a>] Piece in *The Guardian* about taking a "smart pill"  
+[<a href="https://www.youtube.com/watch?v=j5T-LYTPRVs&feature=youtu.be" target="_blank">extra</a>] Video from *The Economist* on the likely future of drug legalization  
 
 ### Lesson Objectives 
 
