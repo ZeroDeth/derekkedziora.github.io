@@ -34,7 +34,7 @@ purge (regular verb)
 
 Read the main article find the economic terms and figure out their meaning from context. Really try to find them and work out their meanings before looking at <a href="/lessons/economics-tidying-up/terms">the list</a>. 
 
-Some dicussion questions: 
+Dicussion questions: 
 
 - How would you describe Kondo's method? 
 - Why do you think this method has become so popular across the world? 
