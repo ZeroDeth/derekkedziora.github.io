@@ -12,7 +12,7 @@ permalink: "/lessons/homeschooling"
 
 ### Keywords 
 
-homeschooling [<a href="https://en.wikipedia.org/wiki/" target="_blank">Wikipedia</a>]  
+homeschooling [<a href="https://en.wikipedia.org/wiki/Homeschooling" target="_blank">Wikipedia</a>]  
 unschooling [<a href="https://en.wikipedia.org/wiki/Unschooling" target="_blank">Wikipedia</a>]  
 charter school [<a href="https://en.wikipedia.org/wiki/Charter_school" target="_blank">Wikipedia</a>]  
 Montessori Education [<a href="https://en.wikipedia.org/wiki/Montessori_education" target="_blank">Wikipedia</a>]  
