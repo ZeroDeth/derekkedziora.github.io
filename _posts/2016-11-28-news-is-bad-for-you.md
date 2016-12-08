@@ -42,7 +42,7 @@ news junkie (noun phrase)
 
 Read Dobelli's argument against consuming news for gist to analyze his argument:
 
-1. What are the main arguments against reading the news?  
+- What are the main arguments against reading the news?  
 
 Questions for further discussion: 
 
