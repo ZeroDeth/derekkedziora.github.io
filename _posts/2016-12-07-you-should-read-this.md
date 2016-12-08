@@ -7,7 +7,7 @@ description: "A look at how to naturally and politely use should"
 
 Should is one of the most misused words by non-native speakers and can instantly make your language sound rude, condescending or just plain unnatural. 
 
-Here's where I'd avoid using should:
+Here's where <i>should</i> is <u>not</u> used:
 
 ### Giving directions
 
@@ -19,7 +19,7 @@ Let's say a recruiter needs to tell a candidate how to find the office:
 
 Instead, give raw information and reasons: 
 
-[0.b] <i>We don't have a lot of parking near the office, so it is easier to take the metro than drive here.</i>
+[0.b] <i>We don't have a lot of parking near the office, so it is easier to take the metro.</i>
 
 [1.b] <i>Kontraktova Ploshcha is the closest metro station</i> 
 
@@ -33,11 +33,11 @@ In this case there is no choice. If I don't pass the exam, there's no way I'll g
 
 ### Requests 
 
-If something is a true request, don't use should. 
+If something is a request, don't use should. 
 
 [3.a] *<i>You should call me back by the end of the week.</i>
 
-This sounds rather rude. A much more neutral sounding request would be: 
+This sounds like a command. A more neutral sounding request would be: 
 
 [3.b] <i>Could you call me back by the end of the week?</i>
 
@@ -45,9 +45,11 @@ You can add a reason to make the request more urgent:
 
 [3.c] <i>Please let me know by the end of the week so I can process your order on time.</i>
 
+This is how <i>should</i> is used: 
+
 ### Predictions 
 
-The most common place to properly use should is with predictions. This part of the larger system of  <a href="http://derek.com.ua/lessons/modal-probability" target="_blank">evidentiality in English.</a> 
+The most common place to properly use should is with predictions. This is part of the larger system of  <a href="http://derek.com.ua/lessons/modal-probability" target="_blank">evidentiality in English.</a> 
 
 [4.a] <i>It should snow tomorrow.</i>
 
@@ -57,7 +59,7 @@ The most common place to properly use should is with predictions. This part of t
 
 Sentence [5.a] usually wouldn't be negated. Instead: 
 
-[5.b] <i>Traffic is bad today; I'm going to (will) be late.</i>
+[5.b] <i>Traffic is bad today; I'm (going to / will) be late.</i>
 
 ### Impersonal Obligations 
 
@@ -69,7 +71,7 @@ It's still possible to not use <i>should</i> in this context:
 
 [6.b] <i>Let's look at some alternatives to our current strategy.</i>
 
-When you is used, make sure it is the <a href="https://en.wikipedia.org/wiki/Generic_you" target="_blank>impersonal you</a>. This can be tricky in English as context is the only way to distinguish these, whereas in other languages such as German the difference is much more marked: 
+When you is used, make sure it is the <a href="https://en.wikipedia.org/wiki/Generic_you" target="_blank">impersonal you</a>. This can be tricky in English as context is the only way to distinguish these, whereas in other languages, such as German, the difference is marked: 
 
 [7.a.de] Du sollst deine Hausaufgaben machen. 
 
