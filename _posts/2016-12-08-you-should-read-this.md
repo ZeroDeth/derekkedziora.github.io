@@ -1,8 +1,10 @@
 ---
+date: 2016-12-08
 layout: blog
 category: blog
 title: "You Should Read This"
-description: "A look at how to naturally and politely use should" 
+description: "A look at how to naturally and politely use should"
+permalink: "/blog/you-should-read-this" 
 ---
 
 Should is one of the most misused words by non-native speakers and can instantly make your language sound rude, condescending or just plain unnatural. 
