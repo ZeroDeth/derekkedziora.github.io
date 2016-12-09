@@ -75,9 +75,9 @@ It's still possible to not use <i>should</i> in this context:
 
 When you is used, make sure it is the <a href="https://en.wikipedia.org/wiki/Generic_you" target="_blank">impersonal you</a>. This can be tricky in English as context is the only way to distinguish these, whereas in other languages, such as German, the difference is marked: 
 
-[7.a.de] Du sollst deine Hausaufgaben machen. 
+[7.a.de] <i>Du sollst deine Hausaufgaben machen.</i> 
 
-[7.b.de] Man soll seine Hausaufgaben machen. 
+[7.b.de] <i>Man soll seine Hausaufgaben machen.</i> 
 
 We can translate this impersonally as: 
 

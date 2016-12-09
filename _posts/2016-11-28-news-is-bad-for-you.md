@@ -10,8 +10,8 @@ permalink: "/lessons/news-bad-for-you"
 ### Materials 
 
 [<a href="https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli" target="_blank">main</a>] Editorial by Rolf Dobelli in *The Guardian*  
-[<a href="http://observer.com/2016/11/want-to-really-make-america-great-again-stop-reading-the-news/" target="_blank">extra</a>] Ryan Holiday making the same argument in the context of the 2016 election  
-[<a href="https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.pypd4ut50" target="_target">extra</a>] Resource on cognitive errors    
+[<a href="https://medium.com/art-marketing/i-quit-the-news-consider-it-too-6c1c6439b370#.yweiwphal" target="_blank">extra</a> Blog post by someone who spent 500 hours reading news about the the 2016 election  
+[<a href="http://www.askthepilot.com/silent-anniversary/" target="_blank">extra</a>] Example of the type of story missed in most news sources  
 
 ### Lesson Objective 
 

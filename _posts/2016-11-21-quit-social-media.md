@@ -12,6 +12,7 @@ permalink: "/lessons/quit-social-media"
 
 [<a href="http://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html" target="_blank">main</a>] NY Times piece by Cal Newport  
 [<a href="https://www.youtube.com/watch?v=3E7hkPZ-HTk" target="_blank">extra</a>] Much of the same material presented in a TEDx Talk  
+[<a href="http://calnewport.com/blog/2016/11/23/what-im-talking-about-when-i-talk-about-social-media/" target="_blank">extra</a>] A follow-up post by Newport defining social media  
 
 ### Lesson Objectives 
 

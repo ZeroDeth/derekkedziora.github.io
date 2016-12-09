@@ -10,6 +10,7 @@ permalink: "/lessons/being-tired-badge-honor"
 ### Materials 
 
 [<a href="https://m.signalvnoise.com/being-tired-isn-t-a-badge-of-honor-fa6d4c8cff4e#.ylf0jkk1x" target="_blank">main</a>] Medium post by Jason Fried  
+[<a href="http://www.bbc.com/future/story/20160721-the-reasons-why-exhaustion-and-burnout-are-so-common" target="_blank">extra</a>] BBC article about burnout and exhaustion   
 
 ### Lesson Objectives 
 
