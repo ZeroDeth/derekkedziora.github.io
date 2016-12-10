@@ -98,11 +98,12 @@ blockquote {
     text-decoration: none;
 }
 
+/*
 @media screen and (device-aspect-ratio: 40/71) {
     body    {
     width: 90%;
     font-size: 225%;
-}
+}*/
 
 @media screen and (max-width: 767px) {
     body {
