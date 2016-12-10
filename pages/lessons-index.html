@@ -13,9 +13,9 @@ permalink: /lessons/
 <li><a href="/lessons/writing/">[writing]</a></li>
 </ul>
     </nav>
-<h1 class='lesson-title'>All Lessons</h1>
+<h1 class='lesson-title'>Most Recent</h1>
 
-{% for post in site.categories.lesson limit: 30 %}
+{% for post in site.categories.lesson limit: 20 %}
    
     {% include lesson-listing.html %}   
    

@@ -1,5 +1,9 @@
-<p><strong>{{ post.title }}</strong> [{{ post.lesson-type}}] 
+<h3>{{ post.title }}</h3>
+    <p>
+        [{{ post.lesson-type}}] [{{ post.date | date_to_string }}]
         <br>
         {{post.description}}
         <br>
-        <a id="content-link" href="{{ post.url }}"" target="_blank">View Full Lesson</a></p>
+        <a href="{{ post.url }}" target="_blank">View Full Post</a>
+    </p>
+    

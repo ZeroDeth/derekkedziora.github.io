@@ -1,4 +1,4 @@
-Content is release into the public domain under the Creative Commons Zero License:  
+Content is released into the public domain under the Creative Commons Zero License:  
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
