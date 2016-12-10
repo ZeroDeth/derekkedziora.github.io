@@ -1,8 +1,8 @@
 ---
 date: 2016-11-15
 layout: lesson
-category: lesson
-lesson-type: reading
+lesson: true
+type: reading
 reading: true
 title: Japanese Children and Independence
 description: Japan takes concrete steps to teach even young children independence

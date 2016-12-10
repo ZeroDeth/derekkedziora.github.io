@@ -1,8 +1,8 @@
 ---
 date: 2016-11-17
 layout: lesson
-category: lesson
-lesson-type: reading
+lesson: true
+type: reading
 reading: true
 title: How to be Miserable
 description: A short and sarcastic guide to happiness by explaining how to not be happy

@@ -1,8 +1,8 @@
 ---
 date: 2016-10-24
 layout: lesson
-category: lesson
-lesson-type: writing 
+lesson: true
+type: writing 
 writing: true
 title: Writing Sensible Emails
 description: How to avoid clutter and streamline your emails

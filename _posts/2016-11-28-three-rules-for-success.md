@@ -1,13 +1,13 @@
 ---
 date: 2016-11-28 
 layout: lesson
-category: lesson
-lesson-type: listening
+lesson: true
+type: listening
 listening: true
-title: "The Three Rules"
+title: The Three Rules
 lesson-type: listening
-description: "Deloitte director Michael Raynor gives his three critical rules for businesses" 
-permalink: "/lessons/three-rules"
+description: Deloitte director Michael Raynor gives his three critical rules for businesses 
+permalink: /lessons/three-rules
 ---
 ### Materials 
 [<a href="https://www.youtube.com/watch?v=lIzCjT7Znmc" target="_blank">main</a>] TEDx Talk by Michael Raynor   

@@ -1,8 +1,8 @@
 ---
 date: 2016-11-25
 layout: lesson
-category: lesson
-lesson-type: reading
+lesson: true
+type: reading
 reading: true
 title: How Morality Changes in a Foreign Language
 description: Scientific American explores how an individual's ethics shift when they speak their non-native language

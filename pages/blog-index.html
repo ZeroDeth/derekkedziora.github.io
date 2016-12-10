@@ -4,11 +4,10 @@ title: Blog
 permalink: /blog/
 ---
 <h1>Blog Posts</h1>
-{% for post in site.categories.blog %}
-    <p><strong>{{ post.title }}</strong>
-    <br>
-    {{post.description}}</p>
-    <p id="content-link"> <a href="{{ post.url }}" target="_blank">View Full Post</a>
-    <br>
-    [{{ post.date | date_to_string }}]</p>
+{% for post in site.posts %}
+     {% if post.blog %}
+     
+  {% include lesson-listing.html %}
+  
+  {% endif %}
     {% endfor %}

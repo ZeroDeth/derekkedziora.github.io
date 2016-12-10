@@ -1,13 +1,13 @@
 ---
 date: 2016-11-21
 layout: lesson
-category: lesson
-lesson-type: listening, reading
+lesson: true
+type: listening, reading
 listening: true
 reading: true
-title: "Quit Social Media"
-description: "Cal Newport explains why your career may depend on overcoming bad habits that social media exacerbates" 
-permalink: "/lessons/quit-social-media"
+title: Quit Social Media
+description: Cal Newport explains why your career may depend on overcoming bad habits that social media exacerbates
+permalink: /lessons/quit-social-media
 --- 
 
 ### Materials 

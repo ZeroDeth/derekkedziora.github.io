@@ -1,8 +1,8 @@
 ---
 date: 2016-12-05
 layout: lesson
-category: lesson 
-lesson-type: reading
+lesson: true
+type: reading
 reading: true
 title: The Economics of Tidying Up
 description: A book review of Marie Kondo's book about tidying filled with economic terms 

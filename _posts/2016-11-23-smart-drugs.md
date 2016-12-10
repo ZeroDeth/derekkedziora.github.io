@@ -1,8 +1,8 @@
 ---
 date: 2016-11-23
 layout: lesson
-category: lesson
-lesson-type: reading
+lesson: true
+type: reading
 reading: true
 title: Taking Smart Drugs
 description: An author describes her experience taking drugs to enhance her mental performance 

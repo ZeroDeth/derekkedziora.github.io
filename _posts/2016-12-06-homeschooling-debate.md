@@ -1,8 +1,8 @@
 ---
 date: 2016-12-06
 layout: lesson
-category: lesson
-lesson-type: speaking
+lesson: true
+type: speaking
 speaking: true
 title: The Homeschooling Debate 
 description: A speaking lesson about the issues surrounding homeschooling, charter schools and education

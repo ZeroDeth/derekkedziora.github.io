@@ -1,8 +1,8 @@
 ---
 date: 2016-11-17
 layout: lesson
-category: lesson
-lesson-type: reading
+lesson: true
+type: reading
 reading: true
 title: Virtue Signaling
 description: A short read describing how many positions you take are simply meaningless ways to look good to others

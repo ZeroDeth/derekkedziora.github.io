@@ -3,17 +3,7 @@ layout: default
 title: Speaking Lessons
 permalink: "/lessons/speaking/"
 ---
-<nav>
-<ul id='lesson-type-bar'>
-<li><a href="/lessons/">[all]</a></li>    
-<li><a href="/lessons/grammar/">[grammar]</a></li>
-<li><a href="/lessons/listening/">[listening]</a></li>
-<li><a href="/lessons/reading/">[reading]</a></li>
-<li>[speaking]</li>
-<li><a href="/lessons/writing/">[writing]</a></li>
-</ul>
-    </nav>
-<h1 class='lesson-title'>Speaking Lessons</h1>
+{% include lesson-nav-bar.html %}
 
 {% for post in site.posts %} 
     {% if post.speaking %}

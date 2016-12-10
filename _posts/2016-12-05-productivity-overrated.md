@@ -1,12 +1,12 @@
 ---
 date: 2016-12-05 
 layout: lesson
-category: lesson
-lesson-type: reading
+lesson: true
+type: reading
 reading: true
 title: The Art of the Finish
 description: Cal Newport argues that productivity is overrated and we would be better off focusing on accomplishments
-permalink: lessons/the-art-of-the-finish
+permalink: lessons/the-art-of-the-finish/
 --- 
 ### Materials 
 [<a href="https://www.scotthyoung.com/blog/2007/10/18/the-art-of-the-finish-how-to-go-from-busy-to-accomplished/" target="_blank">main</a>] Blog post by Cal Newton  

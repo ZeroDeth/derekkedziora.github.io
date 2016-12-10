@@ -1,11 +1,12 @@
 ---
 date: 2016-10-24
 layout: lesson
-category: lesson
-title: "The Un-Silicon Valley Start-Up"
-tags: ["mailchimp", "reading", "new-york-times", "startups", "lesson-type-reading"]
-description: "MailChimp defies the traditional startup model and is successful outside of SF and without venture capital."
-permalink: "/lessons/mailchimp-startup"
+lesson: true
+type: reading
+reading: true
+title: The Un-Silicon Valley Start-Up
+description: MailChimp defies the traditional startup model and is successful outside of SF and without venture capital
+permalink: /lessons/mailchimp-startup
 ---
 ### Materials
 [<a href="http://www.nytimes.com/2016/10/06/technology/mailchimp-and-the-un-silicon-valley-way-to-make-it-as-a-start-up.html?_r=1" target="_blank">main</a>] New York Time's Article  

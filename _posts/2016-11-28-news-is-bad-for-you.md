@@ -1,8 +1,8 @@
 ---
 date: 2016-11-28
 layout: lesson
-category: lesson
-lesson-type: reading
+lesson: true
+type: reading
 reading: true
 title: News is Bad for You
 description: Rolf Dobelli argues that there are no upsides and only drawbacks to reading the news

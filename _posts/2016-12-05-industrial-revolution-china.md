@@ -1,8 +1,8 @@
 ---
 date: 2016-12-05
 layout: lesson
-category: lesson
-lesson-type: reading
+lesson: true
+type: reading
 reading: true
 title: Why the Industrial Revolution Happened
 description: Joel Mokyr explores why the Industrial Revolution occurred in Europe rather than more advanced China or India

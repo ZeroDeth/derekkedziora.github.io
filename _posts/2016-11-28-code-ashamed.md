@@ -1,8 +1,8 @@
 ---
 date: 2016-11-28
 layout: lesson
-category: lesson
-lesson-type: reading
+lesson: true
+type: reading
 reading: true
 title: Code that I'm Ashamed of
 description: A discussion about the ethical dilemmas that programmers and other professionals face

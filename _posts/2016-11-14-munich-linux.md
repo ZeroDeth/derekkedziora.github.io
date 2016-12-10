@@ -1,11 +1,12 @@
 ---
 date: 2016-11-14
 layout: lesson
-title: "Linux in Munich"
-category: lesson
-tags: ["lesson-type-reading","germany","linux"]
-description: "Munich has reversed its decision to use Linux"
-permalink: "/lessons/munich-linux"
+lesson: true
+type: reading
+reading: true
+title: Linux in Munich
+description: Munich has reversed its decision to use Linux
+permalink: /lessons/munich-linux
 --- 
 ### Materials
 

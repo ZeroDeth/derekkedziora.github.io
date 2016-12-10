@@ -1,8 +1,8 @@
 --- 
 date: 2016-11-16
 layout: lesson
-category: lesson
-lesson-type: reading
+lesson: true
+type: reading
 reading: true
 title: Good vs. Great Leaders
 description: An interview with James Collins about the difference between good and great leaders

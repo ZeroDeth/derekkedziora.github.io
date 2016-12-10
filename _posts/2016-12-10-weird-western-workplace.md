@@ -1,8 +1,8 @@
 ---
 date: 2016-12-10
 layout: lesson
-category: lesson
-lesson-type: reading
+lesson: true
+type: reading
 reading: true
 title: The Weird Western Workplace
 description: A BBC article about the strange customs of Western offices through the eyes of Chinese immigrants

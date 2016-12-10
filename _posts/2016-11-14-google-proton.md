@@ -1,11 +1,12 @@
 ---
 date: 2016-11-14
 layout: lesson
-category: lesson
-title: "Google vs. ProtonMail"
-tags: ["lesson-type-reading"]
-description: "ProtonMail disappeared from Google's Search. How powerful should a monopoly be allowed to get?"
-permalink: "/lessons/google-v-proton"
+lesson: true
+type: reading
+reading: true
+title: Google vs. ProtonMail
+description: ProtonMail disappeared from Google's Search. How powerful should a monopoly be allowed to get?
+permalink: /lessons/google-v-proton
 ---
 ### Materials
 [<a href="https://techcrunch.com/2016/10/27/why-did-protonmail-vanish-from-google-search-results-for-months/" target="_blank">main</a>] *TechCrunch* article about ProtonMail not displaying on Google searches     

@@ -1,8 +1,8 @@
 ---
 date: 2016-11-15
 layout: lesson 
-category: lesson 
-lesson-type: listening
+lesson: true
+type: listening
 listening: true
 title: "America's Rust Belt" 
 description: "A TED Talk about the forgotten post-industrial swathes of America"

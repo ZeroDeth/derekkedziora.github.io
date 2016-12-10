@@ -1,8 +1,8 @@
 ---
 date: 2016-11-01
 layout: lesson
-category: lesson
-lesson-type: writing
+lesson: true
+type: writing
 writing: true
 title: "The Ruthless Boss"
 description: "Improve a long blog post about mangagement by shortening it."

@@ -3,17 +3,7 @@ layout: default
 title: Reading Lessons
 permalink: "/lessons/reading/"
 ---
-<nav>
-<ul id='lesson-type-bar'>
-<li><a href="/lessons/">[all]</a></li>    
-<li><a href="/lessons/grammar/">[grammar]</a></li>
-<li><a href="/lessons/listening/">[listening]</a></li>
-<li>[reading]</li>
-<li><a href="/lessons/speaking/">[speaking]</a></li>
-<li><a href="/lessons/writing/">[writing]</a></li>
-</ul>
-    </nav>
-<h1 class='lesson-title'>Reading Lessons</h1>
+{% include lesson-nav-bar.html %}
 
 {% for post in site.posts limit: 20 %} 
     {% if post.reading %}

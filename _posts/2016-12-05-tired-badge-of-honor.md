@@ -1,8 +1,8 @@
 ---
 date: 2016-12-05
 layout: lesson
-category: lesson 
-lesson-type: reading
+lesson: true 
+type: reading
 reading: true
 title: Being Tired Isn't a Badge of Honor
 description: A CEO challenges the idea that being tired, exhausted and busy are signs of a good employee

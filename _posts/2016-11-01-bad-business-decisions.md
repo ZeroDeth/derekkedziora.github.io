@@ -1,11 +1,12 @@
 ---
 date: 2016-11-01
 layout: lesson
-category: lesson
-title: "A Silent Cause of Bad Business Decisions"
-tags: ["intuition", "decisions", "biases","lesson-type-reading"]
-description: "A short read about how our intuition can sabotage critical decisions."
-permalink: "/lessons/bad-business-decisions"
+lesson: true
+type: reading
+reading: true
+title: A Silent Cause of Bad Business Decisions
+description: A short read about how our intuition can sabotage critical decisions.
+permalink: /lessons/bad-business-decisions
 ---
 ### Materials 
 [<a href="https://medium.dave-bailey.com/the-silent-cause-of-bad-business-decisions-b95d977b5ca7" target="_blank">main</a>] Blog post by Dave Baily  

@@ -1,11 +1,11 @@
 ---
 date: 2016-10-19
 layout: lesson
-category: lesson
-lesson-type: listening
+lesson: true
+type: listening
 listening: true
-title: "Four Reasons to Learn a New Language"
-description: "A TED Talk about the benefits of language learning"
+title: Four Reasons to Learn a New Language
+description: A TED Talk about the benefits of language learning
 permalink: /lessons/TED-learning-lang
 ---
 ### Materials 

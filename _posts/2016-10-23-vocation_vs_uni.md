@@ -1,11 +1,12 @@
 ---
 date: 2016-10-23
 layout: lesson
-category: lesson
-title: "Vocational Training vs. University"
-tags: ["reading", "education","lesson-type-reading"]
-description: "A short article about Switzerland's vocational training program as an alternative to university"
-permalink: "/lessons/vocational-vs-uni"
+lesson: true
+reading: true
+type: reading
+title: Vocational Training vs. University
+description: A short article about Switzerland's vocational training program as an alternative to university
+permalink: /lessons/vocational-vs-uni
 ---
 ### Materials
 [<a href="http://world.time.com/2012/10/04/who-needs-college-the-swiss-opt-for-vocational-school/" target="_blank">main</a>] *Time Magazine* article  

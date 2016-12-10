@@ -31,12 +31,12 @@ h1 {
 }
 
 h2 {
-    font-size: 1.8em;
+    font-size: 1.7em;
     margin: 10px 0px 10px 0px; 
 }
 
 h3 {
-    font-size: 1.6em;
+    font-size: 1.5em;
     margin: 10px 0px 0px 0px; 
 }
 
@@ -98,17 +98,15 @@ blockquote {
     text-decoration: none;
 }
 
+#lesson-title {
+    text-align: center;
+}
 
 @media screen and (device-aspect-ratio: 40/71) {
     body    {
     width: 95%;
     font-size: 250%;
 }
-
-    h3 {
-        font-size: 5em;
-    }
-
 
 @media screen and (max-width: 767px) {
     body {

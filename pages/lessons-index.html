@@ -1,22 +1,12 @@
 ---
 layout: default
-title: Lessons
+title: Recent Lessons
 permalink: /lessons/
 ---
-    <nav>
-<ul id='lesson-type-bar'>
-<li>[all]</li>    
-<li><a href="/lessons/grammar/">[grammar]</a></li>
-<li><a href="/lessons/listening/">[listening]</a></li>
-<li><a href="/lessons/reading/">[reading]</a></li>
-<li><a href="/lessons/speaking/">[speaking]</a></li>
-<li><a href="/lessons/writing/">[writing]</a></li>
-</ul>
-    </nav>
-<h1 class='lesson-title'>Most Recent</h1>
+{% include lesson-nav-bar.html %}
 
-{% for post in site.categories.lesson limit: 20 %}
-   
+{% for post in site.posts limit: 20 %}
+    {% if post.lesson %}   
     {% include lesson-listing.html %}   
-   
+   {% endif %}
 {% endfor %}
