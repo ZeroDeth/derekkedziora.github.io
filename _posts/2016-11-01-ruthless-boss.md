@@ -2,18 +2,17 @@
 date: 2016-11-01
 layout: lesson
 category: lesson
+lesson-type: writing
+writing: true
 title: "The Ruthless Boss"
-tags: ["management", "brevity","lesson-type-writing"]
 description: "Improve a long blog post about mangagement by shortening it."
-permalink: "/lessons/ruthless-boss"
+permalink: /lessons/ruthless-boss
 ---
 ### Materials 
 [<a href="http://www.thesimpledollar.com/the-myth-of-the-ruthless-business-mogul-or-why-it-pays-to-be-nice-in-the-workplace" target="_blank">main</a>] Blog post from *The Simple Dollar*  
 
 ### Pre-reading Questions
 
-- What are some different management styles and ways to motivate workers? 
-- Are some management styles industry specific? 
 - Is brevity a strong point in writing? 
 
 
@@ -38,5 +37,5 @@ burning the candle at both ends
 Read the blog post to do the following activity:  
 
 1. Do you think this post is well written?   
-2. The article contains 1,115 words, many of them extraneous. There are numerous digressions, long stories and extended metaphors. What are the merits of using such writing devices?   
+2. The article contains over a thousand words, many of them extraneous. There are numerous digressions, long stories and extended metaphors. What are the merits of using such writing devices?   
 3. Copy the text into a text editor. Your goal is to make the text as short as possible while still maintaining the most important points of the original article. You may delete anything you feel can be removed, but please don't add anything other than punctuation.   

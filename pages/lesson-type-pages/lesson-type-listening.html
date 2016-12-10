@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research Lessons
+title: Listening Lessons
 permalink: "/lessons/listening/"
 ---
 <nav>
@@ -14,10 +14,11 @@ permalink: "/lessons/listening/"
 </ul>
     </nav>
 <h1 class='lesson-title'>Listening Lessons</h1>
-{% for post in site.tags.lesson-type-listening %}
-    <p><strong>{{ post.title }}</strong>
-    <br>
-    {{post.description}}
-    <br>
-    <a id="content-link" href="{{ post.url }}"" target="_blank">View Full Lesson</a></p>
-  {% endfor %}
+
+{% for post in site.posts %} 
+    {% if post.listening %}
+    
+        {% include lesson-listing.html %}
+    
+    {% endif %}
+{% endfor %}

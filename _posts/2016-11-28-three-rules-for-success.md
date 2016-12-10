@@ -2,8 +2,10 @@
 date: 2016-11-28 
 layout: lesson
 category: lesson
+lesson-type: listening
+listening: true
 title: "The Three Rules"
-tags: ["lesson-type-listening"]
+lesson-type: listening
 description: "Deloitte director Michael Raynor gives his three critical rules for businesses" 
 permalink: "/lessons/three-rules"
 ---

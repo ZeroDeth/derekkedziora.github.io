@@ -2,10 +2,11 @@
 date: 2016-12-05
 layout: lesson
 category: lesson 
-title: "The Economics of Tidying Up"
-tags: ["lesson-type-reading", "marie-kondo"]
-description: "A book review of Marie Kondo's book about tidying filled with economic terms" 
-permalink: "/lessons/economics-tidying-up"
+lesson-type: reading
+reading: true
+title: The Economics of Tidying Up
+description: A book review of Marie Kondo's book about tidying filled with economic terms 
+permalink: /lessons/economics-tidying-up
 --- 
 ### Materials 
 [<a href="http://www.theatlantic.com/business/archive/2015/05/an-economist-reads-marie-kondo/392921/" target="_blank">extra</a>] Book review from *The Atlantic*  

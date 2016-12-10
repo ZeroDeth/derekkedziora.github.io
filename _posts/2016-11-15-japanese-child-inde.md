@@ -2,10 +2,11 @@
 date: 2016-11-15
 layout: lesson
 category: lesson
-title: "Japanese Children and Independence"
-tags: ["lesson-type-reading", "japan", "child-rearing"]
-description: "Japan takes concrete steps to teach even young children independence"
-permalink: "/lessons/japan-child-independence"
+lesson-type: reading
+reading: true
+title: Japanese Children and Independence
+description: Japan takes concrete steps to teach even young children independence
+permalink: /lessons/japan-child-independence
 --- 
 ### Materials 
 [<a href="http://savvytokyo.com/japan-prepares-children-independence/" target="_blank">main</a>] Article describing how Japanese pre-schools teach children independence  

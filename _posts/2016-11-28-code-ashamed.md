@@ -2,10 +2,11 @@
 date: 2016-11-28
 layout: lesson
 category: lesson
-title: "Code that I'm Ashamed of"
-tags: ["lesson-type-reading"]
-description: "A discussion about the ethical dilemmas that programmers face" 
-permalink: "/lessons/code-shame"
+lesson-type: reading
+reading: true
+title: Code that I'm Ashamed of
+description: A discussion about the ethical dilemmas that programmers and other professionals face
+permalink: /lessons/code-shame
 ---
 ### Materials 
 [<a href="http://www.businessinsider.com/programmers-confess-unethical-illegal-tasks-asked-of-them-2016-11" target="_blank">main</a>] Business Insider article about ethical coding  

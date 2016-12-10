@@ -1,11 +1,12 @@
 ---
 date: 2016-12-06
 layout: lesson
-category: lesson 
-title: "The Homeschooling Debate" 
-tags: ["lesson-type-speaking", "homeschooling"]
-description: "A speaking lesson about the issues surrounding homeschooling, charter schools and education"
-permalink: "/lessons/homeschooling"
+category: lesson
+lesson-type: speaking
+speaking: true
+title: The Homeschooling Debate 
+description: A speaking lesson about the issues surrounding homeschooling, charter schools and education
+permalink: /lessons/homeschooling
 ---
 ### Lesson Objectives 
 - Discuss different approaches to education  

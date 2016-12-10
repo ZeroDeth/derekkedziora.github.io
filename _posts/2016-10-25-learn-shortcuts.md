@@ -2,9 +2,10 @@
 date: 2016-10-25
 layout: lesson
 category: lesson
+lesson-type: listening
+listening: true
 title: "What Can We Learn from Shortcuts"
-tags: ["listening", "ted","lesson-type-listening"]
-description: "A TED Talk about learning from shortcuts" 
+description: "A TED Talk about learning from shortcuts to improve UX" 
 permalink: "/lessons/learn-shortcuts"
 ---
 

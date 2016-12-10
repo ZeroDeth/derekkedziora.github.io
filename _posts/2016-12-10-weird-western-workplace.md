@@ -1,11 +1,12 @@
 ---
-date: 2016-11-28
+date: 2016-12-10
 layout: lesson
-category: default
-title: "The Weird Western Workplace"
-tags: ["lesson-type-reading", "bbc"]
-description: "A BBC article about the strange customs of Western offices through the eyes of Chinese immigrants"
-permalink: "/lesson/weird-western-workplace"
+category: lesson
+lesson-type: reading
+reading: true
+title: The Weird Western Workplace
+description: A BBC article about the strange customs of Western offices through the eyes of Chinese immigrants
+permalink: /lesson/weird-western-workplace
 --- 
 ### Materials 
 [<a href="http://www.bbc.com/capital/story/20161115-the-weird-world-of-the-western-workplace" target="_blank">main</a>] BBC article 

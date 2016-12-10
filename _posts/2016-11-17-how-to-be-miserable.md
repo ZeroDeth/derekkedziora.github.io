@@ -2,10 +2,11 @@
 date: 2016-11-17
 layout: lesson
 category: lesson
-title: "How to be Miserable"
-tags: ["lesson-type-reading", "lesson-type-speaking"]
-description: "A short and sarcastic guide to happiness by explaining how to not be happy"
-permalink: "/lessons/guide-to-being-miserable"
+lesson-type: reading
+reading: true
+title: How to be Miserable
+description: A short and sarcastic guide to happiness by explaining how to not be happy
+permalink: /lessons/guide-to-being-miserable
 ---
 ### Materials 
 

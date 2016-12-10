@@ -2,10 +2,11 @@
 date: 2016-12-05
 layout: lesson
 category: lesson
-title: "Why the Industrial Revolution Happened"
-tags: ["lesson-type-reading", "china"]
-description: "Joel Mokyr explores why the Industrial Revolution occurred in Europe rather than more advanced China or India"
-permalink: "lessons/industrial-revolution-europe"
+lesson-type: reading
+reading: true
+title: Why the Industrial Revolution Happened
+description: Joel Mokyr explores why the Industrial Revolution occurred in Europe rather than more advanced China or India
+permalink: lessons/industrial-revolution-europe
 --- 
 ### Materials 
 [<a href="https://www.washingtonpost.com/news/wonk/wp/2016/10/28/why-the-industrial-revolution-didnt-happen-in-china/" target="_blank">main</a>] Washington Post interview with historian Joel Mokyr  

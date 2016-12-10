@@ -7,28 +7,16 @@
 
   <body>
    
-    <nav>
-<ul id='top-bar'>
-<li>[<a href="/">home</a>]</li>
-<li>[<a href="/about">about</a>]</li>
-<li>[<a href="/blog">blog</a>]</li>
-<li>[<a href="/lessons">lessons</a>]</li>
-</ul>
-    </nav>
+{% include navbar.html %}
 
 
 <div class="container">
+  
 {{content }}
 </div>
 
   
-<footer>
-    <ul id='bottom-bar'>
-     <li>Derek Kedziora</li><br>
-     <li>email: me@derek.com.ua</li><br>
-     <li>twitter: <a href="https://twitter.com/derekkedziora" target="_blank">@derekkedziora</a></li>
-   </ul> 
-  </footer>
+{% include footer.html %}
   </body>
 
 </html>

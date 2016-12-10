@@ -2,10 +2,11 @@
 date: 2016-11-15
 layout: lesson
 category: lesson
-title: "Monolingualism Hurts the UK"
-tags: ["lesson-type-reading","UK", "language-learning"]
-description: "English isn't Enough: not knowing foreign languages is hurting the UK economy" 
-permalink: "/lessons/uk-lang-lack"
+lesson-type: reading
+reading: true
+title: Monolingualism Hurts the UK
+description: English isn't Enough; not knowing foreign languages is hurting the UK economy 
+permalink: /lessons/uk-lang-lack
 --- 
 ### Materials 
 

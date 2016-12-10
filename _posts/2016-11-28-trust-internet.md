@@ -2,8 +2,9 @@
 date: 2016-11-28
 layout: lesson
 category: lesson
+lesson-type: listening
+listening: true
 title: "Trust in the App Era" 
-tags: ["lesson-type-listening", "ted-talk"]
 description: "A TED Talk about how we've come to trust strangers over institutions due to technology" 
 permalink: "/lessons/trust-strangers"
 ---

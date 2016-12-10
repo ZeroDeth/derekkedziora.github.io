@@ -2,8 +2,9 @@
 date: 2016-11-15
 layout: lesson 
 category: lesson 
+lesson-type: listening
+listening: true
 title: "America's Rust Belt" 
-tags: ["lesson-type-listening", "ted"]
 description: "A TED Talk about the forgotten post-industrial swathes of America"
 permalink: "/lessons/american-working-class/"
 ---
