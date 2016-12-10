@@ -105,6 +105,11 @@ blockquote {
     font-size: 250%;
 }
 
+    h1, h2, h3, h4 {
+        font-size: 250%;
+    }
+
+
 @media screen and (max-width: 767px) {
     body {
         width: 90%;
