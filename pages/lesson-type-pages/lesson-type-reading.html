@@ -15,7 +15,7 @@ permalink: "/lessons/reading/"
     </nav>
 <h1 class='lesson-title'>Reading Lessons</h1>
 
-{% for post in site.posts %} 
+{% for post in site.posts limit: 20 %} 
     {% if post.reading %}
     
         {% include lesson-listing.html %}
