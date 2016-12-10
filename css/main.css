@@ -25,18 +25,18 @@ p, ul, ol {
 }
 
 h1 {
-    font-size: 1.8em;
+    font-size: 2em;
     text-align: center;
     margin: 5px 0px 0px 0px;
 }
 
 h2 {
-    font-size: 1.6em;
+    font-size: 1.8em;
     margin: 10px 0px 10px 0px; 
 }
 
 h3 {
-    font-size: 1.4em;
+    font-size: 1.6em;
     margin: 10px 0px 0px 0px; 
 }
 
@@ -102,7 +102,6 @@ blockquote {
     body    {
     width: 90%;
     font-size: 225%;
-    h3: 250%;
 }
 
 @media screen and (max-width: 767px) {
