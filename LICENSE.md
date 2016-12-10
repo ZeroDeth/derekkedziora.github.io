@@ -1,3 +1,13 @@
+Content is release into the public domain under the Creative Commons Zero License:  
+<p xmlns:dct="http://purl.org/dc/terms/">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+
+Code is covered by the MIT License:
+
 MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
