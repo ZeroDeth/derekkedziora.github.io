@@ -11,7 +11,7 @@ permalink: /lessons/sideprojects
 
 ### Materials 
 
-[<a href="" target="_blank">main</a>] Blog post by Joel Spolsky  
+[<a href="https://www.joelonsoftware.com/2016/12/09/developers-side-projects/" target="_blank">main</a>] Blog post by Joel Spolsky  
 
 ### Lesson Objectives 
 
