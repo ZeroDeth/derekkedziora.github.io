@@ -10,8 +10,9 @@ permalink: "/lessons/one-tweet-shaming"
 ---
 ### Materials 
 
-[<a href="https://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control" target="_blank">main</a>] TED Talk about online shaming  
-[<a href="http://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html" target="_blank">extra</a>] The same contented adapted to a NY Times column  
+[<a href="https://www.ted.com/talks/jon_ronson_what_happens_when_online_shaming_spirals_out_of_control" target="_blank">main</a>] TED Talk by Jon Ronson online shaming  
+[<a href="http://www.nytimes.com/2015/02/15/magazine/how-one-stupid-tweet-ruined-justine-saccos-life.html" target="_blank">extra</a>] NY Times column by Ronson  
+[<a href="http://observer.com/2016/12/we-are-living-in-a-post-shame-world-and-thats-not-a-good-thing/" target="_blank"> An argument by Ryan Holiday that online shaming is a positive thing  
 
 ### Lesson Objectives 
 1. Learn and practice lexis about shaming
@@ -20,7 +21,7 @@ permalink: "/lessons/one-tweet-shaming"
 ### Keywords  
 
 disgraced (adj, ed = person, -ful = source)  
-dehamanize (regular verb)  
+dehumanize (regular verb)  
 hanging judge (noun phrase)  
 privilege (noun, often uncountable)  
 treat water (set expression)  
