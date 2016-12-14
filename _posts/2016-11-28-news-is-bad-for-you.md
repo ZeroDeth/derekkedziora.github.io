@@ -11,8 +11,9 @@ permalink: /lessons/news-bad-for-you
 ### Materials 
 
 [<a href="https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli" target="_blank">main</a>] Editorial by Rolf Dobelli in *The Guardian*  
-[<a href="https://medium.com/art-marketing/i-quit-the-news-consider-it-too-6c1c6439b370#.yweiwphal" target="_blank">extra</a> Blog post by someone who spent 500 hours reading news about the the 2016 election  
-[<a href="http://www.askthepilot.com/silent-anniversary/" target="_blank">extra</a>] Example of the type of story missed in most news sources  
+[<a href="https://medium.com/art-marketing/i-quit-the-news-consider-it-too-6c1c6439b370#.yweiwphal" target="_blank">extra</a> Blog post by someone who wasted 500 hours reading news about the the 2016 election  
+[<a href="http://www.askthepilot.com/silent-anniversary/" target="_blank">extra</a>] Example of the type of story not covered in the news
+[<a href="http://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/" target="_blank">extra</a>] Benefits of not reading the news
 
 ### Lesson Objective 
 
@@ -47,6 +48,6 @@ Read Dobelli's argument against consuming news for gist to analyze his argument:
 
 Questions for further discussion: 
 
-2. Do you agree with Dobelli and Holiday that news overconsumption has caused problems in society? 
+2. Do you agree with Dobelli that overconsumption of the news has caused problems in society? 
 3. How can you balance being informed while avoiding the pitfalls of consuming too much news? 
 4. How can you keep yourself from paying more attention to what's new rather than what's relevant?

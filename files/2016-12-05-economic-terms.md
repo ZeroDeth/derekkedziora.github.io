@@ -10,6 +10,6 @@ permalink: "/lessons/economics-tidying-up/terms"
 - diminishing returns  
 - folly of prediction  
 - loss aversion 
-- achoring  
+- anchoring  
 
 <a href="/lessons/economics-tidying-up">Back to Lesson</a>
