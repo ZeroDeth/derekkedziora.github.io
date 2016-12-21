@@ -4,9 +4,9 @@ layout: lesson
 lesson: true
 type: listening
 listening: true
-title: "Online Shaming Culture"
-description: "Jon Ronson gives a TED Talk explaining how one tweet can ruin your life and online shaming"
-permalink: "/lessons/one-tweet-shaming"
+title: Online Shaming Culture
+description: Jon Ronson gives a TED Talk explaining how one tweet can ruin your life and online shaming
+permalink: /lessons/one-tweet-shaming
 ---
 ### Materials
 
