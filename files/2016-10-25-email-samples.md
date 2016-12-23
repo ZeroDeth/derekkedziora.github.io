@@ -7,7 +7,7 @@ I want to consult what would be the best answer on this email.
 
 Can I ask them to forward my email to manufacturing department?
 
-Or what kind of servises can I mention in my email to draw their attention. 
+Or what kind of servises can I mention in my email to draw their attention.
 
 Thanks in advance.<br>  
 Sally
@@ -109,7 +109,7 @@ The total number of sent emails: 250
 Responses:  
 Positive: 6  
 Negative: 3  
-Total Calls: 75 
+Total Calls: 75
 <hr>
 Hi Jonathon,    
 I have some appointments for you that need to be set up.  
@@ -117,4 +117,3 @@ Unfortunatelly, we didn't manage to jump on a quick training call with you. I ju
 Please let me know if you are available today and I will give you a call.    
 Regards,  
 James Dean
-
