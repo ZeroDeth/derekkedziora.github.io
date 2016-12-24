@@ -1,23 +1,25 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <title>{{ page.title }}</title> 
+    <title>{{ page.title }}</title>
     <link rel="stylesheet" type="text/css" href="/css/main.css">
   </head>
 
+{% include yandex-metrica.html %}
+
   <body>
-   
+
 {% include navbar.html %}
 
 <div class="container">
 <p id="lesson-type-bar">
-  
+
   <a href="{{ page.previous.permalink }}">[Previous Post]</a>
   <a href="{{ page.next.permalink }}">[Next Post]</a>
 </p>
 
-<h2>{{page.title}} </h2>  
- 
+<h2>{{page.title}} </h2>
+
  <p>{{page.description}}
  <br><br>
  ***
