@@ -38,4 +38,4 @@ Read the blog post for gist to discuss the following questions:
 2. Do you agree with the idea that only your previous two years of accomplishments matter?
 3. How can you keep current in an industry?
 4. Why, according to the author, are hobbies and fitness important?
-5. All things considered, do you think the cult of youth at my any tech-companies is justified or not? 
+5. All things considered, do you think the cult of youth at many tech-companies is justified or not? 
