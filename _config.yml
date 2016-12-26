@@ -1,3 +1,5 @@
 name: Derek Kedziora
 markdown: kramdown
 url: derek.com.ua
+gems:
+  - jekyll-sitemap
