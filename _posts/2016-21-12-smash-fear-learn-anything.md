@@ -39,10 +39,10 @@ Parkinson's Law (<a href="https://en.wikipedia.org/wiki/Parkinson%27s_law" targe
 Watch the TED Talk to get the gist of the three main points that Ferriss makes about learning a new skill.
 
 What is meant by these concepts?  
-- first principles
-- material vs. method
-- effective vs. efficient
-- implicit vs. explicit
+- first principles  
+- material vs. method  
+- effective vs. efficient  
+- implicit vs. explicit  
 
 1. How can these ideas be applied to education, learning a new skill or work-related training?
 2. In what domains would these principles not apply?
