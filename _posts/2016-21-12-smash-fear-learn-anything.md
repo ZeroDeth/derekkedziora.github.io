@@ -38,7 +38,8 @@ Parkinson's Law (<a href="https://en.wikipedia.org/wiki/Parkinson%27s_law" targe
 
 Watch the TED Talk to get the gist of the three main points that Ferriss makes about learning a new skill.
 
-What is meant by these concepts?  
+What is meant by these concepts?
+
 - first principles  
 - material vs. method  
 - effective vs. efficient  
