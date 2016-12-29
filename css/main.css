@@ -103,6 +103,10 @@ blockquote {
 }
 
 
+#clicky {
+  size: 0%;
+}
+
 /* @media screen and (device-aspect-ratio: 40/71) {
     body    {
     width: 95%;
