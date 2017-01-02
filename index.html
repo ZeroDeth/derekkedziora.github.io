@@ -1,10 +1,10 @@
 ---
-layout: default
-title: Derek Kedziora
+layout: page
+title: An Eccentric Linguist
 ---
-<h1>Derek Kedziora</h1>
-<h3 align='center'>English Teacher</h3>
-<p align='center'>I'm available to teach individual lessons and in-company lessons in Kyiv, Ukraine.</p>
-
-
-
+<h1>Derek Kedziora: an Eccentric Linguist</h1>
+<p id="index-tag-line">I'm a linguist based in Kiev, Ukraine. I teach English, write and edit for a living. I dabble in programming and philosophy for fun. This is my blog where I try to combine the two.</p>
+<h2>Recent Blog Posts</h2>
+{% for post in site.posts limit: 3 %}
+  {% include blog-listing.html %}
+    {% endfor %}

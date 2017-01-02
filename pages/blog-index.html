@@ -1,13 +1,9 @@
 ---
-layout: default
+layout: page
 title: Blog
 permalink: /blog/
 ---
 <h1>Blog Posts</h1>
 {% for post in site.posts %}
-     {% if post.blog %}
-     
-  {% include lesson-listing.html %}
-  
-  {% endif %}
+  {% include blog-listing.html %}
     {% endfor %}

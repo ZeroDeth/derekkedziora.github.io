@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 permalink: /gwqJhJmca8jNfY86Bdia
 title: Going Paperless in Real Estate and Insurance
 ---
 
-## {{page.title}}
+# {{page.title}}
 
 Debbie Cunningham runs her own insurance and real estate company, Cunningham and Associates [link to site], and faced many of the same paperwork problems that other small businesses have to contend with. When Debbie first reached out to us, here are the issues she needed PDFfiller to solve:
 

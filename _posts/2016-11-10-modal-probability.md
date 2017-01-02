@@ -1,6 +1,6 @@
 ---
 date: 2016-11-10
-layout: blog
+layout: post
 type: grammar
 lesson: true
 style-guide: true 

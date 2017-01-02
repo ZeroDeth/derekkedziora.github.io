@@ -1,6 +1,6 @@
 ---
 date: 2016-11-05
-layout: blog
+layout: post
 blog: true
 type: blog post
 title: Vestigial Structures in Language

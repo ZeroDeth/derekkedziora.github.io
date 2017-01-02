@@ -1,9 +1,10 @@
-<h3>{{ post.title }}</h3>
+<div class="blog-listing">
+<h1>{{post.title}}</h1>
     <p>
         [{{ post.type}}] [{{ post.date | date_to_string }}]
         <br>
         {{post.description}}
         <br>
-        <a href="{{ post.url }}" target="_blank">View Full Post</a>
+        <a href="{{ post.url }}">View Full Post</a>
     </p>
-    
+</div>

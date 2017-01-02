@@ -1,6 +1,6 @@
 ---
 date: 2016-12-08
-layout: blog
+layout: post
 type: style guide
 style-guide: true
 blog: true

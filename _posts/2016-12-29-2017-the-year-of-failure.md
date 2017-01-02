@@ -1,15 +1,12 @@
 ---
 date: 2016-12-29
-layout: blog
+layout: post
 blog: true
 type: blog
-title '2017: The Year of Failure'
+title: "2017: the Year of Failure"
 description: After nearly a decade of teaching English, this is where the system has failed students
 permalink: blog/2017-the-year-of-failure
 ---
-
-# 2017: The Year of Failure 
-
 I've found an upbeat way to focus on the start of 2017; I'm going to obsessively focus on failure. My entire twenties have been devoted to either learning or teaching languages, and I'm walking away from the experience profoundly frustrated: little of my studies prepared me for using a foreign language outside of the classroom and I've watch my students needlessly falter and stagnate. 
 
 Over the course of the year, I plan to analyze these categories of failure in more depth: 

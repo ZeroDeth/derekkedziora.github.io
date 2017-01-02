@@ -1,6 +1,6 @@
 ---
-layout: blog
-blog: true
+layout: post
+blog: post
 type: blog post
 title: Languages, Efficiency and Logic
 description: Despite the appeal of logic, human languages function efficiently because they aren't logical  

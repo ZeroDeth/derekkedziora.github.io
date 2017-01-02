@@ -1,10 +1,9 @@
 ---
 date: 2016-11-30
-layout: blog
+layout: post
 blog: true
 type: grammar
 style-guide: true
-lesson: true
 title: "Past and Present Perfect"
 tags: ["lesson-type-grammar", "present-perfect"]
 description: "A look at how the perfect tenses are used" 
