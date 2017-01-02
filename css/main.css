@@ -140,11 +140,12 @@ blockquote {
 @media screen and (max-width: 1023px) {
     body {
         width: 95%;
-        font-size: 200%;
+        font-size: 250%;
     }
 
     #nav-desktop {
       display: none;
+      font-size: 200%;
     }
 
     nav ul li:first-child {
