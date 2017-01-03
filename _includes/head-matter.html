@@ -6,6 +6,8 @@
 
     <title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}"/>
+    <link rel="canonical" href="{{ page.url | prepend: site.url }}">
+    <meta name=viewport content="width=device-width, initial-scale=1">
 
     {% include og-matter.html %}
     {% include twitter-card.html %}
