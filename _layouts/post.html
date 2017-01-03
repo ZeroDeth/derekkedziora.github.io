@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-  </head>
 
+{% include head-matter.html %}
 {% include yandex-metrica.html %}
 
   <body>
@@ -17,7 +12,7 @@
 
 {{content }}
 <div class="next-previous-links">
-  <p><a href="{{page.previous.url}}">[previous post]</a> 
+  <p><a href="{{page.previous.url}}">[previous post]</a>
   <a href="{{page.next.url}}">[next post]</a></p>
 </div>
 </div>

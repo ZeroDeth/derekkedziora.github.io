@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+
+    <title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}"/>
+
+    {% include og-matter.html %}
+    {% include twitter-card.html %}
+
+  </head>
