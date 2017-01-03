@@ -1,7 +1,8 @@
 ---
 layout: page
 ---
-<form action="/search.html" method="get">
+
+<form class="search-form" action="/search.html" method="get">
   <label for="search-box">Search</label>
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
@@ -14,8 +15,11 @@ layout: page
     {% for post in site.posts %}
       "{{ post.url | slugify }}": {
         "title": "{{ post.title | xml_escape }}",
+        "description": "{{ post.description | xml_escape }}",
+        "type": "{{ post.type | xml_escape}}",
         "author": "{{ post.author | xml_escape }}",
         "category": "{{ post.category | xml_escape }}",
+        "date": "{{post.date | date_to_string |xml_escape}}",
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
         "url": "{{ post.url | xml_escape }}"
       }

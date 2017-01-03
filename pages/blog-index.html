@@ -5,6 +5,9 @@ permalink: /blog/
 og-type: website
 ---
 <h1>Blog Posts</h1>
+
+{% include search-form.html %}
+
 {% for post in site.posts %}
   {% include blog-listing.html %}
     {% endfor %}

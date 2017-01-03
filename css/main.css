@@ -101,6 +101,10 @@ blockquote {
   margin: 0px 0px -5px 0px;
 }
 
+.blog-listing li {
+  list-style-type: none;
+}
+
 .next-previous-links a {
   color: #7d7d7d;
   text-decoration: none;
@@ -111,7 +115,6 @@ blockquote {
 .next-previous-links p {
   text-align: center;
 }
-
 
 #index-tag-line {
   text-align: left;
@@ -131,6 +134,11 @@ blockquote {
 
 #clicky {
   display: none;
+}
+
+.search-form {
+  width: 281px;
+  margin: 5% auto 5% auto;
 }
 
 #nav-mobile {
