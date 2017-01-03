@@ -229,6 +229,10 @@ blockquote {
       border-color: black;
       border-bottom-width: 1px;
     }
+
+    footer ul {
+      font-size: 150%
+    }
   }
 
 /* MailChimp Form Embed Code - Classic - 12/17/2015 v10.7 */
