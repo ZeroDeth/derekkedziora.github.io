@@ -188,10 +188,6 @@ blockquote {
       font-size: 1.1em;
     }
 
-    nav ul {
-      text-align: center;
-    }
-
     #nav-mobile {
       display: inline;
     }
@@ -202,8 +198,8 @@ blockquote {
     }
 
     #nav-mobile-menu {
+      padding-left: 0%;
       text-align: center;
-      float: none;
       border-bottom: solid;
       border-color: black;
       border-bottom-width: 1px;

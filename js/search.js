@@ -9,7 +9,7 @@
         var item = store[results[i].ref];
 
         appendString += '<div class="blog-listing"><h1>' + item.title + '</h1>';
-        appendString += '<p>[' + item.type + '] [' + item.date + ']</p>'
+        appendString += '<p>[' + item.date + '] [' + item.type + ']</p>'
         appendString += '<p>' + item.description + '</p><a href="' + item.url + '">View Full Post</a></div>';
       }
 
