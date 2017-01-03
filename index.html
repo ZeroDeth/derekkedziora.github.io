@@ -8,9 +8,7 @@ og-type: website
 
 {% include search-form.html %}
 
-<h2>Recent Blog Posts</h2>
+<h2 id="recent-blog-title">Recent Blog Posts</h2>
 {% for post in site.posts limit: 3 %}
   {% include blog-listing.html %}
     {% endfor %}
-
-{% include mailchimp-form.html %}
