@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv
+og-type: website
 ---
 <a href="/files/derek_cv.pdf" target="_blank">Download my CV in PDF format</a>
 
@@ -9,10 +10,10 @@ permalink: /cv
 me@derek.com.ua  
 derek.com.ua  
 
-### What I offer 
+### What I offer
 *English Training*  
-Corporate training, individual lessons in person or online 
- 
+Corporate training, individual lessons in person or online
+
 *Linguistic Consulting*  
 Optimizing texts for an American or international audience  
 
@@ -41,14 +42,13 @@ Individual lessons
 American English Center
 
 *China: two years*  
-EF English First 
+EF English First
 
 *Saudi Arabia: one year*  
 Tertiary Education: Technical and Vocational Training Corporation
 
 
-### Qualifications 
+### Qualifications
 *Cambridge CELTA*: Beijing, 2013
 
-*Bachelor of Arts in Russian Language and Literature*: Arizona State University, 2009 
-	
+*Bachelor of Arts in Russian Language and Literature*: Arizona State University, 2009
