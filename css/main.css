@@ -44,6 +44,10 @@ nav {
   border-bottom-width: 1px;
 }
 
+nav ul {
+  padding-left: 0px;
+}
+
 nav ul li:first-child {
   float: left;
   font-size: 1.1em;
@@ -75,13 +79,9 @@ footer a {
     text-decoration: none;
 }
 
-footer ul li {
+footer ul {
   list-style-type: none;
-}
-
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
+  padding-left: 0px;
 }
 
 blockquote {
@@ -148,8 +148,8 @@ blockquote {
 }
 
 .search-form {
-  width: 259px;
-  margin: 5px auto 5px auto;
+  width: 275px;
+  margin: 5% auto 5% auto;
 }
 
 #search-box {
@@ -180,6 +180,14 @@ blockquote {
 
 #nav-mobile {
   display: none;
+}
+
+#contact-info {
+  float: left;
+}
+
+#directional-list {
+  float: right;
 }
 
 @media screen and (max-width: 1023px) {
