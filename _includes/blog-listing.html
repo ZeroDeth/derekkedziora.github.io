@@ -1,7 +1,11 @@
 <div class="blog-listing">
 <h1>{{post.title}}</h1>
     <p>
-        [{{ post.date | date_to_string }}][{{ post.type}}]
+        [{{ post.date | date_to_string }}]
+        {% if post.type %}[{{ post.type}}]
+        {% else %}
+        [{{ post.tag }}]
+        {% endif %}
         <br>
         {{post.description}}
         <br>

@@ -42,11 +42,12 @@
     var idx = lunr(function () {
       this.field('id');
       this.field('title', { boost: 10 });
+      this.field('tag', { boost: 10 });
       this.field('author');
       this.field('category');
       this.field('content');
       this.field('description');
-      this.field('type');
+      this.field('type', { boost: 10 });
     });
 
     for (var key in window.store) { // Add the data to lunr
@@ -58,6 +59,7 @@
         'category': window.store[key].category,
         'content': window.store[key].content,
         'type': window.store[key].type,
+        'tag': window.store[key].type,
       });
 
       var results = idx.search(searchTerm); // Get lunr to perform a search
