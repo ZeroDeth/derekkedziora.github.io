@@ -3,5 +3,6 @@ description: A lighthearted look at linguistics, teaching and learning English a
 github: derekkedziora
 markdown: kramdown
 url: derek.com.ua
+permalink: blog/:title
 gems:
   - jekyll-sitemap
