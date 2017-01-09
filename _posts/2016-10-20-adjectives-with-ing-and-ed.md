@@ -7,7 +7,6 @@ style-guide: true
 type: grammar
 title: Adjectives with -ing and -ed
 description: Is your English Teacher Bored, Boring or Both?
-permalink: blog/:title
 ---
 
 

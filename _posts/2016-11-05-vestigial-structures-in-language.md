@@ -5,7 +5,6 @@ blog: true
 type: blog post
 title: Vestigial Structures in Language
 description: The 'useless' structures of a language have been shaped by millennia of evolution.
-permalink: /blog/:title
 ---
 It's easy to forget that languages are a product of thousands of years of evolution. A quick look at historical linguistics can give a language learner some perspective on their target language. I'd argue that there are few <a href="https://en.wikipedia.org/wiki/Vestigiality" target="_blank">vestigial structures</a> in modern languages.
 

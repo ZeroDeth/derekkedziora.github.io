@@ -1,8 +1,7 @@
-name: Derek Kedziora
-description: A lighthearted look at linguistics, teaching and learning English and the philosophy surrounding it.
+name: language as lifestyle
+author: Derek Kedziora
+description: A lighthearted look at linguistics, teaching, learning English and life.
 github: derekkedziora
 markdown: kramdown
 url: derek.com.ua
 permalink: blog/:title
-gems:
-  - jekyll-sitemap

@@ -6,7 +6,6 @@ lesson: true
 style-guide: true
 title: Modal Verbs of Probability and Inference
 description: It's more natural to use modal verbs to show probability than adverbs
-permalink: /blog/:title
 ---
 English has a complex system of marking whether something was observed [*It rained* means that I saw it rain] or whether someone came to conclusion [*It must have rained* means that I'm nearly certain that it rained, because it is cloudy and the sidewalk is wet]. The degree of certainty can be modified by switching out must for may or could.
 

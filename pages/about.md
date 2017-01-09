@@ -5,14 +5,33 @@ permalink: "/about"
 og-type: website
 ---
 # About Me
-I'm a language nerd. Besides English, I speak Russian and have dabbled in Ukrainian, Chinese, German and Spanish.
 
-My teaching style is all about using English in a functional and natural sounding way. If theory and abstract grammar don't serve the purpose of actually using the language, you won't find them in my classes.
+<!--- See my I'm doing now. -->
 
-I'm into optimal living. I take that to mean a mostly paleo-diet, lots of low-intensity exercise and trying to avoid chronic stress while inducing randomized acute stress. Nonetheless, I'm hopelessly addicted to coffee and tea.
+[language] I'm a language geek. I teach English, have learned Russian and work as an editor and content writer. I'm all about natural, functional language. Linguistic platonism is my nemesis.
 
-Practical philosophy is what makes me tick. I love reading, meditation and trying out new ideas. I'm never far from a book or some thought experiment.
+[lifestyle] My life revolves around flow states: meditation, challenging bike rides, constantly learning new things and work that requires concentration. Work hard; play hard. Cold showers, random fasting. I love experimenting on myself.
 
-Programming has become my newest hobby; this site is a testament to what I've been able to learn.
+[global nomad] I grew up in Arizona and am currently based in Kiev, Ukraine. Between the two, I've lived in Kyrgyzstan, China, Saudi Arabia, Dnipro and a Western Ukrainian village.
 
-### My CV: <a href="/cv" target ="_blank">[web]</a> <a href="/files/derek_cv.pdf" target ="_blank">[pdf]</a>
+[philosophy] Stoicism and Theravada Buddhism form my philosophical framework.
+
+<!--- My CV: <a href="/cv" target ="_blank">[web]</a> <a href="/files/derek_cv.pdf" target ="_blank">[pdf]</a>
+-->
+
+## About this blog
+
+I started this in 2016 as a way to distribute lessons to my students. These are still up in my [lesson archives](/lesson-archives/). In 2017, I'm changing course a bit to focus more on general topics in language learning and teaching.
+
+I'm not a fan of copyright, therefore I release all the content on this site to the public domain under the <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="!!!">creative commons zero license</a>.
+
+This blog is created using <a href="http://jekyllrb.com" target="!!!">jekyll</a>. I'm heavily indebted to <a href="http://jekyll.tips" target="!!!">Jekyll Casts</a> for clearly explaining how to use jekyll. You can view <a href="https://github.com/derekkedziora/derekkedziora.github.io" target="!!!">my code on github</a>. Feel free to fork this site and use it as a starting point for your own blog.  
+
+<!--- My CV: <a href="/cv" target ="_blank">[web]</a> <a href="/files/derek_cv.pdf" target ="_blank">[pdf]</a>
+-->
+
+### Full Disclosure
+
+I don't run any ads, because I think the old advertising model is an ugly dinosaur. I use basic analytics (yandex and clicky) to get ideas for improving content.  
+
+I use Amazon affiliate links. If you'd like to support the creation of my more content, you can shop via these links. If I recommend a book, it's because I've read it and found it useful. 

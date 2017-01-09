@@ -6,7 +6,6 @@ style-guide: true
 blog: true
 title: You Should Read This
 description: A look at how to naturally and politely use should
-permalink: /blog/:title
 ---
 
 Should is one of the most misused words by non-native speakers and can instantly make your language sound rude, condescending or just plain unnatural.
