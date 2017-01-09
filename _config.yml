@@ -5,3 +5,10 @@ github: derekkedziora
 markdown: kramdown
 url: derek.com.ua
 permalink: blog/:title
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

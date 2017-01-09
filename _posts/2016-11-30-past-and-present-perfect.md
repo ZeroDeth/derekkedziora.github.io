@@ -1,12 +1,11 @@
 ---
-date: 2016-11-30
-layout: post
-blog: true
-type: grammar
-style-guide: true
 title: Past and Present Perfect
-tags: ["lesson-type-grammar", "present-perfect"]
 description: A look at how the present and past perfect tenses are used
+tags:
+ - grammar
+ - present perfect
+ - past perfect
+ - verb tenses
 ---
 There are two perfect tenses that English learners need to worry about. Present perfect is one of the four most common tenses and needs to be mastered. Past perfect is much less common but still deserves a passive understanding. There's no statistical reason to justify the study of future perfect.
 

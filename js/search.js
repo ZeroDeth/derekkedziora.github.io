@@ -9,7 +9,7 @@
         var item = store[results[i].ref];
 
         appendString += '<div class="blog-listing"><h1>' + item.title + '</h1>';
-        appendString += '<p>[' + item.date + '] [' + item.type + ']</p>'
+        appendString += '<p>[' + item.date + ']</p>'
         appendString += '<p>' + item.description + '</p><a href="' + item.url + '">View Full Post</a></div>';
       }
 
@@ -43,23 +43,21 @@
       this.field('id');
       this.field('title', { boost: 10 });
       this.field('tag', { boost: 10 });
+      this.field('description', {boost: 5 });
+      this.field('content');
       this.field('author');
       this.field('category');
-      this.field('content');
-      this.field('description');
-      this.field('type', { boost: 10 });
     });
 
     for (var key in window.store) { // Add the data to lunr
       idx.add({
         'id': key,
         'title': window.store[key].title,
+        'tag': window.store[key].type,
         'description': window.store[key].description,
+        'content': window.store[key].content,
         'author': window.store[key].author,
         'category': window.store[key].category,
-        'content': window.store[key].content,
-        'type': window.store[key].type,
-        'tag': window.store[key].type,
       });
 
       var results = idx.search(searchTerm); // Get lunr to perform a search

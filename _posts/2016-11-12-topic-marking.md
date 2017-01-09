@@ -1,11 +1,9 @@
 ---
-date: 2016-11-12
-layout: post
-blog: true
-type: style guide
-style-guide: true
 title: Topic Marking
 description: Sound more natural by (not) marking the topic of a sentence
+tags:
+ - style
+ - naturalness
 ---
 You can make rapid progress in sounding more natural by understanding a few linguistic features of your target language since these areas pose the greatest barriers to sounding natural.
 

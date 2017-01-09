@@ -1,9 +1,9 @@
 ---
-date: 2017-01-06
-layout: post
 title: How to Study English Independently
 description: These are the tools that can help any English learner figure out many, if not most, of their questions independently
-type: learner-autonomy, tools
+tags:
+ - learner-autonomy
+ - tools
 ---
 
 As I divest myself of the daily responsibilities of teaching, the best test of whether I was a decent teacher or not will be how my students progress without me. Unfortunately, many of those who are perceived as great teachers at the time have merely created a miniature personality cult that leaves their students entirely dependent on the teacher. I hope I haven't done this.

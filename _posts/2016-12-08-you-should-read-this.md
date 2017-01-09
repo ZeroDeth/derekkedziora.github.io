@@ -1,11 +1,9 @@
 ---
-date: 2016-12-08
-layout: post
-type: style guide
-style-guide: true
-blog: true
 title: You Should Read This
 description: A look at how to naturally and politely use should
+tags:
+ - modal verbs
+ - should
 ---
 
 Should is one of the most misused words by non-native speakers and can instantly make your language sound rude, condescending or just plain unnatural.
@@ -52,7 +50,7 @@ This is how <i>should</i> is used:
 
 ### Predictions
 
-The most common place to properly use should is with predictions. This is part of the larger system of  <a href="http://derek.com.ua/lessons/modal-probability" target="_blank">evidentiality in English.</a>
+The most common place to properly use should is with predictions. This is part of the larger system of  <a href="/blog/modal-verbs-probability-inference" target="_blank">evidentiality in English.</a>
 
 [4.a] <i>It should snow tomorrow.</i>
 

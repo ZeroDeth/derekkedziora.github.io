@@ -1,12 +1,10 @@
 ---
-date: 2016-10-19
-layout: post
-lesson: true
-blog: true
-style-guide: true
-type: grammar
 title: Adjectives with -ing and -ed
 description: Is your English Teacher Bored, Boring or Both?
+tags:
+ - grammar
+ - adjectives
+ - common mistakes
 ---
 
 

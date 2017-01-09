@@ -21,6 +21,7 @@ p, ul, ol {
     list-style-position: inside
 }
 
+
 h1 {
     font-size: 2.5em;
     text-align: center;
@@ -145,7 +146,9 @@ blockquote {
 }
 
 #search-box {
-  height: 23px;
+  height: 28px;
+  border-color: black;
+  border-width: 1px;
 }
 
 #search-button {

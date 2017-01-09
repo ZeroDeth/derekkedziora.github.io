@@ -3,12 +3,15 @@
     <p>
         [{{ post.date | date_to_string }}]
         {% if post.type %}[{{ post.type}}]
-        {% else %}
-        [{{ post.tag }}]
-        {% endif %}
+        {% else %}{% endif %}
+        [{{ post.tags | join: ", "}}]
         <br>
         {{post.description}}
         <br>
         <a href="{{ post.url }}">View Full Post</a>
     </p>
 </div>
+
+
+
+{% if tag %}, {% endif %}

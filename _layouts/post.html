@@ -12,8 +12,16 @@
 
 {{content }}
 <div class="next-previous-links">
-  <p><a href="{{page.previous.url}}">[previous post]</a>
-  <a href="{{page.next.url}}">[next post]</a></p>
+  <p>
+  {% unless page.previous.url == post.url %}
+  <a href="{{page.previous.url}}">[previous post]</a>
+  {% endunless %}
+
+  {% unless page.next.url == post.url %}
+  <a href="{{page.next.url}}">[next post]</a>
+  {% endunless %}
+
+  </p>
 </div>
 </div>
 

@@ -1,10 +1,8 @@
 ---
-layout: post
-blog: post
-type: blog post
 title: Languages, Efficiency and Logic
 description: Despite the appeal of logic, human languages function efficiently because they aren't logical  
-date: 2016-10-29
+tags:
+ - linguistics
 ---
 At some point, every language learner has wished that their target language were more logical. Luckily, an entirely logical language exists: <a href="https://en.wikipedia.org/wiki/Lojban" target="_blank">Lojban</a>. The entire system is based solely on logic and a look through <a href="https://mw.lojban.org/papri/How_to_say_it_in_Lojban" target="_blank">this guide</a> will likely enthrall a logician — figuring out simple words requires a truth table. Not surprisingly, the practical applications of Lojban are limited.
 

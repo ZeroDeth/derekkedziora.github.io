@@ -1,9 +1,7 @@
 ---
 date: 2016-11-10
 layout: post
-type: grammar
-lesson: true
-style-guide: true
+tag: grammar
 title: Modal Verbs of Probability and Inference
 description: It's more natural to use modal verbs to show probability than adverbs
 ---
@@ -59,7 +57,7 @@ This shows an even lower probability for a past even than *might have*.
 These structures show that a present situation is impossible. Note the difference between can't / mustn't showing an inference and the same words showing ability or prohibition. *He can't [must not] be in a good after he missed lunch.* (inference) vs. *He can't [must not] run in the marathon due to his doctor's orders* (ability [prohibition]). The first example takes this form in the past: *He couldn't [must not] have been in a good mood after he had missed lunch.* while the second would be *He couldn't [wasn't allowed to] run in the marathon due to his doctor's orders.*
 
 ### Additional Resources  
-1. See Murphy's <a href="http://www.yakaboo.ua/english-grammar-in-use-with-answers-a-self-study-reference-and-practice-book-for-intermediate-students-of-eng.html" target="_blank">*English Grammar in Use*</a> units 28 (must and can't) and 29 (may and might) for additional practice.  
+1. See Murphy's <a href="https://www.amazon.com/gp/product/1107539331?ie=UTF8&tag=derekcomua-20&camp=1789&linkCode=xm2&creativeASIN=1107539331" target="_blank">*English Grammar in Use*</a> units 28 (must and can't) and 29 (may and might) for additional practice.  
 2. If you are interested in a more in-depth discussion of tense, aspect and mood see the <a href="https://en.wikipedia.org/wiki/Tense–aspect–mood" target="_blank">Wikipedia article</a> on the topic.  
 3. <a href="https://en.wikipedia.org/wiki/Evidentiality" target="_blank">Evidentiality</a> is the formal term in linguistics for stating various levels of certainty.    
 4. Some languages in the <a href="https://en.wikipedia.org/wiki/Balkan_sprachbund" target="_blank">Balkan Sprachbund</a> have a completely separate verbal form to mark uncertain and reported information known as the <a href="https://en.wikipedia.org/wiki/Inferential_mood" target="_blank">inferential mood</a>. This is more or less equivalent to the *must have* structure in English.
