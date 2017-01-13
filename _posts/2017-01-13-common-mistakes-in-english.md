@@ -88,7 +88,7 @@ We can't drop the direct object, and the indirect object requires to.
 
 My psychologist is the only one who can "explain me".   
 
-## 10. I don't why my students make this mistake
+## 10. I don't know why my students make this mistake
 
 Nine times out of ten, I'd hear:
 
