@@ -7,7 +7,7 @@ tags:
 ---
 English has a complex system of marking whether something was observed [*It rained* means that I saw it rain] or whether someone came to conclusion [*It must have rained* means that I'm nearly certain that it rained, because it is cloudy and the sidewalk is wet]. The degree of certainty can be modified by switching out must for may or could.
 
-It is more natural to show this information through modal verbs than adverbs of probability such as certainly, probably or definitely. This can been seen by looking at the <a href="https://books.google.com/ngrams/graph?content=probably+rained%2Cmust+have+rained%2Ccertainly+rained&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cprobably%20rained%3B%2Cc0%3B.t1%3B%2Cmust%20have%20rained%3B%2Cc0%3B.t1%3B%2Ccertainly%20rained%3B%2Cc0" target="!!!">ngrams</a> comparing probably rained, certainly rained and must have rained.
+It is more natural to show this information through modal verbs than adverbs of probability such as certainly, probably or definitely. This can been seen by looking at the <a href="https://books.google.com/ngrams/graph?content=probably+rained%2Cmust+have+rained%2Ccertainly+rained&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cprobably%20rained%3B%2Cc0%3B.t1%3B%2Cmust%20have%20rained%3B%2Cc0%3B.t1%3B%2Ccertainly%20rained%3B%2Cc0" target="_blank">ngrams</a> comparing probably rained, certainly rained and must have rained.
 
 This is also why opinions aren't explicitly marked by phrases such as *in my opinion*, *to my mind* or *I think* that often in English. A modal verb automatically tells the listener you are stating an opinion and your level of certainty. While the sentence *In my opinion, it definitely rained* isn't a mistake, it sounds far more natural to say *It must have rained*.
 
@@ -66,7 +66,7 @@ These structures show that a present situation is impossible. Note the differenc
 
 ## Additional Resources
 
-- See Murphy's <a href="https://www.amazon.com/gp/product/1107539331?ie=UTF8&tag=derekcomua-20&camp=1789&linkCode=xm2&creativeASIN=1107539331" target="!!!">*English Grammar in Use*</a> units 28 (must and can't) and 29 (may and might) for additional practice.  
-- If you are interested in a more in-depth discussion of tense, aspect and mood see the <a href="https://en.wikipedia.org/wiki/Tense–aspect–mood" target="!!!">Wikipedia article</a> on the topic.  
-- <a href="https://en.wikipedia.org/wiki/Evidentiality" target="!!!">Evidentiality</a> is the formal term in linguistics for stating various levels of certainty.    
-- Some languages in the <a href="https://en.wikipedia.org/wiki/Balkan_sprachbund" target="!!!">Balkan Sprachbund</a> have a completely separate verbal form to mark uncertain and reported information known as the <a href="https://en.wikipedia.org/wiki/Inferential_mood" target="!!!">inferential mood</a>. This is more or less equivalent to the *must have* structure in English.
+- See Murphy's <a href="https://www.amazon.com/gp/product/1107539331?ie=UTF8&tag=derekcomua-20&camp=1789&linkCode=xm2&creativeASIN=1107539331" target="_blank">*English Grammar in Use*</a> units 28 (must and can't) and 29 (may and might) for additional practice.  
+- If you are interested in a more in-depth discussion of tense, aspect and mood see the <a href="https://en.wikipedia.org/wiki/Tense–aspect–mood" target="_blank">Wikipedia article</a> on the topic.  
+- <a href="https://en.wikipedia.org/wiki/Evidentiality" target="_blank">Evidentiality</a> is the formal term in linguistics for stating various levels of certainty.    
+- Some languages in the <a href="https://en.wikipedia.org/wiki/Balkan_sprachbund" target="_blank">Balkan Sprachbund</a> have a completely separate verbal form to mark uncertain and reported information known as the <a href="https://en.wikipedia.org/wiki/Inferential_mood" target="_blank">inferential mood</a>. This is more or less equivalent to the *must have* structure in English.
