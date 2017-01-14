@@ -38,13 +38,14 @@ h3 {
 }
 
 nav {
-  padding-bottom: 5%;
+  height: 50px;
   border-bottom: solid;
   border-color: black;
   border-bottom-width: 1px;
 }
 
 nav ul {
+  margin-top: 9px;
   padding-left: 0px;
 }
 
@@ -199,7 +200,6 @@ blockquote {
 
     #nav-desktop {
       display: none;
-      font-size: 200%;
     }
 
     nav ul li:first-child {
@@ -230,6 +230,10 @@ blockquote {
       border-bottom: solid;
       border-color: black;
       border-bottom-width: 1px;
+    }
+
+    .blog-listing {
+      margin: 50px 25px 50px 25px; 
     }
 
     footer ul {
