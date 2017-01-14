@@ -2,9 +2,9 @@
 title: Adjectives with -ing and -ed
 description: Is your English Teacher Bored, Boring or Both?
 tags:
- - grammar
  - adjectives
  - common mistakes
+ - grammar
 ---
 
 

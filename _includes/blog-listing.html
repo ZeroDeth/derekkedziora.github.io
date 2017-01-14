@@ -1,11 +1,19 @@
 <div class="blog-listing">
 <h1>{{post.title}}</h1>
-    <p>
-        [{{ post.date | date_to_string }}]
-        [{{ post.tags | join: ", "}}]
-        <br>
-        {{post.description}}
-        <br>
-        <a href="{{ post.url }}">View Full Post</a>
-    </p>
+  <p id="blog-listing-nav">
+    {{ post.date | date_to_string }}
+    <br>
+    tags: {{ post.tags | join: ", "}}
+  </p>
+  <p>
+    {{post.description}}
+    <br>
+    <a href="{{ post.url }}">View Full Post</a>
+  </p>
 </div>
+
+
+<!--
+[{{ post.date | date_to_string }}]
+[{{ post.tags | join: ", "}}]
+-->

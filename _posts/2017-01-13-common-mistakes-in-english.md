@@ -11,9 +11,9 @@ Here's the start of my series of posts about common mistakes that I hear in Engl
 
 Bring always shows motion towards the speaker, while take shows motion going away from the speaker.
 
-*My wife told me to <u>take</u> an umbrella with me when I left for work.*      
-*Since it rained, I was glad that I had <u>brought</u> my umbrella to the office.* (I'm still at work)  
-*It's a good thing I <u>took</u> my umbrella to work today.* (I'm no longer at work)  
+1. *My wife told me to <u>take</u> an umbrella with me when I left for work.*        
+2. *Since it rained, I was glad that I had <u>brought</u> my umbrella to the office.* (I'm still at work)   
+3. *It's a good thing I <u>took</u> my umbrella to work today.* (I'm no longer at work)  
 
 Note that "with you" can be dropped when it is abundantly clear from context.
 
@@ -29,7 +29,7 @@ An easy trick is to put "here" in any sentence with come. If it doesn't fit, use
 
 ## 3. by / until
 
-Я буду в Киеве до пятницы.
+Я буду в Киеве до пятницы.  
 *I'll be in Kiev until Friday*  
 
 <u>Until</u> shows how long an action is going to take place.
