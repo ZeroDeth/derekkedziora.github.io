@@ -234,4 +234,7 @@ blockquote {
       border-bottom-width: 1px;
     }
 
+    footer ul {
+      line-height: 30px;
+    }
   }
