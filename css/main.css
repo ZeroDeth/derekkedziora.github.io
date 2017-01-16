@@ -15,12 +15,12 @@ a:hover {
 }
 
 p, ul, ol {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 18px;
+    line-height: 27px;
 }
 
 ul, ol {
-  line-height: 32px;
+  line-height: 36px;
 }
 
 h1 {
@@ -34,7 +34,8 @@ h2 {
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 18
+    px;
 }
 
 nav {
@@ -222,10 +223,12 @@ blockquote {
     #nav-mobile-title {
       text-align: center;
       font-weight: bold;
+      margin: 13px 0px 14px 0px;
     }
 
     #nav-mobile-menu {
-      padding-left: 0%;
+      height: 50px;
+      padding-left: 0px;
       text-align: center;
       border-bottom: solid;
       border-color: black;
@@ -233,7 +236,7 @@ blockquote {
     }
 
     .blog-listing {
-      margin: 50px 25px 50px 25px; 
+      margin: 50px 25px 50px 25px;
     }
 
     footer ul {

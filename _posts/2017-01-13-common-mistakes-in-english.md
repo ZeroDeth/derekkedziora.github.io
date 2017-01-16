@@ -7,55 +7,63 @@ tags:
 
 Here's the start of my series of posts about common mistakes that I hear in English. They aren't arranged in any particular order. Sentences in *italics* are correct unless there is an *!exclamation mark* in front of it.
 
-## 1. bring / take
+## bring / take
 
 Bring always shows motion towards the speaker, while take shows motion going away from the speaker.
 
-1. *My wife told me to <u>take</u> an umbrella with me when I left for work.*        
-2. *Since it rained, I was glad that I had <u>brought</u> my umbrella to the office.* (I'm still at work)   
-3. *It's a good thing I <u>took</u> my umbrella to work today.* (I'm no longer at work)  
+*My wife told me to <u>take</u> an umbrella with me when I left for work.*        
+
+*Since it rained, I was glad that I had <u>brought</u> my umbrella to the office.* (I'm still at work)   
+
+*It's a good thing I <u>took</u> my umbrella to work today.* (I'm no longer at work)  
 
 Note that "with you" can be dropped when it is abundantly clear from context.
 
-## 2. go / come / get
+## go / come / get
 
-Similarly, come shows movement relative to the speaker's position. Get is used to show completed motion. I don't have statistics to back this up, but I generally think of using location (I'm already at work) as more common than motion (I've already arrived at / got to / made it to work).
+Similarly, <u>come</u> shows movement relative to the speaker's position. <u>Get</u> is used to show completed motion. I don't have statistics to back this up, but I generally think of using location (I'm already at work) as more common than motion (I've already arrived at / <u>got to</u> / made it to work).
 
-Come: motion towards the speaker  
-Go: general motion  
-Get: completed motion  
+<u>Come</u>: motion towards the speaker  
+<u>Go</u>: general motion  
+<u>Get</u>: completed motion  
 
-An easy trick is to put "here" in any sentence with come. If it doesn't fit, use get or go.
+*I <u>came</u> to work at 9 AM this morning* (I'm still at work)
 
-## 3. by / until
+*I <u>go</u> to work everyday*
+
+*I <u>got</u> to work at 9 AM this morning* (I'm no longer at work)
+
+An easy trick is to put "here" in any sentence with <u>come</u>. If it doesn't fit, use <u>get</u> or <u>go</u>.
+
+## by / until
 
 Я буду в Киеве до пятницы.  
-*I'll be in Kiev until Friday*  
+*I'll be in Kiev <u>until</u> Friday*  
 
 <u>Until</u> shows how long an action is going to take place.
 
-*Мне надо доделать этот проект до пятницы.*  
-I have to finish the project by Friday.  
+Мне надо доделать этот проект до пятницы.    
+*I have to finish the project <u>by</u> Friday.*  
 
 <u>By</u> is used with deadlines.
 
-## 4. Feel myself + adjective
+## feel (myself)
 
-We never use feel myself with an adjective.
+We never use <u>feel myself</u> with an adjective.
 
-*I feel tired.*
+*I <u>feel</u> ~~myself~~ tired.*
 
-We can use feel myself with a gerund.
+We can use <u>feel myself</u> with a gerund.
 
-*I was so tired that I could feel myself falling asleep.*
+*I was so tired that I could <u>feel myself</u> falling asleep.*
 
-## 5. Make a mistake  
+## make / do a mistake  
 
-We <u>make mistakes</u>; we never do mistakes.
+We <u>make mistakes</u>. We never do mistakes.
 
-## 6. Общение с собеседником про знакомых
+## Общение с собеседником про знакомых
 
-Please don't translate this as:
+**Don't** translate this as:
 
 *!Communication with an interlocutor regarding acquaintances.*
 
@@ -65,7 +73,7 @@ This sounds much more natural:
 
 *Talking to somebody about people we know.*
 
-## 7. I / we; and / with (as a subject)
+## I / we, and / with
 
 We don't have doppelgängers in English. The same person can't appear in both subject and the object of a sentence.  
 
@@ -73,22 +81,22 @@ We don't have doppelgängers in English. The same person can't appear in both su
 
 Likewise, *My friend and I...* is correct. We never say *!We (or I) with my friend*. In many dialects of spoken English *Me and my friend* is common, but it's rare in written English.
 
-## 8. borrow / lend
+## borrow / lend
 
 *I borrowed money from the bank.*  
 *The bank lent (loaned) me money.*
 
-## 9. Explain to me
+## explain to me
 
-Explain requires a direct object.
+<u>Explain</u> requires a direct object.
 
-*The CEO explained the new product (direct object) to us (indirect object).*
+*The CEO <u>explained</u> the new product (direct object) to us (indirect object).*
 
 We can't drop the direct object, and the indirect object requires to.
 
-My psychologist is the only one who can "explain me".   
+My psychologist is the only one who can <u>explain me</u>.   
 
-## 10. I don't know why my students make this mistake
+## I don't know why my students make this mistake
 
 Nine times out of ten, I'd hear:
 
