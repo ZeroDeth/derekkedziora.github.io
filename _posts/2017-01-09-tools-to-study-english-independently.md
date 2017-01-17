@@ -3,6 +3,7 @@ title: How to Study English Independently
 description: These are the tools that can help any English learner figure out many, if not most, of their questions independently
 tags:
  - learner autonomy
+ - teaching
  - tools
 ---
 
