@@ -11,7 +11,7 @@ I went to a yoga class the other day and quickly remembered why I had stopped go
 
 The teacher was amazing at yoga; he was strong, supple and eye candy for the girls in the group. Unfortunately, none of these is particularly relevant to teaching a good class.
 
-He blew through a bunch of rather difficult asanas explaining what he did as he did it. He never explained how he did it. Not a single student in the group did all of his asanas as demonstrated. One guy was able to get pretty close while the rest of us just flopped around like dead fish. The fact is, this can actually be dangerous and is almost a surefire way to injure yourself. The now (in)famous <a href="http://www.nytimes.com/2012/01/08/magazine/how-yoga-can-wreck-your-body.html" target="_blank">*How Yoga Can Wreck Your Body*</a> piece form the NYT is worth a read.
+He blew through a bunch of rather difficult asanas explaining what he did as he did it. He never explained how he did it. Not a single student in the group did all of his asanas as demonstrated. One guy was able to get pretty close while the rest of us just flopped around like dead fish. The fact is, this can actually be dangerous and is almost a surefire way to injure yourself. The now (in)famous <a href="http://www.nytimes.com/2012/01/08/magazine/how-yoga-can-wreck-your-body.html" target="_blank">*How Yoga Can Wreck Your Body*</a> piece from the NYT is worth a read.
 
 ## Here's what went wrong
 
