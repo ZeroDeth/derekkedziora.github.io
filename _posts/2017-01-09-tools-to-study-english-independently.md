@@ -15,7 +15,7 @@ Here are some approaches you can take to learning without a teacher:
 
 Expose yourself to authentic English within your target style and genre. Find a blog about a topic that is relevant to you. Pick a few quality publications (the BBC, Economist, Guardian, New York Times, Forbes, etc.) and shoot for daily exposure. For good measure, add in a few podcasts so you aren't only working with written English.
 
-## Stop Reading in 'Google Translate Mode'
+<h2 id='google-translate-mode'>Stop Reading in 'Google Translate Mode</h2>
 
 Stop merely understanding materials. This is what I call 'Google Translate mode'. Quickly reading through an article to pick out the main idea won't do much to improve your overall language ability. If you know Ukrainian and Russian, you can easily skim a wikipedia article in Slovak for mere understanding; that's hardly going to help you next time you're in Bratislava. Alas, this is how many learners get stuck on a plateau.
 
