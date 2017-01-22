@@ -1,6 +1,6 @@
 ---
 title: The Advanced Paradox
-description: Tips on how to breaking through the advanced learner plateau
+description: Tips on how to break through the advanced learner plateau
 tags:
   - advanced students
   - failure
