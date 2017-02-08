@@ -19,3 +19,5 @@ permalink: feed.xml
     {% endfor %}
   </channel>
 </rss>
+{% include clicky.html %}
+{% include yandex-metrica.html %}
