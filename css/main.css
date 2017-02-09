@@ -246,9 +246,9 @@ footer ul {
     border-bottom-width: 1px;
   }
 
-  .blog-listing {
-    margin: 50px 25px 50px 25px;
-  }
+ul, ol {
+  padding-left: 20px;
+}
 
   .next-previous-links li {
     display: list-item;
