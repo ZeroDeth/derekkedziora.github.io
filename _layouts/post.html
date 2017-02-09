@@ -7,7 +7,7 @@
 {% include navbar.html %}
 
 <div class="container">
-
+<div class='post-content'>
 <h1>{{page.title}}</h1>
 <p id="blog-listing-nav">
   {{ page.date | date_to_string }}
@@ -15,7 +15,9 @@
   tags: {{ page.tags | join: ", "}}
 </p>
 
-{{content }}
+
+{{content}}
+</div>
 
 <div class="next-previous-links">
   <p>
