@@ -1,0 +1,10 @@
+<div class="next-previous-links">
+  <ul>
+    {% unless page.previous.url == post.url %}
+      <li><a href="{{page.previous.url}}">[previous post]</a></li>
+    {% endunless %}
+    {% unless page.next.url == post.url %}
+      <li><a href="{{page.next.url}}">[next post]</a></li>
+    {% endunless %}
+  </ul>
+</div>

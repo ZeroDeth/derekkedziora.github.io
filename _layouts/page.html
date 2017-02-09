@@ -1,18 +1,12 @@
 {% include head-matter.html %}
+
+<body>
+  {% include navbar.html %}
+  {{content }}
+  {% include footer.html %}
+
+{% include clicky.html %}
 {% include yandex-metrica.html %}
 
-  <body>
-
-{% include navbar.html %}
-
-
-<div class="container">
-
-{{content }}
-</div>
-
-
-{% include footer.html %}
-{% include clicky.html %}
   </body>
 </html>

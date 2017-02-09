@@ -1,3 +1,4 @@
+<div class="related-post">
 {% assign tag_in_array = 0 %}
 {% assign url_of_post_w_tag = "" %}
 {% assign counter = 0 %}
@@ -14,7 +15,7 @@
           {% unless url_of_post_w_tag == post.url %}
             {% assign counter = counter | plus: 1 %}
             {% if counter == 1 %}
-            <h2>You might also enjoy</h2>
+            <h2>Related Content</h2>
             {% endif %}
             {% include blog-listing.html %}
             {% assign url_of_post_w_tag = post.url %}
@@ -25,3 +26,4 @@
     {% endfor %}
     {% assign tag_in_array = tag_in_array | plus: 1 %}
   {% endfor %}
+</div>
