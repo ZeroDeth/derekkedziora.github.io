@@ -1,5 +1,5 @@
 ---
-title: A Random Post on Jekyll, a Static Site Generator
+title: Linking to a Random Post on a Jekyll Blog
 description: Here's how I finally figured out how to create a link to a random post on my Jekyll blog 
 tags: 
  - jekyll
