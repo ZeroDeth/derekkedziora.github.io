@@ -2,9 +2,11 @@
 {% assign array_urls = "" %}
 
 {% for post in site.posts %}
-  {% assign counter_rand = counter_rand | plus: 1 %}
-  {% assign array_urls = array_urls | append: post.url %}
-  {% assign array_urls = array_urls | append: "," %}
+  {% unless post.url == page.url %}
+    {% assign counter_rand = counter_rand | plus: 1 %}
+    {% assign array_urls = array_urls | append: post.url %}
+    {% assign array_urls = array_urls | append: "," %}
+  {% endunless %}
 {% endfor %}
 
 {% assign array_urls = array_urls | split: "," %}
