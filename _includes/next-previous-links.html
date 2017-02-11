@@ -3,8 +3,11 @@
     {% unless page.previous.url == post.url %}
       <li><a href="{{page.previous.url}}">[previous post]</a></li>
     {% endunless %}
+    <li><a id="randoLink" href"">[random post]</a>{% include random-post.html %}</li>
     {% unless page.next.url == post.url %}
       <li><a href="{{page.next.url}}">[next post]</a></li>
     {% endunless %}
   </ul>
+  <a id="randoLink" href"">[random post]</a>
+  {% include random-post.html %}
 </div>
