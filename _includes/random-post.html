@@ -1,23 +1,30 @@
-{% assign i = 0 %}
+<!--
+To use this in Jekyll, put this file in your _includes folder.
+It can then be added to any HTML file on your Jekyll site.
+This currenly doesn't work in markdown files.
+
+In the file use this format:
+<a id="randoLink" href"">Add a title to your link</a>
+{% include random-post.html %}
+-->
+
+{% assign counter = 0 %}
 {% assign array_urls = "" %}
 
 {% for post in site.posts %}
-{% assign i = i | plus: 1 %}
-{% assign temp_url = {post.url} %}
-{% assign temp_url = temp_url | append: "," %}
-{% assign array_urls = array_urls | append: temp_url %}
+  {% assign counter = counter | plus: 1 %}
+  {% assign temp_url = {post.url} %}
+  {% assign temp_url = temp_url | append: "," %}
+  {% assign array_urls = array_urls | append: temp_url %}
 {% endfor %}
+
 {% assign array_urls = array_urls | split: "," %}
-{% assign array_urls = array_urls | append: ""]" %} <p style="display:none;">"</p> 
+{% assign array_urls = array_urls | append: ""]" %}
 {% assign array_urls = array_urls | join: '", "' %}
-
-
-
-<a id="myAnchor" href"">test</a>
 
 <script>
   var myArray = {{ array_urls }};
-  var randnum = Math.floor(Math.random() * {{i}}) + 0;
+  var randnum = Math.floor(Math.random() * {{ counter }}) + 0;
   var linkToPost = myArray[randnum]
-  document.getElementById("myAnchor").href = linkToPost
+  document.getElementById("randoLink").href = linkToPost
 </script>
