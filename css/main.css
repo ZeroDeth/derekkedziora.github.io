@@ -140,7 +140,7 @@ footer ul {
 
 .next-previous-links a {
   text-decoration: none;
-  font-size: 1.3em;
+  font-size: 20px;
   padding: 0px 10px 0px 10px;
 }
 
@@ -151,6 +151,7 @@ footer ul {
 
 .next-previous-links li {
   display: inline;
+  font-size: 20px;
 }
 
 #index-tag-line {
