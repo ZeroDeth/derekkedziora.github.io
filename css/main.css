@@ -38,6 +38,7 @@ h3 {
 blockquote {
   border-left-style: solid;
   border-color: grey;
+  padding-left: 5px;
 }
 
 nav {
