@@ -4,19 +4,27 @@ title: About
 permalink: "/about"
 og-type: website
 ---
-## Me
+### Me
 
-**[language]** I’m a language geek. I teach English, have learned Russian and work as an editor and content writer. I’m all about natural, functional language. Linguistic platonism is my nemesis.
+These days, I call Ukraine home, although I'm a native of Phoenix, Arizona. I've spent most of my adult life teaching English in China, Saudi Arabia and Ukraine. I'm currently working as an editor at an IT company in Kiev.  
 
-**[lifestyle]** My life revolves around flow states: meditation, challenging bike rides, constantly learning new things and work that requires concentration. Work hard; play hard. Cold showers, random fasting. I love experimenting on myself.
+Here's my [online CV][0] or you can download it as a [PDF][1].
 
-**[global nomad]** I grew up in Arizona and am currently based in Kiev, Ukraine. Between the two, I’ve lived in Kyrgyzstan, China, Saudi Arabia, Dnipro and a Western Ukrainian village.
+<!-- Here's what I'm doing [now][2], what I [use][3] and what I [read][4]. -->
 
-**[philosophy]** Stoicism and Theravada Buddhism form my philosophical framework.
+### Language
 
-<!--- My CV: <a href="/cv" target ="_blank">[web]</a> <a href="/files/derek_cv.pdf" target ="_blank">[pdf]</a>
--->
+I’m a language geek. I've learned Russian to fluency and studied a smattering a few other languages. I’m all about natural, functional language. Linguistic platonism is my nemesis.
 
-## About this blog
+### Core Philosophy
 
-I started this in 2016 as a way to distribute lessons to my students. These are still up in my <a href="/lesson-archives/">lesson archives</a>. In 2017, I’m changing course a bit to focus more on general topics in language learning and teaching.
+Philosophy makes me tick: from the pragmatism of the stoics to the ideals of early Buddhism, there's a lot of ancient wisdom from which to carve out a meaningful life in the modern world. The paleo movement has a lot of great ideas from a high-fat diet, to barefoot running, cold showers and trying to center life around [flow states][2].
+
+### About this blog
+
+I started this site in 2016 as a way to share lesson plans with my students. These original posts are still up in the [lesson archives][3] section. In 2017, I’m changing course a bit to focus more on general topics in language learning and teaching.
+
+[0]: /cv
+[1]: /pages/cv-kedziora.pdf
+[2]: https://en.wikipedia.org/wiki/Flow_(psychology)
+[3]: /lesson-archives/
