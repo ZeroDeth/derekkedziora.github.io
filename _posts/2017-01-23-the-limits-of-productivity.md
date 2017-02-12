@@ -20,7 +20,7 @@ Before you dive into the reading, remember to not use [Google Translate mode][0]
 
 ## The Topic: the Limits of Productivity
 
-Robert Gorden's [The Rise and Fall of American Growth][1] is the nucleus that the rest of the articles revolve around. Far from the techno-utopian vision of Silicon Valley, Gordon argues that the tech revolution is hyped and that the great age of economic growth in the developed world is over.
+Robert Gorden's [The Rise and Fall of American Growth][1] (affiliate link) is the nucleus that the rest of the articles revolve around. Far from the techno-utopian vision of Silicon Valley, Gordon argues that the tech revolution is hyped and that the great age of economic growth in the developed world is over.
 
 ## The Source List
 

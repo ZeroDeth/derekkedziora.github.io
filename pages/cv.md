@@ -1,9 +1,3 @@
----
-layout: page
-title: My CV
-permalink: /cv
-og-type: website
----
 ## Derek Kedziora  
 blog@derek.com.ua      
 derek.com.ua
@@ -24,7 +18,7 @@ HTML, CSS, Markdown, Jekyll, GitHub
 Editor: 2017 - Present  
 I edit marketing materials, landing pages and blog posts at PDFfiller. I've created a company style guide and conducted training sessions for copywriters.
 
-Teacher of English as a Foreign Language: 2009 - 2016  
+English Teacher: 2009 - 2016  
 I taught English in China, Saudi Arabia and Ukraine including at IT companies such as Grammarly and Brainware.io.  
 
 ### Education
@@ -33,4 +27,3 @@ I taught English in China, Saudi Arabia and Ukraine including at IT companies su
 
 *Bachelor of Arts in Russian Language and Literature*: Arizona State University, 2009
 
-[Download my CV as a PDF](/pages/cv-kedziora.pdf)
