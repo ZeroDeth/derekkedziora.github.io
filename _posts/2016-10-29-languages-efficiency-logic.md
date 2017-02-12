@@ -4,9 +4,9 @@ description: Despite the appeal of logic, human languages function efficiently b
 tags:
  - linguistics
 ---
-At some point, every language learner has wished that their target language were more logical. Luckily, an entirely logical language exists: <a href="https://en.wikipedia.org/wiki/Lojban" target="_blank">Lojban</a>. The entire system is based solely on logic and a look through <a href="https://mw.lojban.org/papri/How_to_say_it_in_Lojban" target="_blank">this guide</a> will likely enthrall a logician — figuring out simple words requires a truth table. Not surprisingly, the practical applications of Lojban are limited.
+At some point, every language learner has wished that their target language were more logical. Luckily, an entirely logical language exists: [Lojban][0]. The entire system is based solely on logic and a look through [this guide][1] will likely enthrall a logician — figuring out simple words requires a truth table. Not surprisingly, the practical applications of Lojban are limited.
 
-It's easy to forget languages have to be processed by the human brain. The framework of a quick, instinctive and often inaccurate system 1 and a deliberate, slow and logical system 2 is useful for looking at language learning and use. [see <a href="https://en.wikipedia.org/wiki/Dual_process_theory#Dual-process_accounts_of_reasoning" target="_blank">the Wikipedia article</a> or listen to <a href="https://www.youtube.com/watch?v=CjVQJdIrDJ0" target="_blank">Daniel Kahneman at Google</a> for an in-depth explanation of systems 1 and 2].
+It's easy to forget languages have to be processed by the human brain. The framework of a quick, instinctive and often inaccurate system 1 and a deliberate, slow and logical system 2 is useful for looking at language learning and use. [see [the Wikipedia article][2] or listen to [Daniel Kahneman at Google][3] for an in-depth explanation of systems 1 and 2].
 
 Nearly all spoken and informal language uses system 1, yet most language learning centers on system 2. Were we to use system 2 as our primary linguistic processing mechanism, the pace of communication would grind to a halt while the computational cost of this communication would preclude nearly any simultaneous activity. Even making a passing mental note about the weather would require a shift into system 2 were one thinking in an entirely logical language. Using system 2 can help you write an email or craft a blog post but is inefficient for most of our daily linguistic needs.
 
@@ -15,3 +15,8 @@ The difficulty for second language learning arises when teachers focus entirely 
 Learning English requires adopting the system 1 of an English-speaker. The role of the teacher is to create contexts that lead students into system-1 thinking and provide feedback. A simple sentence contains an incredible amount of information, but languages encode this information differently. English-speakers explicitly mark identification or classification (the vs. a/an) while other languages rely on context or different phrasing. Conversely, English-speakers have no need to mark the gender of the agent of a past action as Slavic languages do; context suffices for us. A good teacher can help students figure out and develop this encoding for themselves.
 
 Approaching language learning this way prepares students to actually use their target language functionally. Applying system-2 logic to what is primarily a system-1 function will cause consternation and unnatural language production. Look at the quirks of any natural language and realize that that language serves as a medium of communication because of, rather than in spite of, its illogical features.  
+
+[0]: https://en.wikipedia.org/wiki/Lojban
+[1]: https://mw.lojban.org/papri/How_to_say_it_in_Lojban
+[2]: https://en.wikipedia.org/wiki/Dual_process_theory#Dual-process_accounts_of_reasoning
+[3]: https://www.youtube.com/watch?v=CjVQJdIrDJ0
