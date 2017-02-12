@@ -1,54 +1,36 @@
 ---
 layout: page
-title: CV
+title: My CV
 permalink: /cv
 og-type: website
 ---
-<a href="/files/derek_cv.pdf" target="_blank">Download my CV in PDF format</a>
+## Derek Kedziora  
+blog@derek.com.ua      
+derek.com.ua
 
-## Derek Kedziora
-me@derek.com.ua  
-derek.com.ua  
+### Skills
 
-### What I offer
-*English Training*  
-Corporate training, individual lessons in person or online
+English: Native  
+Russian: Advanced
 
-*Linguistic Consulting*  
-Optimizing texts for an American or international audience  
+Editing, Copywriting, Template and Style Guide Creation
 
-### Skills  
-*English: native*  
-Born, raised and educated in the United States
+Teaching English as a Foreign Language
 
-*Russian: advanced*  
-BA in Russian Language and Literature
-
-*Teaching English as a Foreign Language*  
-Cambridge CELTA, seven years of teaching experience  
-
-### Current Projects
-*Cambridge Delta*  
-Self-study program for module one exam in June 2017  
-Module two course during the summer of 2017
-
-*Content Management System for Teaching Materials*  
-Using tools such as GitHub and jekyll to host a teaching blog, lesson plans and other relevant materials for English learners
+HTML, CSS, Markdown, Jekyll, GitHub
 
 ### Experience
-*Ukraine: four years*  
-IT Companies: Brainware.io, Grammarly  
-Individual lessons  
-American English Center
 
-*China: two years*  
-EF English First
+Editor: 2017 - Present  
+I edit marketing materials, landing pages and blog posts at PDFfiller. I've created a company style guide and conducted training sessions for copywriters.
 
-*Saudi Arabia: one year*  
-Tertiary Education: Technical and Vocational Training Corporation
+Teacher of English as a Foreign Language: 2009 - 2016  
+I taught English in China, Saudi Arabia and Ukraine including at IT companies such as Grammarly and Brainware.io.  
 
+### Education
 
-### Qualifications
 *Cambridge CELTA*: Beijing, 2013
 
 *Bachelor of Arts in Russian Language and Literature*: Arizona State University, 2009
+
+[Download my CV as a PDF](/pages/cv-kedziora.pdf)
