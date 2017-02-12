@@ -12,7 +12,7 @@ title: Sitemap
 [About](/about)
 
 - CV: [web](/cv) / [PDF](/pages/cv-kedziora.pdf)
-- [Now][/now]
+- [Now](/now)
 
 [Blog](/blog)
 
