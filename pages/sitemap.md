@@ -1,12 +1,10 @@
 ---
 layout: page
+title: Sitemap
 og-type: website
 permalink: /sitemap
-title: Sitemap
 ---
 <style>ul {list-style-type: none}</style>
-
-
 [Home](/)
 
 [About](/about)

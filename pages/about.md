@@ -1,11 +1,9 @@
 ---
 layout: page
 title: About
-permalink: "/about"
 og-type: website
+permalink: "/about"
 ---
-### Me
-
 These days, I call Ukraine home, although I'm a native of Phoenix, Arizona. I've spent most of my adult life teaching English in China, Saudi Arabia and Ukraine. I'm currently working as an editor at an IT company in Kiev.  
 
 Here's my [online CV][0] or you can download it as a [PDF][1].
