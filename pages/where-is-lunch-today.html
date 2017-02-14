@@ -1,0 +1,15 @@
+---
+layout: page
+title: Where is Lunch Today?
+permalink: /where-is-lunch
+---
+
+
+<p id="randomRestaurant"></p>
+
+<script>
+var listOfRestaurants = ["McDonalds", "All True East", "cafeteria"];
+var randomRestaurantFromList = Math.floor(Math.random() * 3) + 0;
+var finalPlace = listOfRestaurants[randomRestaurantFromList];
+document.getElementById("randomRestaurant").innerHTML = finalPlace
+</script>
