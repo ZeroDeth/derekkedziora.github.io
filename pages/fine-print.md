@@ -20,6 +20,7 @@ I use basic Yandex and Clicky analytics. Knowing what search terms bring people 
 I don’t run any ads, because the old advertising model is an ugly dinosaur. That said, I find affiliate links to be a decent compromise. I hope the future monetization of the web is one of affiliate linking, freemium products and subscription services rather than clickbait ads under the current Google and Facebook scheme.
 
 If I post an affiliate link, it's because I genuinely use and like the product. You can support my blog by shopping with these links:
+
 - [Amazon][4]
 - [TunnelBear][5]
 
@@ -28,4 +29,4 @@ If I post an affiliate link, it's because I genuinely use and like the product. 
 [2]: https://pages.github.com
 [3]: https://github.com/derekkedziora/derekkedziora.github.io
 [4]: https://www.amazon.com/?_encoding=UTF8&camp=212353&creative=380561&linkCode=sb1&tag=derekcomua-20
-[5]: http://click.tunnelbear.com/aff_c?offer_id=2&aff_id=2586 
+[5]: http://click.tunnelbear.com/aff_c?offer_id=2&aff_id=2586
