@@ -5,9 +5,13 @@ permalink: /where-is-lunch
 ---
 <style>
 
+.main-button {
+  width: 200px;
+  margin: 0 auto 0 auto;
+}
+
 #main-button {
   width: 200px;
-  margin: 10px 250px 10px 218px;
 }
 
 #randomRestaurant {
@@ -15,8 +19,9 @@ permalink: /where-is-lunch
 }
 </style>
 
+<div class="main-button">
 <button id="main-button" onclick="pickPlace()" style>Let's go to...</button>
-
+</div>
 <p id="randomRestaurant"></p>
 
 {% assign listPlaces = {{site.data.lunch-choices.lunch-places | join: '", "' }} %}
