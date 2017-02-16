@@ -3,13 +3,31 @@ layout: page
 title: Where is Lunch Today?
 permalink: /where-is-lunch
 ---
+<style>
 
+#main-button {
+  width: 200px;
+  margin: 10px 250px 10px 218px;
+}
+
+#randomRestaurant {
+  text-align: center;
+}
+</style>
+
+<button id="main-button" onclick="pickPlace()" style>Let's go to...</button>
 
 <p id="randomRestaurant"></p>
 
+{% assign listPlaces = {{site.data.lunch-choices.lunch-places | join: '", "' }} %}
+{% assign listPlaces = '["' | append: listPlaces %}
+{% assign listPlaces = listPlaces | append: '"]' %}
+
 <script>
-var listOfRestaurants = ["McDonalds", "All True East", "cafeteria"];
-var randomRestaurantFromList = Math.floor(Math.random() * 3) + 0;
+function pickPlace() {
+var listOfRestaurants = {{ listPlaces }};
+var randomRestaurantFromList = Math.floor(Math.random() *
+{{ site.data.lunch-choices.lunch-places | size }}) + 0;
 var finalPlace = listOfRestaurants[randomRestaurantFromList];
-document.getElementById("randomRestaurant").innerHTML = finalPlace
+document.getElementById("randomRestaurant").innerHTML = finalPlace;}
 </script>
