@@ -39,11 +39,11 @@ blockquote {
   border-left-style: solid;
   border-color: grey;
   padding-left: 5px;
-  background-color: #bfbfbf;
 }
 
-pre, code {
-  background-color: #bfbfbf;
+pre {
+  background-color: black;
+  color: grey;
   font-size: 16px;
 }
 
