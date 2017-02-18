@@ -116,11 +116,11 @@ footer ul {
   text-decoration: none;
 }
 
-.blog-listing h1 a {
+.blog-listing h2 a {
   color: black;
 }
 
-.blog-listing h1 {
+.blog-listing h2 {
   font-size: 1.5em;
   text-align: left;
   margin: -5px 0px 0px 0px;
