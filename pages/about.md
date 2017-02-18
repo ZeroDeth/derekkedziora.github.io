@@ -12,7 +12,7 @@ Here's what I'm doing [now][2]. <!-- , what I [use][3] and what I [regularly rea
 
 ### Language
 
-I’m a language geek. I've learned Russian to fluency and studied a smattering a few other languages. I’m all about natural, functional language. Linguistic platonism is my nemesis.
+I’m a language geek. I've learned Russian to fluency and studied a smattering of a few other languages. I’m all about natural, functional language. Linguistic platonism is my nemesis.
 
 ### Core Philosophy
 
