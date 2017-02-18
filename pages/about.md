@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: About Derek Kedziora and the flow of language
 og-type: website
 permalink: "/about"
 ---

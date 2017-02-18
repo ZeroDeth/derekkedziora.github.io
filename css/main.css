@@ -90,6 +90,10 @@ footer ul {
   line-height: 20px;
 }
 
+#centered-title {
+  text-align: center;
+}
+
 .post-content {
   margin: 30px 0px 15px 0px;
   padding: 10px 30px 10px 30px;
@@ -108,16 +112,8 @@ footer ul {
   border-color: #7d7d7d;
   border-width: 1px;
   margin: 50px 0px 50px 0px;
-  padding: 30px 30px;
+  padding: 25px 25px 25px 25px;
   background-color: #F5F5F5;
-}
-
-.blog-listing a {
-  text-decoration: none;
-}
-
-.blog-listing h2 a {
-  color: black;
 }
 
 .blog-listing h2 {
@@ -126,16 +122,22 @@ footer ul {
   margin: -5px 0px 0px 0px;
 }
 
-.blog-listing p {
+.blog-listing h2 a {
+  color: black;
+}
+
+.blog-listing a {
+  text-decoration: none;
+}
+
+.blog-listing h3 {
   font-size: 1.1em;
   line-height: 1.3em;
   text-align: left;
   margin: 10px 0px -5px 0px;
+  font-weight: normal;
 }
 
-.blog-listing li {
-  list-style-type: none;
-}
 
 #blog-listing-nav {
   font-size: .9em;
@@ -161,6 +163,8 @@ footer ul {
 }
 
 #index-tag-line {
+  font-size: 18px;
+  font-weight: normal;
   text-align: left;
 }
 
@@ -170,11 +174,6 @@ footer ul {
 
 #clicky {
   display: none;
-}
-
-.related-post h2 {
-  text-align: center;
-  margin: 0px 0px -20px 0px;
 }
 
 .search-form {

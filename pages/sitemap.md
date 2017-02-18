@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sitemap
+description: the flow of language's sitemap
 og-type: website
 permalink: /sitemap
 ---

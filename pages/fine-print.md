@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Fine Print
+description: Details about copyright, metrics and data, and affiliate links
 permalink: /fine-print
 og-type: website
 ---

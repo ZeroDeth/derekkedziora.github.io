@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Now
+description: The current projects at the flow of language
 permalink: /now
 ---
 ## February 2017
@@ -19,11 +20,11 @@ I've ordered [Javascript & jQuery][4]; learning enough Javascript to add some im
 
 I'm anxiously awaiting warmer weather so I can get back to running, cycling and otherwise spending more time outside.
 
-Here are affiliate links to the above mentioned books if you'd like to support my site: 
+Here are affiliate links to the above mentioned books if you'd like to support my site:
 
 - [An Introduction to Formal Logic][5]
 - [The Foundations of Mathematics][6]
-- [Javascript & jQuery][7] 
+- [Javascript & jQuery][7]
 
 [0]: http://nownownow.com/about
 [1]: https://www.amazon.com/gp/product/0521008042/

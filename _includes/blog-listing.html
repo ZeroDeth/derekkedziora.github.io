@@ -1,9 +1,7 @@
 <div class="blog-listing">
   <h2><a href="{{ post.url }}">{{post.title}}</a></h2>
-    <p id="blog-listing-nav">{{ post.date | date_to_string }}
-    <br>
+    <p id="blog-listing-nav">{{ post.date | date_to_string }} |
     tags: {{ post.tags | join: ", "}}</p>
-    <p>{{post.description}}
-    <br>
-    <a href="{{ post.url }}">[view full post]</a></p>
+    <h3>{{post.description}}
+    <a href="{{ post.url }}">[...]</a></h3>
 </div>

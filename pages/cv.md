@@ -1,3 +1,11 @@
+---
+layout: page
+title: My CV
+description: Derek Kedziora's CV
+og-type: website
+permalink: /cv
+---
+
 ## Derek Kedziora  
 blog@derek.com.ua      
 derek.com.ua
@@ -27,3 +35,4 @@ I taught English in China, Saudi Arabia and Ukraine including at IT companies su
 
 *Bachelor of Arts in Russian Language and Literature*: Arizona State University, 2009
 
+[Download my CV as a PDF](/pages/cv-kedziora.pdf)
