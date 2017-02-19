@@ -108,7 +108,7 @@ footer ul {
   margin: 0px 0px 0px 0px;
 }
 
-.blog-listing {
+article {
   border: solid;
   border-color: #7d7d7d;
   border-width: 1px;
@@ -117,21 +117,21 @@ footer ul {
   background-color: #F5F5F5;
 }
 
-.blog-listing h2 {
+article h1 {
   font-size: 1.5em;
   text-align: left;
   margin: -5px 0px 0px 0px;
 }
 
-.blog-listing h2 a {
+article h1 a {
   color: black;
 }
 
-.blog-listing a {
+article a {
   text-decoration: none;
 }
 
-.blog-listing h3 {
+article h2 {
   font-size: 1.1em;
   line-height: 1.3em;
   text-align: left;
