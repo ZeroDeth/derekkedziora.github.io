@@ -3,6 +3,7 @@
 <body>
   {% include navbar.html %}
 
+<main>
   <article>
     <header>
       <h1 class="post-title">{{ page.title }}</h1>
@@ -14,12 +15,11 @@
     </header>
 
     <section class='post-content'>
-      <main>
         {{ content }}
-      </main>
     </section>
 
   </article>
+</main>
 
 <aside>
   {% include next-previous-links.html %}
