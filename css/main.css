@@ -95,6 +95,15 @@ footer ul {
   text-align: center;
 }
 
+.post-title {
+  text-align: left;
+}
+
+.description-of-post {
+  font-size: 18px;
+  font-weight: normal;
+}
+
 .post-content {
   margin: 30px 0px 15px 0px;
   padding: 10px 30px 10px 30px;
@@ -108,7 +117,7 @@ footer ul {
   margin: 0px 0px 0px 0px;
 }
 
-article {
+.blog-listing {
   border: solid;
   border-color: #7d7d7d;
   border-width: 1px;
@@ -117,21 +126,21 @@ article {
   background-color: #F5F5F5;
 }
 
-article h1 {
+.blog-listing h1 {
   font-size: 1.5em;
   text-align: left;
   margin: -5px 0px 0px 0px;
 }
 
-article h1 a {
+.blog-listing h1 a {
   color: black;
 }
 
-article a {
+.blog-listing a {
   text-decoration: none;
 }
 
-article h2 {
+.description-blog-listing {
   font-size: 1.1em;
   line-height: 1.3em;
   text-align: left;
@@ -140,7 +149,7 @@ article h2 {
 }
 
 
-.blog-listing-nav {
+.date-blog-listing {
   font-size: .9em;
   line-height: 1em;
   font-weight: lighter;

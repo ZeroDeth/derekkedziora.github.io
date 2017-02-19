@@ -17,7 +17,7 @@ The solution is straightforward: get all the post URLs into a Javascript array, 
 
 To use this in Jekyll, create a new file in your `_includes` folder.
 
-Copy the first section of code into the file to generate the array ([view on GitHub][2]) and add the second code snippet where you'd like a link to a random post to appear ([view on GitHub][3]). 
+Copy the first section of code into the file to generate the array ([view on GitHub][2]) and add the second code snippet where you'd like a link to a random post to appear ([view on GitHub][3]).
 
 ```
 

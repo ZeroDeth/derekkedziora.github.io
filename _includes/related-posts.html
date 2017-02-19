@@ -15,7 +15,7 @@
           {% unless url_of_post_w_tag == post.url %}
             {% assign counter = counter | plus: 1 %}
             {% if counter == 1 %}
-            <h2 id="centered-title">Related Content</h2>
+            <h2 class="centered-title">Related Content</h2>
             {% endif %}
             {% include blog-listing.html %}
             {% assign url_of_post_w_tag = post.url %}
