@@ -62,7 +62,7 @@ nav ul {
   padding-left: 0px;
 }
 
-nav h2 {
+nav h1 {
   float: left;
   font-size: 18px;
   font-weight: bold;
@@ -206,7 +206,7 @@ footer ul {
     width: 100%
   }
 
-  nav h2 {
+  nav h1 {
     float: none;
     text-align: center;
     margin: 10px 0px 0px 0px;
