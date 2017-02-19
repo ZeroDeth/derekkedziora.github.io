@@ -95,6 +95,7 @@ footer ul {
 
 .centered-title {
   text-align: center;
+  margin-bottom: -10px;
 }
 
 .post-title {
@@ -128,6 +129,10 @@ footer ul {
   background-color: #F5F5F5;
 }
 
+.blog-listing a {
+  text-decoration: none;
+}
+
 .blog-listing-title {
   font-size: 1.5em;
   text-align: left;
@@ -136,7 +141,6 @@ footer ul {
 
 .blog-listing-title a {
   color: black;
-  text-decoration: none;
 }
 
 .blog-listing-description {
@@ -162,12 +166,13 @@ footer ul {
 
 .next-previous-links ul {
   padding-left: 0px;
-  text-align: center;
+  margin: 30px 0px 30px 0px;
 }
 
 .next-previous-links li {
   display: inline;
   font-size: 20px;
+  padding: 0px 45px 0px 45px;
 }
 
 .tagline {

@@ -14,13 +14,17 @@
     </header>
 
     <section class='post-content'>
-      {{ content }}
+      <main>
+        {{ content }}
+      </main>
     </section>
 
   </article>
 
+<aside>
   {% include next-previous-links.html %}
   {% include related-posts.html %}
+</aside>
 
   {% include footer.html %}
 

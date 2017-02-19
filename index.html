@@ -10,11 +10,12 @@ og-type: website
   This is my blog where I combine these interests.</p>
 </header>
 
-<hgroup>
-  <h2 class="centered-title">Recent Blog Posts</h2>
-</hgroup>
 
+<aside>
+  <h2 class="centered-title">Recent Blog Posts</h2>
 
 {% for post in site.posts limit: 3 %}
   {% include blog-listing.html %}
 {% endfor %}
+
+</aside>
