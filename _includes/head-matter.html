@@ -6,7 +6,7 @@
     <title>{{ page.title }}</title>
     <meta name="description" content="{{ page.description }}"/>
     <meta name="author" content="Derek Kedziora"/>
-    <meta itemprop="datePublished" content="'{{ page.date | date: "%Y-%m-%d" }}'"/>
+    <meta itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}"/>
     <link rel="canonical" href="http://{{ page.url | prepend: site.url }}">
     <meta name=viewport content="width=device-width, initial-scale=1">
     {% include og-matter.html %}
