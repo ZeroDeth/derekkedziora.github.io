@@ -45,6 +45,7 @@ pre {
   background-color: black;
   color: grey;
   font-size: 16px;
+  padding-left: 5px;
 }
 
 nav {
@@ -90,7 +91,7 @@ footer ul {
   line-height: 20px;
 }
 
-#centered-title {
+.centered-title {
   text-align: center;
 }
 
@@ -139,7 +140,7 @@ footer ul {
 }
 
 
-#blog-listing-nav {
+.blog-listing-nav {
   font-size: .9em;
   line-height: 1em;
   font-weight: lighter;
@@ -162,10 +163,8 @@ footer ul {
   font-size: 20px;
 }
 
-#index-tag-line {
+.tagline {
   font-size: 18px;
-  font-weight: normal;
-  text-align: left;
 }
 
 #recent-blog-title {
@@ -174,30 +173,6 @@ footer ul {
 
 #clicky {
   display: none;
-}
-
-.search-form {
-  width: 275px;
-  margin: 5% auto 5% auto;
-}
-
-#search-box {
-  height: 28px;
-  border-color: #7d7d7d;
-  border-width: 1px;
-}
-
-#search-button {
-  clear:both; background-color: #aaa; border: 0 none; border-radius:4px; transition: all 0.23s ease-in-out 0s; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: normal; height: 32px; line-height: 32px; margin: 0 5px 10px 0; padding: 0 22px; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;
-}
-
-#search-button:hover {
-  background-color: black;
-  color: white;
-}
-
-#search-results {
-  padding-left: 0px;
 }
 
 #nav-mobile {
@@ -251,6 +226,14 @@ footer ul {
     border-bottom: solid;
     border-color: black;
     border-bottom-width: 1px;
+  }
+
+  .desktop-only {
+    display: none;
+  }
+
+  pre {
+    display: none;
   }
 
   ul, ol {
