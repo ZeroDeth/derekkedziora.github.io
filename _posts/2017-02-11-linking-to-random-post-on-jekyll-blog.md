@@ -17,9 +17,10 @@ The solution is straightforward: get all the post URLs into a Javascript array, 
 
 To use this in Jekyll, create a new file in your `_includes` folder.
 
-Copy this code into the file:
+Copy the first section of code into the file to generate the array ([view on GitHub][2]) and add the second code snippet where you'd like a link to a random post to appear ([view on GitHub][3]). 
 
 ```
+
 {% raw %}{% assign counter_rand = 0 %}
 {% assign array_urls = "" %}
 
@@ -37,20 +38,20 @@ Copy this code into the file:
 
 <script>
   var myArray = {% raw %}{{ array_urls }}{% endraw %};
-  var randnum = Math.floor(Math.random() * {% raw %}{{ counter_rand }}){% endraw %} + 0;
+  var randnum = Math.floor(Math.random()
+   * {% raw %}{{ counter_rand }}){% endraw %} + 0;
   var linkToPost = myArray[randnum]
   document.getElementById("randoLink").href = linkToPost
 </script>
+
 ```
 
-Add the following code snippet where you'd like a link to a random post:
+```
 
-```HTML
 <a id="randoLink" href"">visit a random post</a>
 {% raw %}{% include (name-of-your-file).html %}{% endraw %}
-```
 
-You view the code on GitHub: [generating the array][2] and the link on [each post][3].
+```
 
 Unfortunately, this doesn't work in markdown; it can only be added to HTML files.
 
