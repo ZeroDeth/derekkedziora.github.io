@@ -62,10 +62,11 @@ nav ul {
   padding-left: 0px;
 }
 
-nav ul li:first-child {
+nav h2 {
   float: left;
   font-size: 18px;
   font-weight: bold;
+  margin-top: 0px;
 }
 
 nav ul li {
@@ -76,7 +77,6 @@ nav ul li {
 }
 
 nav a, footer a {
-  color: #404040;
   text-decoration: none;
 }
 
@@ -183,7 +183,7 @@ footer ul {
   display: none;
 }
 
-#nav-mobile {
+.nav-mobile {
   display: none;
 }
 
@@ -200,40 +200,22 @@ footer ul {
     width: 95%;
   }
 
-  #nav-desktop {
-    display: none;
+  nav {
+    height: 75px;
+    text-align: center;
+    width: 100%
   }
 
-  nav ul li:first-child {
+  nav h2 {
     float: none;
-    font-size: 1.1em;
-    font-weight: normal;
+    text-align: center;
+    margin: 10px 0px 0px 0px;
   }
 
   nav ul li {
-    display: inline;
     float: none;
-    color: #7d7d7d;
-    font-size: 1.1em;
-  }
-
-  #nav-mobile {
-    display: inline;
-  }
-
-  #nav-mobile-title {
-    text-align: center;
-    font-weight: bold;
-    margin: 13px 0px 14px 0px;
-  }
-
-  #nav-mobile-menu {
-    height: 50px;
-    padding-left: 0px;
-    text-align: center;
-    border-bottom: solid;
-    border-color: black;
-    border-bottom-width: 1px;
+    font-size: 18px;
+    padding: 0% 2.5% 0% 2.5%;
   }
 
   .desktop-only {
@@ -253,6 +235,7 @@ footer ul {
   }
 
   .next-previous-links li {
+    text-align: center;
     display: list-item;
     list-style-type: none;
   }
