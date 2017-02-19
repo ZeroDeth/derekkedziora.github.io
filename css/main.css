@@ -2,7 +2,9 @@ body {
   background-color: #D3D3D3;
   margin: auto;
   width: 700px;
-  font-family: "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  font-family: "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto",
+  "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+  sans-serif;
 }
 
 a {
@@ -126,21 +128,18 @@ footer ul {
   background-color: #F5F5F5;
 }
 
-.blog-listing h1 {
+.blog-listing-title {
   font-size: 1.5em;
   text-align: left;
   margin: -5px 0px 0px 0px;
 }
 
-.blog-listing h1 a {
+.blog-listing-title a {
   color: black;
-}
-
-.blog-listing a {
   text-decoration: none;
 }
 
-.description-blog-listing {
+.blog-listing-description {
   font-size: 1.1em;
   line-height: 1.3em;
   text-align: left;
@@ -148,8 +147,7 @@ footer ul {
   font-weight: normal;
 }
 
-
-.date-blog-listing {
+.blog-listing-date {
   font-size: .9em;
   line-height: 1em;
   font-weight: lighter;
@@ -174,10 +172,6 @@ footer ul {
 
 .tagline {
   font-size: 18px;
-}
-
-#recent-blog-title {
-  text-align: center;
 }
 
 .clicky {

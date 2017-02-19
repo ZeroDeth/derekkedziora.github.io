@@ -6,9 +6,11 @@
   <article>
     <header>
       <h1 class="post-title">{{ page.title }}</h1>
-        <h2 class="date-blog-listing">{{ page.date | date_to_string }} |
+        <h2 class="blog-listing-date">
+          <time datetime='{{ page.date | date: "%Y-%m-%d" }}'
+          pubdate>{{ page.date | date: '%d %B %Y'}}</time> |
           tags: {{ page.tags | join: ", "}}</h2>
-        <h2 class="description-blog-listing">{{page.description}}</h2>
+        <h2 class="blog-listing-description">{{page.description}}</h2>
     </header>
 
     <section class='post-content'>
