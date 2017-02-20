@@ -4,12 +4,12 @@
 {% assign counter = 0 %}
 
   {% for tag in page.tags %}
-    {% if counter >= 3 %}
-      {% break %}
-    {% endif %}
     {% assign individual_tag = page.tags[tag_in_array] %}
     {% for post in site.posts %}
       {% for tag in post.tags %}
+        {% if counter >= 3 %}
+          {% break %}
+        {% endif %}
         {% if tag == individual_tag %}
           {% unless post.url == page.url %}
           {% unless url_of_post_w_tag == post.url %}
