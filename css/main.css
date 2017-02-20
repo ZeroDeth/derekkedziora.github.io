@@ -51,7 +51,7 @@ pre {
 }
 
 nav {
-  height: 50px;
+  height: 40px;
   border-bottom: solid;
   border-color: black;
   border-bottom-width: 1px;
@@ -235,10 +235,19 @@ footer ul {
     margin-left: 0px;
   }
 
-  .next-previous-links li {
-    text-align: center;
+  .post-content {
+    padding: 10px 10px 10px 10px;
+  }
+
+  .blog-listing {
+    padding: 10px 10px 10px 10px;
+  }
+
+  .next-previous-links ul li {
     display: list-item;
+    text-align: center;
     list-style-type: none;
+    margin: 15px 0px 15px 0px;
   }
 
   footer ul {
