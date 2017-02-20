@@ -6,7 +6,7 @@
     {% if page.previous.url == post.url %}
       <li>[no previous post]</li>
     {% endif %}
-    <li><a id="randoLink" href"">[random post]</a>{% include random-post.html %}</li>
+    <li><a href="" id="randoLink">[random post]</a>{% include random-post.html %}</li>
     {% unless page.next.url == post.url %}
       <li><a href="{{page.next.url}}">[next post]</a></li>
     {% endunless %}
