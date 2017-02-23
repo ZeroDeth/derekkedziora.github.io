@@ -1,0 +1,39 @@
+---
+layout: page
+title: I need to work from home...
+description: The common illnesses that befall a PDFfillerer
+permalink: /wfm
+---
+<style>
+
+.main-button {
+  width: 200px;
+  margin: 0 auto 0 auto;
+}
+
+#main-button {
+  width: 200px;
+}
+
+#randomRestaurant {
+  text-align: center;
+}
+</style>
+
+<div class="main-button">
+<button id="main-button" onclick="reasonIcant()" style>because...</button>
+</div>
+<p id="randomRestaurant"></p>
+
+{% assign listPlaces = {{site.data.wfh.sickReason | join: '", "' }} %}
+{% assign listPlaces = '["' | append: listPlaces %}
+{% assign listPlaces = listPlaces | append: '"]' %}
+
+<script>
+function reasonIcant() {
+var listOfRestaurants = {{ listPlaces }};
+var randomRestaurantFromList = Math.floor(Math.random() *
+{{ site.data.lunch-choices.lunch-places | size }}) + 0;
+var finalPlace = listOfRestaurants[randomRestaurantFromList];
+document.getElementById("randomRestaurant").innerHTML = finalPlace;}
+</script>
