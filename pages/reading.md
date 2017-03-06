@@ -23,7 +23,7 @@ Although hokey, [the Art of Manliness][4] offers some great content and neat pod
 
 [J.D. Moyer's blog][5] is like Tim Ferriss and Dave Asprey without the sales pitch and is more doable for regular people. [Five Things That Made My Life 10% Better (Each)][6] is a great read.
 
-Cal Thomas' Blog, [Study Hacks][7], is a 'cry of the soul' against the culture of distraction of frivolity. 
+Cal Thomas' Blog, [Study Hacks][7], is a 'cry of the soul' against the culture of distraction and frivolity. 
 
 [1]: http://www.nytimes.com/newsletters
 [2]: http://www.economist.com
