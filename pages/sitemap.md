@@ -12,6 +12,7 @@ permalink: /sitemap
 
 - CV: [web](/cv) / [PDF](/pages/cv-kedziora.pdf)
 - [Now](/now)
+- [What I Regularly Read](/what-I-regularly-read)
 
 [Blog](/blog)
 

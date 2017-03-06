@@ -3,13 +3,14 @@ layout: page
 title: About
 description: About Derek Kedziora and the flow of language
 og-type: website
-permalink: "/about"
+permalink: /about
 ---
-These days, I call Ukraine home, although I'm a native of Phoenix, Arizona. I've spent most of my adult life teaching English in China, Saudi Arabia and Ukraine. I'm currently working as an editor at an IT company in Kiev.  
+These days, I call Ukraine home, although I'm a native of Phoenix, Arizona. I've spent most of my adult life teaching English in China, Saudi Arabia and Ukraine. I'm currently working as a content marketing editor at an IT company in Kiev.  
 
 Here's my [online CV][0] or you can download it as a [PDF][1].
 
-Here's what I'm doing [now][2]. <!-- , what I [use][3] and what I [regularly read][4]. -->
+Here's what I'm doing [now][2] and what I regulary [read][3]. 
+
 
 ### Language
 
@@ -26,5 +27,6 @@ I started this site in 2016 as a way to share lesson plans with my students. The
 [0]: /cv
 [1]: /pages/cv-kedziora.pdf
 [2]: /now
+[3]: /what-I-regularly-read
 [5]: https://en.wikipedia.org/wiki/Flow_(psychology)
 [6]: /lesson-archives/

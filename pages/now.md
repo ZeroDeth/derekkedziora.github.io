@@ -4,33 +4,18 @@ title: Now
 description: The current projects at the flow of language
 permalink: /now
 ---
-## February 2017
+## March 2017
 
-Inspired by [Derek Sivers][0], here is my now page.
+I'm spending the month in Phoenix, Arizona. It's refreshing to take a break from Ukraine and visit family and friends. 
 
-I'm still working on teaching myself computational thinking using [An Introduction to Formal Logic][1] and [The Foundations of Mathematics][2].
+The relative warmth means it's time to start running, swimming and otherwise exercising outside again. 
 
-I've started a new career as an editor and am somewhat frantically learning the ropes of online marketing.
+I'm working on learning more front-end development with [HTML & CCS][0] and [Javascript & jQuery][1] (affiliate links).
 
-I still have a small group of advanced students that I'm using a test group to develop a better program to break through learning plateaus. Eventually, I hope to expand this into a larger program that depends more on peer to peer interaction than a teacher.
+Rummaging through my parents' house, I found an Old English textbook. That's my language-geek entertainment for the next month. 
 
-I'm taking a break from living languages and am trying to improve my [Pāli][3].
+Being home saps my time for extra projects, so I probably won't get around to much until I'm back in Kiev come April. 
 
-I've ordered [Javascript & jQuery][4]; learning enough Javascript to add some improved functionality to the site is in order.
 
-I'm anxiously awaiting warmer weather so I can get back to running, cycling and otherwise spending more time outside.
-
-Here are affiliate links to the above mentioned books if you'd like to support my site:
-
-- [An Introduction to Formal Logic][5]
-- [The Foundations of Mathematics][6]
-- [Javascript & jQuery][7]
-
-[0]: http://nownownow.com/about
-[1]: https://www.amazon.com/gp/product/0521008042/
-[2]: https://www.amazon.com/gp/product/019870643X/
-[3]: https://en.wikipedia.org/wiki/Pali
-[4]: https://www.amazon.com/gp/product/1118531647
-[5]: https://www.amazon.com/gp/product/0521008042/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0521008042&linkCode=as2&tag=derekcomua-20&linkId=c3389540616c07ff86c188d1081c24cc
-[6]: https://www.amazon.com/gp/product/019870643X/ref=as_li_tl?ie=UTF8&tag=derekcomua-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=019870643X&linkId=8dda77272dcead0f177fac91b8225da1
-[7]: https://www.amazon.com/gp/product/1118531647/ref=as_li_tl?ie=UTF8&tag=derekcomua-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1118531647&linkId=45606a7f76a65ee81116a00b0598c8f6
+[0]: https://www.amazon.com/gp/product/1118008189/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=derekcomua-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1118008189&linkId=b37d1f594471eeb5adb67c891163f2a3
+[1]: https://www.amazon.com/gp/product/1118531647/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=derekcomua-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1118531647&linkId=8b9c3ef23a175602c4964500a82532e8
