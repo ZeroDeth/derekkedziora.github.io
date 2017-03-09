@@ -1,6 +1,6 @@
 --- 
 title: Authentic Texts
-description: Some sample texts from the US that illustrate strong and poor language usage 
+description: Some sample texts from the US that illustrate both good and bad writing 
 tags: 
  - critical reading
  - writing 
