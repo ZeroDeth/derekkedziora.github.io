@@ -7,7 +7,7 @@ permalink: /cv
 ---
 
 ## Derek Kedziora  
-blog@derek.com.ua      
+me@derek.com.ua      
 derek.com.ua
 
 ### Skills
