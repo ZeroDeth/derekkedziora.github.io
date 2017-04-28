@@ -1,21 +1,13 @@
 ---
 layout: page
 title: Now
-description: The current projects at the flow of language
+description: In lieu of a tumblr: my current projects and glorified dabbling
 permalink: /now
 ---
-## March 2017
+## May 2017
 
-I'm spending the month in Phoenix, Arizona. It's refreshing to take a break from Ukraine and visit family and friends. 
+I've been back in Ukraine for a month now, and am finally hitting the sweet spot at my new-ish job. Being a full-time editor and part-time teacher has proven to be the right choice for now.
 
-The relative warmth means it's time to start running, swimming and otherwise exercising outside again. 
+I'm trying to make spending time outside, long walks and some basic level of fitness a priority. Without this, I'd probably lose my sanity pretty quickly.
 
-I'm working on learning more front-end development with [HTML & CCS][0] and [Javascript & jQuery][1] (affiliate links).
-
-Rummaging through my parents' house, I found an Old English textbook. That's my language-geek entertainment for the next month. 
-
-Being home saps my time for extra projects, so I probably won't get around to much until I'm back in Kiev come April. 
-
-
-[0]: https://www.amazon.com/gp/product/1118008189/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=derekcomua-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1118008189&linkId=b37d1f594471eeb5adb67c891163f2a3
-[1]: https://www.amazon.com/gp/product/1118531647/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=derekcomua-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1118531647&linkId=8b9c3ef23a175602c4964500a82532e8
+My big side project has been putting together a business. Within the next few months, I should be ready to unveil it.
