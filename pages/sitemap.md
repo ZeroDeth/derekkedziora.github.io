@@ -17,5 +17,3 @@ permalink: /sitemap
 [Blog](/blog)
 
 [Lesson Archives](/lesson-archives)
-
-[The Fine Print](/fine-print)
