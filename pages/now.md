@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Now
-description: In lieu of a tumblr: my current projects and glorified dabbling
+description: 'In lieu of a tumblr: my current projects and glorified dabbling'
 permalink: /now
 ---
 ## May 2017
