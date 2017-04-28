@@ -66,13 +66,13 @@ These structures show that a present situation is impossible. Note the differenc
 
 ## Additional Resources
 
-- See Murphy's [English Grammar in Use][1] (affiliate link) units 28 (must and can't) and 29 (may and might) for additional practice.  
+- See Murphy's [English Grammar in Use][1] units 28 (must and can't) and 29 (may and might) for additional practice.  
 - If you are interested in a more in-depth discussion of tense, aspect and mood see the [Wikipedia article][2] on the topic.  
 - [Evidentiality][3] is the formal term in linguistics for stating various levels of certainty.    
 - Some languages in the Balkan [Sprachbund][4] have a completely separate verbal form to mark uncertain and reported information known as the [inferential mood][5]. This is more or less equivalent to the *must have* structure in English.
 
 [0]: https://books.google.com/ngrams/graph?content=probably+rained%2Cmust+have+rained%2Ccertainly+rained&year_start=1800&year_end=2000&corpus=15&smoothing=3&share=&direct_url=t1%3B%2Cprobably%20rained%3B%2Cc0%3B.t1%3B%2Cmust%20have%20rained%3B%2Cc0%3B.t1%3B%2Ccertainly%20rained%3B%2Cc0
-[1]: https://www.amazon.com/gp/product/1107539331?ie=UTF8&tag=derekcomua-20&camp=1789&linkCode=xm2&creativeASIN=1107539331
+[1]: https://www.amazon.com/gp/product/1107539331
 [2]: https://en.wikipedia.org/wiki/Tense–aspect–mood
 [3]: https://en.wikipedia.org/wiki/Evidentiality
 [4]: https://en.wikipedia.org/wiki/Balkan_sprachbund
