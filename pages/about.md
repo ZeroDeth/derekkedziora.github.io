@@ -30,11 +30,11 @@ I started this site in 2016 as a way to share lesson plans with my students. The
 
 I release all the content on this site to the public domain under the [creative commons zero license][7] and the code under the [MIT License][8].
 
-I made this blog with [Jekyll][8] and host it on [GitHub Pages][9]. You can view [my code on GitHub][10]. Feel free to fork this site and use it as a template for your own blog.
+I made this blog with [Jekyll][9] and host it on [GitHub Pages][10]. You can view [my code on GitHub][11]. Feel free to fork this site and use it as a template for your own blog.
 
 ### Metrics
 
-I use [Clicky][11] for basic analytics. Knowing what pages are the most popular helps me produce better content. If that is too invasive for you, any of the adblocking extensions out there block Clicky.  
+I use [Clicky][12] for basic analytics. Knowing what pages are the most popular helps me produce better content. If that is too invasive for you, any of the adblocking extensions out there block Clicky.  
 
 [0]: /cv
 [1]: /pages/cv-kedziora.pdf
