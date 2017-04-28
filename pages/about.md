@@ -7,9 +7,9 @@ permalink: /about
 ---
 I call Ukraine home, although I'm a native of Phoenix, Arizona. I've spent most of my adult life teaching English in China, Saudi Arabia and Ukraine. I currently work as a marketing editor at an IT company in Kiev.  
 
-Here's my [online CV][0] and the same as a [PDF][1].
+Here's my [online CV][0] and my CV as a [PDF][1].
 
-This is what I'm up to [now][2]. 
+This is what I'm up to [now][2].
 
 I'm never far from something read: this is my [regular reading list][3].
 <!-- Here is my [book list][4] -->
