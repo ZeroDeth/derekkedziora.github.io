@@ -5,12 +5,14 @@ description: About Derek Kedziora and the flow of language
 og-type: website
 permalink: /about
 ---
-These days, I call Ukraine home, although I'm a native of Phoenix, Arizona. I've spent most of my adult life teaching English in China, Saudi Arabia and Ukraine. I'm currently working as a content marketing editor at an IT company in Kiev.  
+I call Ukraine home, although I'm a native of Phoenix, Arizona. I've spent most of my adult life teaching English in China, Saudi Arabia and Ukraine. I currently work as a marketing editor at an IT company in Kiev.  
 
-Here's my [online CV][0] or you can download it as a [PDF][1].
+Here's my [online CV][0] and the same as a [PDF][1].
 
-Here's what I'm doing [now][2] and what I regulary [read][3]. 
+This is what I'm up to [now][2]. 
 
+I'm never far from something read: this is my [regular reading list][3].
+<!-- Here is my [book list][4] -->
 
 ### Language
 
@@ -18,11 +20,21 @@ I’m a language geek. I've learned Russian to fluency and studied a smattering 
 
 ### Core Philosophy
 
-Philosophy makes me tick: from the pragmatism of the stoics to the ideals of early Buddhism, there's a lot of ancient wisdom from which to carve out a meaningful life in the modern world. The paleo movement has a lot of great ideas from a high-fat diet, to barefoot running, cold showers and trying to center life around [flow states][5]. <!-- Here is my [reading list][4] -->
+Philosophy makes me tick: from the pragmatism of the stoics to the ideals of early Buddhism, there's a lot of ancient wisdom from which to carve out a meaningful life in the modern world. I dabble in health, fitness and positive psychology with a paleo-inspired diet, barefoot running, cold showers and trying to center life around [flow states][5].
 
 ### About this blog
 
-I started this site in 2016 as a way to share lesson plans with my students. These original posts are still up in the [lesson archives][6] section. In 2017, I’m changing course a bit to focus more on general topics in language learning and teaching.
+I started this site in 2016 as a way to share lesson plans with my students. These original posts are still up in the [lesson archives][6] section. In 2017, I changed course to focus more on general topics in language learning and teaching.
+
+### Copyright
+
+I release all the content on this site to the public domain under the [creative commons zero license][7] and the code under the [MIT License][8].
+
+I made this blog with [Jekyll][8] and host it on [GitHub Pages][9]. You can view [my code on GitHub][10]. Feel free to fork this site and use it as a template for your own blog.
+
+### Metrics
+
+I use [Clicky][11] for basic analytics. Knowing what pages are the most popular helps me produce better content. If that is too invasive for you, any of the adblocking extensions out there block Clicky.  
 
 [0]: /cv
 [1]: /pages/cv-kedziora.pdf
@@ -30,3 +42,9 @@ I started this site in 2016 as a way to share lesson plans with my students. The
 [3]: /what-I-regularly-read
 [5]: https://en.wikipedia.org/wiki/Flow_(psychology)
 [6]: /lesson-archives/
+[7]: https://creativecommons.org/publicdomain/zero/1.0/
+[8]: https://github.com/derekkedziora/derekkedziora.github.io/blob/master/LICENSE.md
+[9]: http://jekyllrb.com
+[10]: https://pages.github.com
+[11]: https://github.com/derekkedziora/derekkedziora.github.io
+[12]: https://clicky.com
