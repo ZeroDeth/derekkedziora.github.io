@@ -2,7 +2,7 @@
 title: Plato Ruined your English
 description: Prescriptivism and platonic forms have sabotaged language learning for generations. We need a linguistic Madhyamaka.
 tags:
- - language learning
+ - linguistics
  - linguistic platonism
  - philosophy
 categories:

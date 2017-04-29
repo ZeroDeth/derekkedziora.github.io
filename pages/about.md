@@ -16,7 +16,7 @@ I'm never far from something read: this is my [regular reading list][3].
 
 ### Language
 
-I’m a language geek. I've learned Russian to fluency and studied a smattering of a few other languages. I’m all about natural, functional language. Linguistic platonism is my nemesis.
+I’m a language geek. I've learned Russian to fluency and studied a smattering of a few other languages. I teach, write and elicit natural and functional language - [linguistic platonism][plato-post] is my nemesis.
 
 ### Core Philosophy
 
@@ -48,3 +48,4 @@ I use [Clicky][12] for basic analytics. Knowing what pages are the most popular 
 [10]: https://pages.github.com
 [11]: https://github.com/derekkedziora/derekkedziora.github.io
 [12]: https://clicky.com
+[plato-post]: /blog/plato-ruined-your-english 
