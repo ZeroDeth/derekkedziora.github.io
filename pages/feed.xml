@@ -20,4 +20,3 @@ permalink: feed.xml
   </channel>
 </rss>
 {% include clicky.html %}
-{% include yandex-metrica.html %}
