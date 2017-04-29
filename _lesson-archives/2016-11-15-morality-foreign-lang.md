@@ -1,28 +1,19 @@
 ---
-date: 2016-11-25
-layout: lesson-archive
-lesson: true
-type: reading
-reading: true
 title: How Morality Changes in a Foreign Language
 description: Scientific American explores how an individual's ethics shift when they speak their non-native language
-
+type: reading
 ---
-### Materials 
 
-[<a href="https://www.scientificamerican.com/article/how-morality-changes-in-a-foreign-language/" target="_blank">main</a>] Scientific American article about morality and language choice  
+## Materials
 
-### Lesson Objectives 
+[Scientific American article][0] about morality and language choice  
 
-1. Scan the article for specific information
-2. Discuss language learning's impact on a person 
+## Pre-Reading Questions
 
-### Pre-Reading Questions 
+1. Does your personality change when you speak different languages?
+2. Do you prefer one language over another for specific tasks?
 
-1. Does your personality change when you speak different languages? 
-2. Do you prefer one language over another for specific tasks? 
-
-### Keywords 
+## Keywords
 
 deep-seated (adj.)  
 sense of right and wrong (noun phrase)  
@@ -35,14 +26,16 @@ intertwine (regular verb)
 infused with s/th (set expression)  
 mesh (regular verb)  
 
-### Main Activity 
+## Main Activity
 
-Scan the article for the following information: 
+Scan the article for the following information:
 
-1. What type of ethic shift occurs when people are given a hypothetical situation in their non-native language? 
-2. What two theories are given as possible reasons for this shift? 
+1. What type of ethic shift occurs when people are given a hypothetical situation in their non-native language?
+2. What two theories are given as possible reasons for this shift?
 
-Discussion questions: 
+Discussion questions:
 
-1. Do you think differently in different languages? 
+1. Do you think differently in different languages?
 2. Are there times when using tricks to trigger system two thinking would be a good idea?  
+
+[0]: https://www.scientificamerican.com/article/how-morality-changes-in-a-foreign-language/

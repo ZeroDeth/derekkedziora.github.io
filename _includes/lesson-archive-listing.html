@@ -1,14 +1,6 @@
-<div class="blog-listing">
-<h1>{{lesson-archive.title}}</h1>
-    <p>
-        [{{ lesson-archive.date | date_to_string }}]
-        {% if lesson-archive.type %}[{{ lesson-archive.type}}]
-        {% else %}
-        [{{ lesson-archive.tag }}]
-        {% endif %}
-        <br>
-        {{lesson-archive.description}}
-        <br>
-        <a href="{{ lesson-archive.url }}">View Full Lesson</a>
-    </p>
-</div>
+<section class="blog-listing">
+  <h2 class="blog-listing-title"><a href="{{ lesson-archive.url }}">{{lesson-archive.title}}</a></h2>
+    <h3 class="blog-listing-date">{{ lesson-archive.type}}</h3>
+    <h3 class="blog-listing-description">{{lesson-archive.description}}
+    <a href="{{ post.url }}">[...]</a></h3>
+</section>

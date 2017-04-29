@@ -1,30 +1,20 @@
 ---
-date: 2016-11-17
-layout: lesson-archive
-lesson: true
-type: reading
-reading: true
 title: Virtue Signaling
 description: A short read describing how many positions you take are simply meaningless ways to look good to others
+type: reading
+---
 
---- 
+## Materials
 
-### Materials 
+Short read about [virtue signaling][0]  
+[Rage Profiteering][1] is monetizing virtue signaling
 
-[<a href="http://acculturated.com/virtue-signaling/" target="_blank">main</a>] Short read about virtue signaling  
-[<a href="http://observer.com/2014/10/rage-profiteers-how-blogs-harness-our-anger-for-their-own-gain/" target="_blank">extra</a>] Rage Profiteering is way to monetize virtue signaling 
+## Pre-reading Questions
 
-### Lesson Objectives 
+1. Why do people publicly share political and ethical opinions? For example, Yao Ming has engaged in a campaign against eating shark-fin soup.
+2. How does your opinion of somebody change if they hold the "right" or "wrong" view on something?
 
-1. Read the article about virtue signaling for deep comprehension
-2. Use the lexis for the article to discuss the topic 
-
-### Pre-reading Questions 
-
-1. Why do people publicly share political and ethical opinions? For example, Yao Ming has engaged in a campaign against eating shark-fin soup. 
-2. How does your opinion of somebody change if they hold the "right" or "wrong" view on something? 
-
-### Keywords 
+## Keywords
 
 virtue (noun)  
 disgust (noun, regular verb), disgusted (ed/ing adj.)  
@@ -36,11 +26,13 @@ vanity (uncountable noun)
 boast (regular verb)  
 Holy Writ (noun phrase)  
 
-### Main Activity 
+## Main Activity
 
-Read the article for deep comprehension to answer the following questions: 
+Read the article for deep comprehension to answer the following questions:
 
-1. What is virtue signaling? 
-2. What are some examples of virtue signaling? 
-3. How could you prevent yourself from doing (or is this even a good goal to have?) and what could you replace it with? 
+1. What is virtue signaling?
+2. What are some examples of virtue signaling?
+3. How could you prevent yourself from doing (or is this even a good goal to have?) and what could you replace it with?
 
+[0]: http://acculturated.com/virtue-signaling/
+[1]: http://observer.com/2014/10/rage-profiteers-how-blogs-harness-our-anger-for-their-own-gain/

@@ -1,24 +1,16 @@
 ---
-date: 2016-10-25
-layout: lesson-archive
-lesson: true
-type: listening
-listening: true
 title: "What Can We Learn from Shortcuts"
-description: "A TED Talk about learning from shortcuts to improve UX" 
-
+description: "A TED Talk about learning from shortcuts to improve UX"
+type: listening
 ---
 
-### Materials 
+## Materials
 
-[<a href= "https://www.ted.com/talks/tom_hulme_what_can_we_learn_from_shortcuts#t-51507" target="_blank">main</a>] TED Talk by Tom Hulme  
-[<a href ="https://www.ted.com/talks/seth_godin_this_is_broken_1" target="_blank">extra</a>] TED Talk by Seth Godin about things being broken
+[TED Talk][0] by Tom Hulme  
+[TED Talk][1] by Seth Godin
 
-### Lesson Objectives 
-1. Learn and use basic lexis related to design and user experience   <br>
-2. Listen to a TED Talk in order to discuss the topic  
+## Keywords
 
-## Keywords 
 self-reinforcing (adj.)  
 the path of least resistance (noun phrase, set expression)  
 diverge (regular verb)  
@@ -27,11 +19,14 @@ resourceful (adj.)
 [x]-centered (adj.)  
 low-friction (adj.)  
 
-**Main Activity**  
-Listen to the TED Talk to answer the following questions: 
+## Main Activity 
+
+Listen to the TED Talk to answer the following questions:
 
 - According the to speaker, how can UX be improved?  
 - How can these ideas be useful in your life?  
 - What causes UX failures?  
 - Do you have any real-life examples of UX failures?   
 
+[0]: https://www.ted.com/talks/tom_hulme_what_can_we_learn_from_shortcuts#t-51507
+[1]: https://www.ted.com/talks/seth_godin_this_is_broken_1

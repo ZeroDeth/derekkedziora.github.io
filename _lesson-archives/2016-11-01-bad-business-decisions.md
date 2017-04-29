@@ -1,23 +1,16 @@
 ---
-date: 2016-11-01
-layout: lesson-archive
-lesson: true
-type: reading
-reading: true
 title: A Silent Cause of Bad Business Decisions
 description: A short read about how our intuition can sabotage critical decisions.
-
+type: reading
 ---
-### Materials 
-[<a href="https://medium.dave-bailey.com/the-silent-cause-of-bad-business-decisions-b95d977b5ca7" target="_blank">main</a>] Blog post by Dave Baily  
-[<a href="https://en.wikipedia.org/wiki/Confirmation_bias" target="_blank">extra</a>] Wikipedia article about confirmation bias
 
-### Lesson Objectives
+## Materials
 
-1. Read the article and practice relevant business lexis
-2. Discuss strategies to avoid flawed approaches to decision making
+[Blog post][0] by Dave Baily  
+[Wikipedia article][1] about confirmation bias
 
-### Keywords  
+## Keywords  
+
 gut feeling (noun phrase)  
 justification (noun)  
 pan out (regular verb)  
@@ -26,11 +19,13 @@ deductive reasoning (noun phrase)
 pro-active (adj.)  
 lead [s/b] astray (-led, -led)  
 
-### Main Activity  
-Read the blog pos to discuss the questions below: 
+## Main Activity  
 
-1. What is the difference between inductive reasoning and strategic reasoning? 
-2. How can we protect ourselves from making decisions based on defective reasoning? 
-3. How can these ideas be applied within a company? What about within a family? 
+Read the blog post to discuss the questions below:
 
+1. What is the difference between inductive reasoning and strategic reasoning?
+2. How can we protect ourselves from making decisions based on defective reasoning?
+3. How can these ideas be applied within a company? What about within a family?
 
+[0]: https://medium.dave-bailey.com/the-silent-cause-of-bad-business-decisions-b95d977b5ca7
+[1]: https://en.wikipedia.org/wiki/Confirmation_bias

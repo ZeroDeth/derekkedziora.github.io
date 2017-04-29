@@ -12,10 +12,18 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: "lesson-archives"
+    values:
+      layout: "lesson-archive"
+
 collections:
   lessons:
     output: true
     lessons: lessons/:title
+
   lesson-archives:
       output: true
       permalink: /lesson-archives/:title
