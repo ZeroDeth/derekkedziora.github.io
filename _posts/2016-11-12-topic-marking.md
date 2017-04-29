@@ -4,14 +4,16 @@ description: Sound more natural by (not) marking the topic of a sentence
 tags:
  - naturalness
  - style
+blog: true
 ---
+
 You can make rapid progress in sounding more natural by understanding a few linguistic features of your target language since these areas pose the greatest barriers to sounding natural.
 
 An example of this is topic marking: explicitly stating the topic of a sentence when it is neither the subject of the object. For example:
 
 *<u>Regarding dessert</u>, I love chocolate cake.*
 
-In this sentence "*<u>regarding dessert</u>*" is the topic marker. Modern Japanese and Korean have special particles for this function [<a href="https://en.wikipedia.org/wiki/Topic_marker" target="_blank">Wikipedia</a>]. There is no natural way to say this in spoken English. *Regarding* is bookish and best used in written English; *about* is also terse and unnatural in this position. Here are some ways we mark topics in English:
+In this sentence "*<u>regarding dessert</u>*" is the [topic marker][0]. Modern Japanese and Korean have special particles for this function. There is no natural way to say this in spoken English. *Regarding* is bookish and best used in written English; *about* is also terse and unnatural in this position. Here are some ways we mark topics in English:
 
 *[ø] I love chocolate cake.*
 
@@ -48,3 +50,5 @@ The mountains are a better place to rest than the sea is.*
 In each version, the context makes it clear that a personal opinion is being given.
 
 Thus you can make your English such more natural by cutting out phrases that context already makes clear. If you would say насчёт, по поводу or something similar in Russian, you could probably simply skip it altogether in English.
+
+[0]: https://en.wikipedia.org/wiki/Topic_marker

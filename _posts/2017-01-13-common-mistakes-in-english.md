@@ -3,6 +3,7 @@ title: Common Mistakes in English
 description: Some of the most frequent mistakes that I encounter among Ukrainians, Russians and other Slavic speakers
 tags:
  - common mistakes
+blog: true
 ---
 
 Here's the start of my series of posts about common mistakes that I hear in English. They aren't arranged in any particular order. Sentences in *italics* are correct unless there is an *!exclamation mark* in front of it.

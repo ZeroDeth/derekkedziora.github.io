@@ -5,13 +5,14 @@ tags:
   - advanced students
   - failure
   - teaching
+blog: true
 ---
 
 Advanced students being stuck on an endless plateau in a sort of Zeno's Paradox of learning was one of my major failures as a teacher in 2016, and I've made finding some solutions to this one of my primary teaching goals during 2017.
 
 The point of a Zen koan is to force a student to go beyond their conventional framework. That approach was useful to getting to the threshold of the advanced levels, but it must be set aside to go deeper. Something akin to this also happens in language learning. When I get into a situation when using advanced Russian is necessary, the whole thing becomes, almost magically, effortless. This is flow. It is very different to using Russian mindlessly for something inconsequential. My job as a teacher is to push students into flow.
 
-If there's only one thing that I'd ask of my advanced students it is to get out of <a href="/blog/tools-to-study-english-independently#google-translate-mode" target="_blank">Google Translate Mode</a>. That's my koan.
+If there's only one thing that I'd ask of my advanced students it is to get out of [Google Translate Mode][0]. That's my koan.
 
 Beyond that, I have a few theories that I'm going to experiment on my advanced students with:
 
@@ -21,7 +22,7 @@ Low intensity, high rep exercises have their place in a fitness program. Before 
 
 Advanced lifters walk into the gym, do five lifts just under their single-rep-max and call it a day.
 
-This is where I want my high level students to be. Unfortunately, I see most classes geared towards lots of low intensity work. If it's not <a href="https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice" target="_blank">deliberate practice</a>, you're not improving.
+This is where I want my high level students to be. Unfortunately, I see most classes geared towards lots of low intensity work. If it's not [deliberate practice][1], you're not improving.
 
 My idea is to to create topical lessons that go deep and use difficult sources. These classes will require a few hours of difficult preparation and will include tough discussion during the class itself. Ideally, I'd like to add an essay that can be peer reviewed before each meeting. The kicker, though, is that we meet no more than once a month.
 
@@ -44,3 +45,6 @@ The same goes for reading. Take notes: write down the thesis sentence and the ma
 Focusing on active listening, reading and writing will improve your skills. Getting a feel for how to organize information better will do far more for your English than simply adding more vocabulary and advanced grammatical structures.
 
 Go intense when you study English although do so intelligently. When you've properly analyzed your needs, focus on those skills ruthlessly and ignore what you don't need.
+
+[0]: /blog/tools-to-study-english-independently#google-translate-mode
+[1]: https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice

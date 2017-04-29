@@ -4,7 +4,9 @@ description: It's more natural to use modal verbs to show probability than adver
 tags:
  - grammar
  - modal verbs
+blog: true
 ---
+
 English has a complex system of marking whether something was observed [*It rained* means that I saw it rain] or whether someone came to conclusion [*It must have rained* means that I'm nearly certain that it rained, because it is cloudy and the sidewalk is wet]. The degree of certainty can be modified by switching out must for may or could.
 
 It is more natural to show this information through modal verbs than adverbs of probability such as certainly, probably or definitely. This can been seen by looking at the [ngrams][0] comparing probably rained, certainly rained and must have rained.

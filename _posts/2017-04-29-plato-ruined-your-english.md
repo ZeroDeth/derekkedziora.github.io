@@ -8,6 +8,7 @@ tags:
 categories:
  - linguistics
  - philosophy
+blog: true
 ---
 Plato's [theory of forms][0] - that there is some perfect archetype of each object and all manifestations of an object are more or less corrupted versions of their archetype - is a quintessentially human attempt to solidify experience into a concrete objective reality. This is no mere counting angels on the head of a pin; belief in some sort of absolute and objective reality gives people something to kill and die for, whether it be nationalism, a deity or some cause.
 

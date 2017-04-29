@@ -3,7 +3,9 @@ title: Languages, Efficiency and Logic
 description: Despite the appeal of logic, human languages function efficiently because they aren't logical  
 tags:
  - linguistics
+blog: true
 ---
+
 At some point, every language learner has wished that their target language were more logical. Luckily, an entirely logical language exists: [Lojban][0]. The entire system is based solely on logic and a look through [this guide][1] will likely enthrall a logician — figuring out simple words requires a truth table. Not surprisingly, the practical applications of Lojban are limited.
 
 It's easy to forget languages have to be processed by the human brain. The framework of a quick, instinctive and often inaccurate system 1 and a deliberate, slow and logical system 2 is useful for looking at language learning and use. [see [the Wikipedia article][2] or listen to [Daniel Kahneman at Google][3] for an in-depth explanation of systems 1 and 2].

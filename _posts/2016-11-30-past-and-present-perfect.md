@@ -6,7 +6,9 @@ tags:
  - past perfect
  - present perfect
  - verb tenses
+blog: true
 ---
+
 There are two perfect tenses that English learners need to worry about. Present perfect is one of the four most common tenses and needs to be mastered. Past perfect is much less common but still deserves a passive understanding. There's no statistical reason to justify the study of future perfect.
 
 First off, the perfect tenses aren't actually tenses; they show verbal aspect. They transfer the relevance of an event from the time it occurred to either the present (present perfect) or to the time of an event that occurred later but still in the past (past perfect). What complicates this whole system is the usage of these tenses is dependent on the speaker and the emphasis given to various aspects of the events rather than any sort of absolute timeline.

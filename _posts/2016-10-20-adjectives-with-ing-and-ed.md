@@ -5,8 +5,8 @@ tags:
  - adjectives
  - common mistakes
  - grammar
+blog: true
 ---
-
 
 Most English adjectives that describe an emotional experience have two possible endings: *ing* or *ed*.
 

@@ -5,6 +5,7 @@ tags:
  - learner autonomy
  - teaching
  - tools
+blog: true
 ---
 
 As I divest myself of the daily responsibilities of teaching, the best test of whether I was a decent teacher or not will be how my students progress without me. Unfortunately, many of those who are perceived as great teachers at the time have merely created a miniature personality cult that leaves their students entirely dependent on the teacher. I hope I haven't done this.
@@ -27,13 +28,13 @@ This requires you to separate entertainment from learning: if you'd like to rela
 
 ## Use Data to Answer Your Questions
 
-The era of big data offers language learners some great tools. Can't remember whether traffic is heavy or tough in English? <a href="https://books.google.com/ngrams" target="_blank">Google Ngrams</a> makes the answer painfully obvious. <a href="http://www.netspeak.org" target="_blank">Netspeak</a> allows you to do complex and open-ended searches.
+The era of big data offers language learners some great tools. Can't remember whether traffic is heavy or tough in English? [Google Ngrams][0] makes the answer painfully obvious. [Netspeak][1] allows you to do complex and open-ended searches.
 
 If you are curious how common a particular phrase is in a certain context, do a search and look at the context of the results: are they businesses, high-quality publications or an angsty teenager's blog? Likewise, search within a particular publication. Negative results are often the most informative. If searching the entire archives of the New York Times for "as for me" doesn't yield any results, that ought to tell you something.
 
-Frequency lists can inform what vocabulary you choose to actively learn. Chances are, that you can accomplish all of your professional and personal needs with well under ten thousand words. Check out <a href="https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#English" target="_blank">these lists</a> from wiktionary.
+Frequency lists can inform what vocabulary you choose to actively learn. Chances are, that you can accomplish all of your professional and personal needs with well under ten thousand words. Check out [these lists][2] from wiktionary.
 
-For the love of all things holy, don't bother learning rarely used structures like future perfect continuous. The more you leave Google Translate mode, the better a feel you'll have of what structures do your heavy hitting. The <a href="https://en.wikipedia.org/wiki/Pareto_principle" target="_blank">Pareto principle</a> rules in language learning.
+For the love of all things holy, don't bother learning rarely used structures like future perfect continuous. The more you leave Google Translate mode, the better a feel you'll have of what structures do your heavy hitting. The [Pareto principle][3] rules in language learning.
 
 ## Good Enough is Good Enough
 
@@ -48,3 +49,8 @@ If you are in Google Translate mode, you'll miss this valuable feedback. The que
 The same goes when somebody in the US responds to your emails at work. Analyze them! More likely than not, your mistakes will be subtly corrected.
 
 These methods may not be as good as having a teacher, but they are good enough to still make serious progress.
+
+[0]: https://books.google.com/ngrams
+[1]: http://www.netspeak.org
+[2]: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists#English
+[3]: https://en.wikipedia.org/wiki/Pareto_principle 

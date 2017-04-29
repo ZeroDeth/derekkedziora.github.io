@@ -5,114 +5,118 @@ tags:
  - common mistakes
  - modal verbs
  - should
+blog: true
 ---
 
 Should is one of the most misused words by non-native speakers and can instantly make your language sound rude, condescending or just plain unnatural.
 
-Here's where <i>should</i> is <u>not</u> used:
+Here's where *should* is <u>not</u> used:
 
-### Giving directions
+## Giving directions
 
 Let's say a recruiter needs to tell a candidate how to find the office:
 
-[0.a] *<i>You should take the metro to our office.</i>
+[0.a] !*You should take the metro to our office.*
 
-[1.a] *<i>You should get off at Kontraktova Ploshcha.</i>
+[1.a] !*You should get off at Kontraktova Ploshcha.*
 
 Instead, give raw information and reasons:
 
-[0.b] <i>We don't have a lot of parking near the office, so it is easier to take the metro.</i>
+[0.b] *We don't have a lot of parking near the office, so it is easier to take the metro.*
 
-[1.b] <i>Kontraktova Ploshcha is the closest metro station</i>
+[1.b] *Kontraktova Ploshcha is the closest metro station*
 
-### Procedures
+## Procedures
 
-[2.a] *<i>I should pass the exam to get a driver's license</i>
+[2.a] !*I should pass the exam to get a driver's license*
 
-In this case there is no choice. If I don't pass the exam, there's no way I'll get a license. <i>Supposed to</i>, <i>ought to</i> and <i>should</i> all carry a sense of choice, whereas <i>must</i>, <i>have to</i> and <i>need to</i> show that there is no choice.
+In this case there is no choice. If I don't pass the exam, there's no way I'll get a license. *Supposed to*, *ought to* and *should* all carry a sense of choice, whereas *must*, *have to* and *need to* show that there is no choice.
 
-[2.b] <i>I need to pass the exam to get a driver's license.</i>
+[2.b] *I need to pass the exam to get a driver's license.*
 
-### Requests
+## Requests
 
 If something is a request, don't use should.
 
-[3.a] *<i>You should call me back by the end of the week.</i>
+[3.a] !*You should call me back by the end of the week.*
 
 This sounds like a command. A more neutral sounding request would be:
 
-[3.b] <i>Could you call me back by the end of the week?</i>
+[3.b] *Could you call me back by the end of the week?*
 
 You can add a reason to make the request more urgent:
 
-[3.c] <i>Please let me know by the end of the week so I can process your order on time.</i>
+[3.c] *Please let me know by the end of the week so I can process your order on time.*
 
-This is how <i>should</i> is used:
+This is how *should* is used:
 
-### Predictions
+## Predictions
 
-The most common place to properly use should is with predictions. This is part of the larger system of  <a href="/blog/modal-verbs-probability-inference" target="_blank">evidentiality in English.</a>
+The most common place to properly use should is with predictions. This is part of the larger system of  [evidentiality in English][0].
 
-[4.a] <i>It should snow tomorrow.</i>
+[4.a] *It should snow tomorrow.*
 
-[4.b] <i>It's a bit too warm; it shouldn't snow tomorrow.</i>
+[4.b] *It's a bit too warm; it shouldn't snow tomorrow.*
 
-[5.a] <i>I should be on time, since traffic isn't bad.</i>
+[5.a] *I should be on time, since traffic isn't bad.*
 
 Sentence [5.a] usually wouldn't be negated. Instead:
 
-[5.b] <i>Traffic is bad today; I'm (going to / will) be late.</i>
+[5.b] *Traffic is bad today; I'm (going to / will) be late.*
 
-### Impersonal Obligations
+## Impersonal Obligations
 
-While I'd avoid using <i>should</i> for a personal obligation, it is useful to talk about more general social obligations. The first person singular is often used:
+While I'd avoid using *should* for a personal obligation, it is useful to talk about more general social obligations. The first person singular is often used:
 
-[6.a] <i>We should consider alternatives to our current strategy.</i>
+[6.a] *We should consider alternatives to our current strategy.*
 
-It's still possible to not use <i>should</i> in this context:
+It's still possible to not use *should* in this context:
 
-[6.b] <i>Let's look at some alternatives to our current strategy.</i>
+[6.b] *Let's look at some alternatives to our current strategy.*
 
-When you is used, make sure it is the <a href="https://en.wikipedia.org/wiki/Generic_you" target="_blank">impersonal you</a>. This can be tricky in English as context is the only way to distinguish these, whereas in other languages, such as German, the difference is marked:
+When you is used, make sure it is the [impersonal you][1]. This can be tricky in English as context is the only way to distinguish these, whereas in other languages, such as German, the difference is marked:
 
-[7.a.de] <i>Du sollst deine Hausaufgaben machen.</i>
+[7.a.de] *Du sollst deine Hausaufgaben machen.*
 
-[7.b.de] <i>Man soll seine Hausaufgaben machen.</i>
+[7.b.de] *Man soll seine Hausaufgaben machen.*
 
 We can translate this impersonally as:
 
-[7.b.en] <i>You should do your homework.</i>
+[7.b.en] *You should do your homework.*
 
-### Personal Advice
+## Personal Advice
 
-This is a danger zone and using should here often comes off rather rude. While we could use <i>should</i>, it would best be reserved for a parent or teacher scolding a child.
+This is a danger zone and using should here often comes off rather rude. While we could use *should*, it would best be reserved for a parent or teacher scolding a child.
 
-[7.a.en.1] <i>Please do your homework.</i>
+[7.a.en.1] *Please do your homework.*
 
 It's even better to use a conditional for personal advice:
 
-[7.a.en.2] <i>You'll remember the material better if you do the homework.</i>
+[7.a.en.2] *You'll remember the material better if you do the homework.*
 
-### Questions
+## Questions
 
 Yes or no questions can be asked using should.
 
-[8.a] <i>Should I open the window?</i>
+[8.a] *Should I open the window?*
 
 Another structure that works just as well:
 
-[8.b] <i>Would you like me to open the window?</i>
+[8.b] *Would you like me to open the window?*
 
-### Regrets
+## Regrets
 
-[9] <i>I should have eaten breakfast this morning.<i>
+[9] *I should have eaten breakfast this morning.*
 
-[10] <i>My friend shouldn't have traveled to Asia, because he got very sick.</i>
+[10] *My friend shouldn't have traveled to Asia, because he got very sick.*
 
-### Conclusion
+## Conclusion
 
-<i>Should</i> can be tricky to use without sounding a bit rude. In most cases, you are better off avoiding it altogether. The imperative plus please is perfectly polite. <i>Could you</i> also works for requests.
+*Should* can be tricky to use without sounding a bit rude. In most cases, you are better off avoiding it altogether. The imperative plus please is perfectly polite. *Could you* also works for requests.
 
 If you do use should, stick to the first person or third person. It's best to use the general you instead of a personal you with should.
 
 The best advice is to observe how native speakers use modal verbs. Pick a podcast or blog post that uses the word and analyze how it is used. Adopt the same usage yourself.
+
+[0]: /blog/modal-verbs-probability-inference
+[1]: https://en.wikipedia.org/wiki/Generic_you

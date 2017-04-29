@@ -5,7 +5,8 @@ tags:
  - jekyll
  - programming
 categories:
- - tech   
+ - tech
+blog: true 
 ---
 I love using [Jekyll][0] for my blog, because a static site generator gives me more or less everything I need without the horror stories and black boxes of databases and PHP. The coding is simple enough that I can take care of pretty much anything myself. One of the problems of static site generators is that fun features like linking to a random post are much harder to implement.
 
