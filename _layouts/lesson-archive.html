@@ -1,8 +1,10 @@
+
 {% include head-matter.html %}
 
-<body>
+  <body>
 
-  {% include navbar.html %}
+{% include navbar.html %}
+{% include lesson-nav.html %}
 
 <main>
   <article>
@@ -11,24 +13,21 @@
         <h2 class="blog-listing-date">
           <time datetime='{{ page.date | date: "%Y-%m-%d" }}'>
           {{ page.date | date: '%d %B %Y'}}</time>
-          | tags: {{ page.tags | join: ", "}}</h2>
         <h2 class="blog-listing-description">{{page.description}}</h2>
     </header>
 
-    <div class='post-content'>
-        {{ content }}
-    </div>
 
+<div class='post-content'>
+    {{ content }}
+</div>
   </article>
 </main>
 
-<aside>
-  {% include next-previous-links.html %}
-  {% include related-posts.html %}
-</aside>
+{% include lesson-nav.html %}
 
-  {% include footer.html %}
+{% include footer.html %}
+{% include clicky.html %}
 
-  {% include clicky.html %}
-</body>
+  </body>
+
 </html>

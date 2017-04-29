@@ -1,6 +1,6 @@
 ---
 date: 2016-11-25
-layout: post
+layout: lesson-archive
 lesson: true
 type: reading
 reading: true

@@ -7,6 +7,6 @@ permalink: /lesson-archives/
 
 # Lesson Archives
 
-{% for lesson-archive in site.lesson-archives %}
+{% for lesson-archive in site.lesson-archives reversed  %}
   {%include lesson-archive-listing.html %}
 {% endfor %}

@@ -13,9 +13,9 @@ defaults:
     values:
       layout: "post"
 collections:
-  lesson-archives:
-    output: true
-    permalink: /lesson-archives/:title
   lessons:
     output: true
     lessons: lessons/:title
+  lesson-archives:
+      output: true
+      permalink: /lesson-archives/:title

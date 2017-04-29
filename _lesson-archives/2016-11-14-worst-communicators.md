@@ -1,6 +1,6 @@
 ---
 date: 2016-11-14
-layout: post
+layout: lesson-archive
 category: lesson
 title: "The Worst Communicators"
 tags: ["lesson-type-reading"]

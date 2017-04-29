@@ -1,6 +1,6 @@
 ---
 date: 2016-10-19
-layout: post
+layout: lesson-archive
 lesson: true
 type: listening
 listening: true

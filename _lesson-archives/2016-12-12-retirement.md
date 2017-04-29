@@ -1,6 +1,6 @@
 ---
 date: 2016-12-12
-layout: post
+layout: lesson-archive
 lesson: true
 type: speaking
 speaking: true
