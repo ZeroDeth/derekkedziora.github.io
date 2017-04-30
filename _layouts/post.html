@@ -8,10 +8,10 @@
   <article>
     <header>
       <h1 class="post-title">{{ page.title }}</h1>
-        <h2 class="blog-listing-date">
+        <p class="blog-listing-date">
           <time datetime='{{ page.date | date: "%Y-%m-%d" }}'>
           {{ page.date | date: '%d %B %Y'}}</time>
-          | tags: {{ page.tags | join: ", "}}</h2>
+          | tags: {{ page.tags | join: ", "}}</p>
         <h2 class="blog-listing-description">{{page.description}}</h2>
     </header>
 

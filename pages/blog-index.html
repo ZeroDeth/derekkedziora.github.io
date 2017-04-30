@@ -1,11 +1,14 @@
 ---
 layout: blank
 title: Blog
-description: Index of all of blog posts on the flow of language
+description: Index of all blog posts on the flow of language
 permalink: /blog/
 og-type: website
 ---
-<h1>Blog Posts</h1>
+<header class="page-header">
+  <h1>Blog Posts</h1>
+</header>
+
 {% for post in site.posts %}
   {% if post.blog == true %}
     {% include blog-listing.html %}

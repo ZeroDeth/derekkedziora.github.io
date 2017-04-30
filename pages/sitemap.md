@@ -6,14 +6,19 @@ og-type: website
 permalink: /sitemap
 ---
 <style>ul {list-style-type: none}</style>
-[Home](/)
+[home](/)
 
-[About](/about)
+[about](/about)
+
+- [now](/now)
+- [use](/use)
+- [reading](/what-I-regularly-read)
+- [book list](/books)
+
+[blog](/blog)
+
+[projects](/projects)
 
 - CV: [web](/cv) / [PDF](/pages/cv-kedziora.pdf)
-- [Now](/now)
-- [What I Regularly Read](/what-I-regularly-read)
-
-[Blog](/blog)
-
-[Lesson Archives](/lesson-archives)
+- [current lessons](/lessons)
+- [lesson archives](/lesson-archives) 
