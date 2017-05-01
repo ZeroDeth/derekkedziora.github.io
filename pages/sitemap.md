@@ -12,7 +12,7 @@ permalink: /sitemap
 
 - [now](/now)
 - [use](/use)
-- [reading](/what-I-regularly-read)
+- [daily reading](/daily-reading)
 - [book list](/books)
 
 [blog](/blog)
