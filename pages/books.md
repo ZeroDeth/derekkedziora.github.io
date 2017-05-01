@@ -24,7 +24,7 @@ The [Thai Forrest Sangha][1] in the lineage of Ajahn Chah has a vast collection 
 
 I'm fascinated by the interplay of determinism and free will as well as the relationship between skill and luck. I tend to think that our present reality is *mostly* conditioned by previous events, but we probably do have brief flashes of *freer* will.  
 
-Dennett's [Elbow Room][5] covers much of the determinism debate. [Michael Mauboussin's talk][6] gets into the statistical nitty gritty of skill and luck. [Cannibals and King's][7] goes into it being a foregone conclusion that the Aztecs had to eat human flesh. Malcolm Gladwell puts a softer touch on circumstances and skill in [Outliers][8] - he's also one heck of a storyteller. 
+Dennett's [Elbow Room][5] covers much of the determinism debate. [Michael Mauboussin's talk][6] gets into the statistical nitty gritty of skill and luck. [Cannibals and King][7] goes into it being a foregone conclusion that the Aztecs had to eat human flesh. Malcolm Gladwell puts a softer touch on circumstances and skill in [Outliers][8] - he's also one heck of a storyteller. 
 
 ## Americans in Paris 
 
