@@ -191,6 +191,15 @@ footer p {
   padding-left: 78px;
 }
 
+.next-previous-links li {
+  display: inline;
+  text-align: center;
+}
+
+.next-previous-links ul {
+  padding-left: 0px
+}
+
 /* blog listing */
 
 .blog-listing {

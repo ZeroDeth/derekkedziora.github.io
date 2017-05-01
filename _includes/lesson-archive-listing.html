@@ -1,6 +1,8 @@
 <section class="blog-listing">
-  <h2 class="blog-listing-title"><a href="{{ lesson-archive.url }}">{{lesson-archive.title}}</a></h2>
-    <h3 class="blog-listing-date">{{ lesson-archive.type}}</h3>
-    <h3 class="blog-listing-description">{{lesson-archive.description}}
-    <a href="{{ lesson-archive.url }}">[...]</a></h3>
+  <header>
+    <a href="{{ lesson-archive.url }}"><h2>{{lesson-archive.title}}</h2></a>
+      <p>{{ lesson-archive.type}}</p>
+  </header>
+        <p>{{lesson-archive.description}}
+        <a href="{{ lesson-archive.url }}">[...]</a></p>
 </section>
