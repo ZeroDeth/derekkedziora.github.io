@@ -27,7 +27,7 @@ I made this site with [Jekyll][4] and host it on [GitHub Pages][5]. You can view
 
 [0]: /now
 [1]: /use
-[2]: /what-I-regularly-read
+[2]: /daily-reading
 [3]: /books
 [4]: http://jekyllrb.com
 [5]: https://pages.github.com
