@@ -233,10 +233,6 @@ footer p {
   display: none;
 }
 
-.next-previous-links-mobile {
-  display: none;
-}
-
 
 /* mobile version */
 
@@ -263,19 +259,25 @@ footer p {
     margin-left: 0px;
   }
 
+  .next-previous-links {
+    width: auto;
+  }
+
+  .next-prev-left {
+    float: left;
+  }
+
+  .next-prev-cent {
+    display: none;
+  }
+
+  .next-prev-right {
+    float: right;
+  }
+
   .blog-listing {
     padding: 10px 10px 10px 10px;
     width: 95%;
-  }
-
-  .next-previous-links-mobile {
-    display: inline;
-    font-family: Courier, monospace;
-    text-align: center;
-  }
-
-  .next-previous-links-mobile a {
-    text-decoration: none;
   }
 
 }

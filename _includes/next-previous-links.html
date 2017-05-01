@@ -1,9 +1,10 @@
-<div class="desktop-only">
 <section class="next-previous-links">
   <p>
+    <span class="next-prev-left">
     {% unless page.previous.url == page.url %}
       <a href="{{page.previous.url}}" id="next-prev-left">previous post</a></li>
     {% endunless %}
+    </span>
 
     <span class="next-prev-cent">
     <a href="" id="randoLink">random post</a>{% include random-post.html %}
@@ -15,24 +16,5 @@
     {% endunless %}
     </span>
 
-  </p>
-</section>
-</div>
-
-<section class="next-previous-links-mobile">
-  <p>
-    {% unless page.previous.url == page.url %}
-      <a href="{{page.previous.url}}">previous post</a>
-    {% endunless %}
-
-    <br><br>
-
-    <a href="" id="randoLink">random post</a>{% include random-post.html %}
-
-    <br><br>
-
-    {% unless page.next.url == post.url %}
-      <a href="{{page.next.url}}">next post</a>
-    {% endunless %}
   </p>
 </section>
