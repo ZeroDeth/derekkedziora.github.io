@@ -25,7 +25,9 @@ Cal Newport's blog, [Study Hacks][4], is a voice crying out in the wilderness ag
 
 [Mr. Money Mustache][5] is another prophetic voice against decadence and an advocate for frugality. This isn't just tightening your belt for no reason; the goal is great financial independence so you can live a more meaningful life. 
 
-Who doesn't like some dorky illustrations to go along with some really serious ideas? [Wait by why][6] 
+Who doesn't like some dorky illustrations to go along with some really serious ideas? [Wait by why][6] delivers. 
+
+I enjoy following [Ryan Holiday][7] - he puts out a good mix of stoicism, common sense and sceptical social commentary.
 
 *May 2017*
 
@@ -36,3 +38,4 @@ Who doesn't like some dorky illustrations to go along with some really serious i
 [4]: http://calnewport.com/blog/
 [5]: http://www.mrmoneymustache.com 
 [6]: http://waitbutwhy.com 
+[7]: https://ryanholiday.net
