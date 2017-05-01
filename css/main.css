@@ -54,9 +54,22 @@ h3 {
   line-height: 18px;
 }
 
+blockquote {
+  border-left-style: solid;
+  border-color: grey;
+  padding-left: 5px;
+}
+
+pre {
+  background-color: black;
+  color: grey;
+  font-size: 16px;
+  padding-left: 5px;
+}
+
 /* site wide link styling */
 
-a:link {
+a {
   color: #404040;
   text-decoration: underline;
 }
@@ -64,10 +77,6 @@ a:link {
 a:hover {
   background-color: #bfbfbf;
   color: #404040;
-}
-
-a:visited {
-  color: blue;
 }
 
 /* nav and footer common settings */
@@ -209,40 +218,7 @@ footer p {
   margin: auto auto auto auto;
 }
 
-
-
-
-
 /* end of clean area */
-
-
-blockquote {
-  border-left-style: solid;
-  border-color: grey;
-  padding-left: 5px;
-}
-
-pre {
-  background-color: black;
-  color: grey;
-  font-size: 16px;
-  padding-left: 5px;
-}
-
-.main-page {
-  width: 650px;
-  margin: 0px auto 0px auto;
-  font-family: Verdana, sans-serif;
-}
-
-.main-page header {
-  padding: 0px 0px 0px 0px;
-  margin-bottom: -25px;
-}
-
-.centered-title {
-  text-align: center;
-}
 
 .page-header {
   height: 60px;
