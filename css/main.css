@@ -1,3 +1,5 @@
+/* site wide positings settings */
+
 html {
   position: relative;
   min-height: 100%;
@@ -8,35 +10,53 @@ body {
   width: 100%;
   height: 100%;
   margin: auto;
-  padding-bottom: 70px;
+  padding-bottom: 50px;
 }
 
-main, aside, header, {
-  width: 650px;
+header, article {
+  width: 540px;
+  padding: 0px 0px 0px 0px;
   margin: 0px auto 0px auto;
 }
 
 main {
   height: 100%;
+  width: 540px;
+  margin: 0px auto 0px auto;
   position: relative;
 }
 
-article {
-  font-family: Georgia, serif;
+/* site-wide typeface settings */
+
+p, li, a {
+  font-size: 16px;
+  line-height: 24px;
+  margin: 8px auto 8px auto;
 }
 
-header, aside {
-  font-family: Verdana, sans-serif;
+h1, h2, h3 {
+  font-family: verdana, sans-serif;
 }
 
-header {
-  width: 650px;
-  height: 150px;
-  padding: 0px 30px 0px 30px;
-  margin: 25px auto 0px auto;
+h1 {
+  font-size: 32px;
+  line-height: 32px;
+  margin: 0px 0px 0px 0px;
 }
 
-a {
+h2 {
+  font-size: 24px;
+  line-height: 24px;
+}
+
+h3 {
+  font-size: 18px;
+  line-height: 18px;
+}
+
+/* site wide link styling */
+
+a:link {
   color: #404040;
   text-decoration: underline;
 }
@@ -46,26 +66,155 @@ a:hover {
   color: #404040;
 }
 
-p, ul, ol {
+a:visited {
+  color: blue;
+}
+
+/* nav and footer common settings */
+
+nav, footer {
+  font-family: Courier, monospace;
+  background-color: black;
+}
+
+/* nav settings */
+
+nav {
+  height: auto;
+}
+
+nav ul {
+  text-align: center;
+  padding: 0px 0px 0px 0px;
+  margin: 0px auto 0px auto;
+}
+
+nav ul li {
+  display: inline;
+  padding: 0% 2.5% 0% 2.5%;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+}
+
+/* header section */
+
+header {
+  width: 540px;
+  margin: 24px auto 24px auto;
+  font-family: verdana, sans-serif;
+}
+
+/* footer settings */
+
+footer {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  bottom: 0;
+}
+
+footer p {
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  line-height: 21px;
+  margin: 0px 0px 0px 0px;
+}
+
+/* site wide styling for specific classes */
+
+.centered-element {
+  text-align: center;
+}
+
+.long-content {
+  font-family: Georgia, serif;
+  padding: 0px 0px 0px 0px;
+}
+
+.long-content p+p {
+  margin: 16px 0px 8px 0px;
+}
+
+/* homepage styling */
+
+.homepage-links {
+  font-family: Verdana, sans-serif;
+  padding: 0px 0px 0px 0px;
+}
+
+/* Blog post styling */
+
+.post-date-tags {
+  color: gray;
+}
+
+.blog-post-content:first-letter {
+  font-size: 200%;
+}
+
+.blog-post-content:first-line {
+  font-weight: bold;
+}
+
+.next-previous-links {
+  font-family: Courier, monospace;
+  width: 540px;
+  margin: 24px auto 24px auto;
+}
+
+.next-previous-links a {
+  text-decoration: none;
+}
+
+.next-prev-cent {
+  padding: 0px 42px 0px 82px;
+}
+
+.next-prev-right {
+  padding-left: 78px;
+}
+
+/* blog listing */
+
+.blog-listing {
+  width: 540px;
+  border: solid;
+  border-color: #7d7d7d;
+  border-width: 1px;
+  margin: 0px auto 35px auto;
+  padding: 10px 15px 10px 15px;
+  background-color: #F5F5F5;
+  font-family: verdana, sans-serif;
+}
+
+.blog-listing a {
   color: black;
-  font-size: 20px;
-  line-height: 30px;
-  margin: 20px 0px 20px 0px;
+  text-decoration: none;
 }
 
-h1 {
-  font-size: 32px;
-  margin: 15px auto 0px auto;
+.blog-listing header {
+  margin: auto auto auto auto;
 }
 
-h2 {
-  font-size: 24px;
-  text-align: left;
+.blog-listing header p {
+  color: gray;
+  margin: 6px 0px 0px 0px;
 }
 
-h3 {
-  font-size: 18px;
+.blog-listing h2 {
+  margin: auto auto auto auto;
 }
+
+
+
+
+
+/* end of clean area */
+
 
 blockquote {
   border-left-style: solid;
@@ -78,47 +227,6 @@ pre {
   color: grey;
   font-size: 16px;
   padding-left: 5px;
-}
-
-nav, footer {
-  font-family: Courier, monospace;
-  background-color: black;
-}
-
-nav {
-  height: 48px;
-}
-
-nav ul {
-  text-align: center;
-  padding: 8px 0px 0px 0px;
-  margin: 0px auto 0px auto;
-}
-
-nav ul li {
-  display: inline;
-  font-size: 14px;
-  padding: 0% 2.5% 0% 2.5%;
-}
-
-nav a {
-  text-decoration: none;
-  color: white;
-}
-
-footer {
-  width: 100%;
-  height: 55px;
-  position: absolute;
-  bottom: 0;
-}
-
-footer p {
-  text-align: center;
-  color: white;
-  font-size: 14px;
-  line-height: 24px;
-  margin: 15px auto auto auto;
 }
 
 .main-page {
@@ -164,29 +272,6 @@ footer p {
 .post-content img {
   max-width: 100%;
 }
-.blog-listing {
-  width: 700px;
-  border: solid;
-  border-color: #7d7d7d;
-  border-width: 1px;
-  margin: 0px auto 50px auto;
-  padding: 25px 25px 25px 25px;
-  background-color: #F5F5F5;
-}
-
-.blog-listing a {
-  text-decoration: none;
-}
-
-.blog-listing-title {
-  font-size: 24px;
-  text-align: left;
-  margin: -5px 0px 0px 0px;
-}
-
-.blog-listing-title a {
-  color: black;
-}
 
 .blog-listing-description {
   font-size: 18px;
@@ -204,23 +289,6 @@ footer p {
   margin: 0px 0px 0px 0px;
 }
 
-.next-previous-links a {
-  text-decoration: none;
-  font-size: 20px;
-}
-
-.next-previous-links ul {
-  padding-left: 0px;
-  text-align: center;
-}
-
-.next-previous-links ul li {
-  text-align: center;
-  display: inline;
-  font-size: 20px;
-  padding: 0px 30px 0px 30px;
-  margin: 30px 0px 30px 0px;
-}
 
 #tagline {
   font-size: 20px;
@@ -230,41 +298,15 @@ footer p {
   display: none;
 }
 
-.nav-mobile {
+.next-previous-links-mobile {
   display: none;
-}
-
-#contact-info {
-  float: left;
-}
-
-#directional-list {
-  float: right;
 }
 
 @media screen and (max-width: 790px) {
 
-  body {
-    width: 100%;
-  }
-
-  header {
-    width: 95%;
-    height: auto;
+  main, header, article, aside {
+    width: auto;
     padding: 0px 0px 0px 0px;
-    margin: 0px auto 30px auto;
-  }
-
-  nav {
-    height: 75px;
-    text-align: center;
-    width: 100%
-  }
-
-  nav ul li {
-    float: none;
-    font-size: 18px;
-    padding: 0% 2.5% 0% 2.5%;
   }
 
   .desktop-only {
@@ -283,26 +325,19 @@ footer p {
     margin-left: 0px;
   }
 
-  .post-content {
-    width: 95%;
-    padding: 10px 10px 10px 10px;
-    margin: 0px auto 0px auto;
-  }
-
   .blog-listing {
     padding: 10px 10px 10px 10px;
     width: 95%;
   }
 
-  .next-previous-links ul li {
-    display: list-item;
+  .next-previous-links-mobile {
+    display: inline;
+    font-family: Courier, monospace;
     text-align: center;
-    list-style-type: none;
-    margin: 15px 0px 15px 0px;
   }
 
-  footer p {
-    margin: 0px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
+  .next-previous-links-mobile a {
+    text-decoration: none;
   }
+
 }

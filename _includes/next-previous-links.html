@@ -1,17 +1,38 @@
-<div class="next-previous-links">
-  <ul>
+<div class="desktop-only">
+<section class="next-previous-links">
+  <p>
     {% unless page.previous.url == page.url %}
-      <li><a href="{{page.previous.url}}">[previous post]</a></li>
+      <a href="{{page.previous.url}}" id="next-prev-left">previous post</a></li>
     {% endunless %}
-    {% if page.previous.url == page.url %}
-      <li>[no previous post]</li>
-    {% endif %}
-    <li><a href="" id="randoLink">[random post]</a>{% include random-post.html %}</li>
+
+    <span class="next-prev-cent">
+    <a href="" id="randoLink">random post</a>{% include random-post.html %}
+    </span>
+
+    <span class="next-prev-right">
     {% unless page.next.url == post.url %}
-      <li><a href="{{page.next.url}}">[next post]</a></li>
+      <a href="{{page.next.url}}">next post</a>
     {% endunless %}
-    {% if page.next.url == post.url %}
-      <li>[no next post]</li>
-    {% endif %}
-  </ul>
+    </span>
+
+  </p>
+</section>
 </div>
+
+<section class="next-previous-links-mobile">
+  <p>
+    {% unless page.previous.url == page.url %}
+      <a href="{{page.previous.url}}">previous post</a>
+    {% endunless %}
+
+    <br><br>
+
+    <a href="" id="randoLink">random post</a>{% include random-post.html %}
+
+    <br><br>
+
+    {% unless page.next.url == post.url %}
+      <a href="{{page.next.url}}">next post</a>
+    {% endunless %}
+  </p>
+</section>
