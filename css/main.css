@@ -40,18 +40,18 @@ h1, h2, h3 {
 
 h1 {
   font-size: 32px;
-  line-height: 32px;
+  line-height: 34px;
   margin: 0px 0px 0px 0px;
 }
 
 h2 {
   font-size: 24px;
-  line-height: 24px;
+  line-height: 26px;
 }
 
 h3 {
   font-size: 18px;
-  line-height: 18px;
+  line-height: 20px;
 }
 
 blockquote {
@@ -108,7 +108,7 @@ nav a {
   color: white;
 }
 
-/* header section */
+/* header styling */
 
 header {
   width: 540px;
@@ -116,7 +116,7 @@ header {
   font-family: verdana, sans-serif;
 }
 
-/* footer settings */
+/* footer styling */
 
 footer {
   width: 100%;
@@ -155,10 +155,10 @@ footer p {
   padding: 0px 0px 0px 0px;
 }
 
-/* Blog post styling */
+/* blog post styling */
 
 .post-date-tags {
-  color: gray;
+  color: dimgray;
 }
 
 .blog-post-content:first-letter {
@@ -168,6 +168,10 @@ footer p {
 .blog-post-content:first-line {
   font-weight: bold;
 }
+
+.blog-post-content img {
+    max-width: 100%;
+  }
 
 .next-previous-links {
   font-family: Courier, monospace;
@@ -191,12 +195,8 @@ footer p {
 
 .blog-listing {
   width: 540px;
-  border: solid;
-  border-color: #7d7d7d;
-  border-width: 1px;
   margin: 0px auto 35px auto;
-  padding: 10px 15px 10px 15px;
-  background-color: #F5F5F5;
+  padding: 0px 0px 0px 0px;
   font-family: verdana, sans-serif;
 }
 
@@ -210,7 +210,7 @@ footer p {
 }
 
 .blog-listing header p {
-  color: gray;
+  color: dimgray;
   margin: 6px 0px 0px 0px;
 }
 
@@ -218,57 +218,7 @@ footer p {
   margin: auto auto auto auto;
 }
 
-/* end of clean area */
-
-.page-header {
-  height: 60px;
-  text-align: center;
-  margin: 0px auto 0px auto;
-}
-
-.description-of-post {
-  font-size: 18px;
-  font-weight: normal;
-}
-
-.post-content {
-  width: 650px;
-  margin: 0px auto 0px auto;
-  padding: 0px 30px 0px 30px;
-  border: solid;
-  border-color: #7d7d7d;
-  border-width: 1px;
-  background-color: #F5F5F5;
-}
-
-.post-content h1 {
-  margin: 0px 0px 0px 0px;
-}
-
-.post-content img {
-  max-width: 100%;
-}
-
-.blog-listing-description {
-  font-size: 18px;
-  line-height: 24px;
-  text-align: left;
-  margin: 0px 0px -5px 0px;
-  font-weight: normal;
-}
-
-.blog-listing-date {
-  color: gray;
-  font-size: 14px;
-  line-height: 20px;
-  font-weight: 100;
-  margin: 0px 0px 0px 0px;
-}
-
-
-#tagline {
-  font-size: 20px;
-}
+/* misc */
 
 .clicky {
   display: none;
@@ -278,10 +228,13 @@ footer p {
   display: none;
 }
 
+
+/* mobile version */
+
 @media screen and (max-width: 790px) {
 
   main, header, article, aside {
-    width: auto;
+    width: 98%;
     padding: 0px 0px 0px 0px;
   }
 
