@@ -301,7 +301,7 @@ footer p {
   }
 
   .post {
-    width: 95%;
+    width: 100%;
     margin: 0 auto 0 auto;
     max-width: 540px;
     padding-top: 10px;
@@ -346,6 +346,21 @@ footer p {
   .blog-listing {
     padding: 10px 10px 10px 10px;
     width: 95%;
+  }
+
+}
+
+@media screen and (max-width: 550px) {
+
+  main {
+    width: 95%;
+  }
+
+  .post {
+    width: 95%;
+    margin: 0 auto 0 auto;
+    max-width: 540px;
+    padding-top: 10px;
   }
 
 }
