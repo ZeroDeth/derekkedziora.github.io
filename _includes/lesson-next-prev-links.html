@@ -1,0 +1,14 @@
+<div class="next-previous-links">
+  <ul>
+    {% unless page.no-previous == true %}
+      <li><a href="{{page.previous.url}}">previous</a></li>
+    {% endunless %}
+
+    <li><a href="/lessons#topics">index</a></li>
+
+    {% unless page.no-next == true %}
+      <li><a href="{{page.next.url}}">next</a></li>
+    {% endunless %}
+
+  </ul>
+</div>
