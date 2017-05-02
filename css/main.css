@@ -240,7 +240,8 @@ footer p {
 
 .next-previous-links {
   font-family: Courier, monospace;
-  margin-bottom: 65px;
+  margin: 0px auto 65px auto;
+  width: 540px;
 }
 
 .next-previous-links a {

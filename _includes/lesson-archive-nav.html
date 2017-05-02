@@ -1,14 +1,15 @@
-<div class="next-previous-links">
-  <ul>
-    {% unless page.no-previous == true %}
-      <li><a href="{{page.previous.url}}">previous</a></li>
+<aside class="next-previous-links">
+
+    <span class="previous-link">
+    {% unless page.previous.url == lesson-archive.url %}
+      <a href="{{page.previous.url}}">previous</a>
     {% endunless %}
+    </span>
 
-    <li><a href="/lesson-archives/">index</a></li>
-
-    {% unless page.no-next == true %}
-      <li><a href="{{page.next.url}}">next</a></li>
+    <span class="next-link">
+    {% unless page.next.url == lesson-arvhice.url %}
+      <a href="{{page.next.url}}">next</a>
     {% endunless %}
+    </span>
 
-  </ul>
-</div>
+</aside>
