@@ -10,6 +10,8 @@ permalink: /sitemap
 
 [about](/about)
 
+- [contact me](/contact) 
+	- CV: [web](/cv) / [PDF](/pages/cv-kedziora.pdf)
 - [now](/now)
 - [use](/use)
 - [daily reading](/daily-reading)
@@ -19,6 +21,7 @@ permalink: /sitemap
 
 [projects](/projects)
 
-- CV: [web](/cv) / [PDF](/pages/cv-kedziora.pdf)
-- [current lessons](/lessons)
-- [lesson archives](/lesson-archives) 
+- [Lessons for Advanced Groups](/lessons)
+- [Discussion Topics](/lesson-archives) 
+
+[contact me](/contact) 

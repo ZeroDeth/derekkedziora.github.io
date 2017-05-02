@@ -6,15 +6,15 @@ og-type: website
 permalink: /about
 ---
 
-## Hipster Style Pages
+## Quick Info 
 
-What I'm doing [now][0], things I [use][1], what I [regularly read][2] and  my [favorite books][3].
+[Contact me](/contact). What I'm doing [now][0], things I [use][1], what I [regularly read][2] and  my [favorite books][3].
 
 ## My Story
 
 I've had the good fortune to spend nearly my entire adult life traveling across Asia and Europe, teaching and working with language, and studying what I have a passion for such as languages, philosophy and technology.
 
-Over the past few years, I've become especially interested in Buddhism, mediation, health and fitness, voraciously reading, finding flow states and a modern take on minimalism.  
+Over the past few years, I've become especially interested in mediation, health and fitness, voraciously reading, finding flow states and a modern take on minimalism.  
 
 I grew up in Arizona but have settled in Ukraine for now. Between the two, I've made long stops in Kyrgyzstan, China and Saudi Arabia.
 

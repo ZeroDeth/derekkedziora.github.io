@@ -18,11 +18,17 @@ defaults:
       type: "lesson-archives"
     values:
       layout: "lesson-archive"
+  -
+    scope:
+      path: ""
+      type: "lessons"
+    values:
+      layout: "lesson"
 
 collections:
   lessons:
     output: true
-    lessons: lessons/:title
+    permalink: lessons/:title
 
   lesson-archives:
       output: true

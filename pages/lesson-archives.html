@@ -1,11 +1,19 @@
 ---
-layout: page
-title: Lesson Archives
+layout: blank
+title: Discussion Topics
 description: Forty conversation lessons designed around reading and listening topics
 og-type: website
 permalink: /lesson-archives/
 ---
 
+<main>
+  <header>
+    <h1 class="centered-element">{{ page.title }}</h1>
+      <p>{{ page.description }}</p>
+  <header>
+
 {% for lesson-archive in site.lesson-archives reversed  %}
   {%include lesson-archive-listing.html %}
 {% endfor %}
+
+</main>

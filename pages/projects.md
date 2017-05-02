@@ -5,29 +5,22 @@ description: 'What I do for a living: a mix of editing, teaching, translating an
 permalink: /projects
 ---
 
-Now that I'm a full-time editor, my plate is mostly full. I'm still interested in the occasional freelance gig, though.  
+My main job is editing marketing materials for an IT company. I do side projects for a bit of variety and to keep my teaching skills sharp.  
 
 ## Teaching 
 
-I'm a [CELTA][0] certified teacher with classroom experience in Ukraine, China and Saudi Arabia.  
+[Lessons for Advanced Groups][0]: ongoing lessons for advanced students interested in professional topics. 
 
-I teach one advanced group and work with individual students for specific tasks such as interviews or writing assignments. 
+[Discussion Topics][1]: forty lessons that I've used with students in the past. 
 
-My goal with the advanced group is to delve deeper into topics and focus more on reflection and writing than a traditional language classroom would allow. Here is our [lesson page][1]. 
+[Contact me][2] if you're interested in joining one of my English groups or individual lessons. 
 
-My [lesson archive][2] page has forty discussion topics that I used as lessons during 2016. 
+## Editing and Translating 
 
-## Editing, Writing and Translating 
+I also edit, write and do Russian to English translations. 
 
-I also edit, write and translate (Russian to English). Contact me if you are interested in these services. 
-
-## My Full CV 
-
-You can view my full CV [online][3] or download it as a [PDF][4].
-
-
-[0]: https://en.wikipedia.org/wiki/CELTA 
-[1]: /lessons
-[2]: /lesson-archives 
+[0]: /lessons
+[1]: /lesson-archives 
+[2]: /contact 
 [3]: /cv
 [4]: /pages/cv-kedziora.pdf

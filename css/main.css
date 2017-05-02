@@ -133,7 +133,7 @@ footer p {
   margin: 0px 0px 0px 0px;
 }
 
-/* site wide styling for specific classes */
+/* site wide styling for classes */
 
 .centered-element {
   text-align: center;
@@ -177,27 +177,6 @@ footer p {
     max-width: 100%;
   }
 
-.next-previous-links {
-  font-family: Courier, monospace;
-  width: 540px;
-  margin: 24px auto 24px auto;
-}
-
-.next-previous-links a {
-  text-decoration: none;
-  color: black;
-}
-
-.next-previous-links li {
-  display: inline;
-  padding: 0% 2.5% 0% 2.5%;
-}
-
-.next-previous-links ul {
-  padding-left: 0px;
-  text-align: center;
-}
-
 /* blog listing */
 
 .blog-listing {
@@ -223,6 +202,29 @@ footer p {
 
 .blog-listing h2 {
   margin: auto auto auto auto;
+}
+
+/* next previous links */ 
+
+.next-previous-links {
+  font-family: Courier, monospace;
+  width: 540px;
+  margin: 24px auto 24px auto;
+}
+
+.next-previous-links a {
+  text-decoration: none;
+  color: black;
+}
+
+.next-previous-links li {
+  display: inline;
+  padding: 0% 2.5% 0% 2.5%;
+}
+
+.next-previous-links ul {
+  padding-left: 0px;
+  text-align: center;
 }
 
 /* misc */

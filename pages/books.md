@@ -8,14 +8,6 @@ permalink: /books
 
 I've organized ideas, lectures, digital media and a few books that have either changed how I live or caused me to stop and think. 
 
-## Meditation and Buddhism 
-
-[Thanissaro Bhikkhu's recommendations][0] are a logical place to start. The short guided meditations are suitable for beginners and seasoned meditators alike. His books and talks range from the practical to the scholarly. 
-
-The [Thai Forrest Sangha][1] in the lineage of Ajahn Chah has a vast collection of short talks, guided meditations and books.
-
-[Ajahn Buddhadasa's][2] book on breath meditation is a wonderful guide to the [Anapanasati Sutta][3]. 
-
 ## The Black Swan and Antifragile 
 
 [Taleb][4] somehow touches on economics, risk, deadlifting, art, war and pretty much everything else under the sun. A lot more of our world is due to chance than we realize, cognitive biases obscure our ability to observe reality objectively and many of our 'safe bets' are far riskier than we assume. 
@@ -37,6 +29,14 @@ Hemingway's [The Sun Also Rises][9] has a lot to unpack from authenticity, to es
 [Robert Anton Wilson][13] introduced me to some fundamental concepts to how I see the world from [reality tunnels][14], to [the map and territory problem][15] to [E-Prime][16]. *Quantum Psychology* covers all of these topics. 
 
 [The Outer Limits of Reason][17] is a more sober and insider look at the limits of science, logic and knowledge. Not far removed from here is the concept of [fictionalism][18] - that math and other 'true' abstractions are merely useful tools but not inherently real in any sense. 
+ 
+## Meditation and Buddhism 
+
+[Thanissaro Bhikkhu's recommendations][0] are a logical place to start. The short guided meditations are suitable for beginners and seasoned meditators alike. His books and talks range from the practical to the scholarly. 
+
+The [Thai Forrest Sangha][1] in the lineage of Ajahn Chah has a vast collection of short talks, guided meditations and books.
+
+[Ajahn Buddhadasa's][2] book on breath meditation is a wonderful guide to the [Anapanasati Sutta][3].  
  
 [0]: http://www.dhammatalks.org/recommended.html  
 [1]: https://forestsangha.org/teachings/audio
