@@ -274,13 +274,14 @@ footer p {
 
 /* mobile version */
 
-@media screen and (max-width: 790px) {
+@media screen and (max-width: 1023px) {
 
   main, header, article, aside {
     width: auto;
     padding: 0px 0px 0px 0px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 540px;
   }
 
   .desktop-only {
@@ -300,16 +301,23 @@ footer p {
   }
 
   .post {
-    width: auto;
+    width: 100%;
+    margin: 0 auto 0 auto;
+    max-width: 540px;
+    padding-top: 10px;
   }
 
   .post-main {
     width: auto;
-    margin: 0px 5px 0px 5px;
+    max-width: 540px;
+    margin: 0px;
   }
 
   .related-posts {
-    width: auto;
+    width: 100%;
+    max-width: 540px;
+    margin: 0px 0px 50px 0px;
+    padding: 0px;
   }
 
   #blog-index {
@@ -321,11 +329,14 @@ footer p {
   }
 
   .blog-nav{
+      width: 100%;
+      max-width: 540px;
       margin-bottom: 75px;
   }
 
   .next-previous-links {
     width: auto;
+    margin: 15px 0px 50px 0px;
   }
 
   .next-previous-links li {
