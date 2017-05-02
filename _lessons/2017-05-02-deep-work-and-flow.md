@@ -3,7 +3,7 @@ title: Deep Work and Flow
 description: Maximixing flow states and deep work can give meaning and joy to life and mprove productivity - with some caveats though 
 no-next: true
 ---
-Flow is the psychological state of intense concentration popularized by Mihaly Czikszsentmihaly. Here’s a [five minute primer][0].
+Flow is the psychological state of intense concentration popularized by Mihaly Czikszsentmihaly. Here’s a [five minute crash course][0].
  
 Our topic centers around the main ideas from the two books:
 
@@ -14,7 +14,7 @@ Our topic centers around the main ideas from the two books:
  
  *The Rise of Superman: Decoding the Science of Ultimate Human Performance*
 
-[Twenty-minute overview][3]
+[Twenty-minute overview][3]  
 [Steve Kotler about the book][4]
 
 **Ideas to start the discussion**
