@@ -4,7 +4,9 @@
 
   {% include navbar.html %}
 
-<main>
+<div class="post">
+
+<main class="post-main">
   <article>
     <header>
       <h1>{{ page.title }}</h1>
@@ -16,16 +18,14 @@
 
       <div class="blog-post-content long-content">
         {{ content }}
+        {% include next-previous-links.html %}
       </div>
-
-
   </article>
-
-  {% include next-previous-links.html %}
-
-  {% include related-posts.html %}
-
 </main>
+
+{% include related-posts.html %}
+
+</div>
 
   {% include footer.html %}
 

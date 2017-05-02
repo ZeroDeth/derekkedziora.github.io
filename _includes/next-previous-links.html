@@ -1,24 +1,14 @@
-<section class="next-previous-links">
-  <ul>
-    <span class="no-wrap">
+<aside class="next-previous-links">
+    <span class="previous-link">
     {% unless page.previous.url == page.url %}
-      <li><a href="{{page.previous.url}}" id="next-prev-left">previous</a></li>
+      <a href="{{page.previous.url}}">previous</a>
     {% endunless %}
     </span>
 
-    <span class="no-wrap">
-    <li><a href="/blog">index</a></li>
-    </span>
-
-    <span class="no-wrap">
-    <li><a href="" id="randoLink">random</a>{% include random-post.html %}</li>
-    </span>
-
-    <span class="no-wrap">
+    <span class="next-link">
     {% unless page.next.url == post.url %}
-      <li><a href="{{page.next.url}}">next</a></li>
+      <a href="{{page.next.url}}">next</a>
     {% endunless %}
     </span>
 
-  </ul>
-</section>
+</aside>
