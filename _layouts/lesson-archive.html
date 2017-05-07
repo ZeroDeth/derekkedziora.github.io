@@ -5,7 +5,9 @@
 
 {% include navbar.html %}
 
-<main>
+<div class="post">
+
+<main class="post-main">
     <article>
       <header>
         <h1>{{ page.title }}</h1>
@@ -18,9 +20,33 @@
 
 
     </article>
+
+    <aside class="next-previous-links">
+
+        <span class="previous-link">
+        {% unless page.previous.url == lesson-archive.url %}
+          <a href="{{page.previous.url}}">previous</a>
+        {% endunless %}
+        </span>
+
+        <span class="next-link">
+        {% unless page.next.url == lesson-arvhice.url %}
+          <a href="{{page.next.url}}">next</a>
+        {% endunless %}
+        </span>
+
+    </aside>
+
 </main>
 
-{% include lesson-archive-nav.html %}
+  <div class="related-posts">
+    <aside class="blog-nav">
+      <p id="blog-index"><a href="/lessons-archvives">topics index</a></p>
+      <p id="random-post"><a href="/projects">teaching page</a></p>
+    </aside>
+  </div>
+
+</div>
 
 {% include footer.html %}
 {% include clicky.html %}
